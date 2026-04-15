@@ -1,0 +1,301 @@
+id_solicitud,estado,municipio,lat,lon,fecha_solicitud,mes,edad,estatus_laboral,tipo_contrato,antiguedad_laboral_anios,saldo_cuenta_mxn,ingresos_mensuales_mxn,Score_Final,Aprobado
+1,Nuevo León,Monterrey,25.672291,-100.302323,1/2/2026,Enero,25,Empleado,Temporal,5,55800,20600,110.8,Aprobado
+2,Nuevo León,Pesquería,25.752387,-100.003896,1/2/2026,Enero,27,Emprendedor,Temporal,3,40500,33600,75.5,Aprobado
+3,Nuevo León,Pesquería,25.754946,-100.018548,1/2/2026,Enero,18,Empleado,Temporal,0,56100,15800,61.1,Rechazado
+4,Nuevo León,Monterrey,25.693533,-100.326446,1/2/2026,Enero,20,Empleado,Temporal,0,39500,14100,44.5,Rechazado
+5,Nuevo León,García,25.807071,-100.586829,1/2/2026,Enero,23,Empleado,Indefinido,1,27000,13700,57,Rechazado
+6,Nuevo León,San Nicolás de los Garza,25.750718,-100.316557,1/3/2026,Enero,26,Empleado,Indefinido,9,38100,30400,148.1,Aprobado
+7,Nuevo León,Linares,24.870078,-99.583166,1/3/2026,Enero,22,Emprendedor,Temporal,0,4900,8200,9.9,Rechazado
+8,Nuevo León,General Escobedo,25.790526,-100.351746,1/4/2026,Enero,23,Empleado,Temporal,2,15600,20300,40.6,Rechazado
+9,Nuevo León,Guadalupe,25.668235,-100.242839,1/4/2026,Enero,19,Empleado,Temporal,0,32600,22400,37.6,Rechazado
+10,Nuevo León,Apodaca,25.769473,-100.192216,1/4/2026,Enero,25,Empleado,Temporal,2,25300,15000,50.3,Rechazado
+11,Nuevo León,Cadereyta Jiménez,25.599545,-100.018968,1/4/2026,Enero,22,Emprendedor,Temporal,3,5500,9500,40.5,Rechazado
+12,Nuevo León,García,25.811711,-100.602441,1/4/2026,Enero,27,Empleado,Indefinido,2,2600,13500,42.6,Rechazado
+13,Nuevo León,Santa Catarina,25.694641,-100.474848,1/5/2026,Enero,22,Empleado,Indefinido,1,12500,23600,42.5,Rechazado
+14,Nuevo León,Apodaca,25.763589,-100.200077,1/5/2026,Enero,23,Empleado,Temporal,3,9500,9300,44.5,Rechazado
+15,Nuevo León,Monterrey,25.709267,-100.344299,1/5/2026,Enero,22,Empleado,Indefinido,3,35800,30500,85.8,Aprobado
+16,Nuevo León,Monterrey,25.716247,-100.319355,1/5/2026,Enero,19,Emprendedor,Temporal,2,15700,16400,40.7,Rechazado
+17,Nuevo León,Carmen,25.678652,-100.068458,1/6/2026,Enero,18,Empleado,Indefinido,2,52600,30200,92.6,Aprobado
+18,Nuevo León,Guadalupe,25.691325,-100.228273,1/6/2026,Enero,27,Empleado,Temporal,2,51200,19100,76.2,Aprobado
+19,Nuevo León,Juárez,25.657931,-100.078935,1/6/2026,Enero,27,Empleado,Temporal,7,7300,11600,82.3,Rechazado
+20,Nuevo León,Santa Catarina,25.654713,-100.464651,1/6/2026,Enero,22,Empleado,Indefinido,4,18400,18000,78.4,Aprobado
+21,Nuevo León,Apodaca,25.768314,-100.210468,1/6/2026,Enero,25,Empleado,Indefinido,4,13600,14700,73.6,Aprobado
+22,Nuevo León,General Zuazua,25.898349,-100.105116,1/6/2026,Enero,20,Emprendedor,Temporal,3,37800,14100,72.8,Aprobado
+23,Nuevo León,Monterrey,25.686608,-100.330556,1/7/2026,Enero,26,Empleado,Indefinido,4,15000,11700,75,Rechazado
+24,Nuevo León,García,25.834348,-100.595048,1/7/2026,Enero,24,Empleado,Indefinido,3,54900,42200,104.9,Aprobado
+25,Nuevo León,Linares,24.864907,-99.581043,1/7/2026,Enero,21,Empleado,Temporal,3,7000,17200,42,Rechazado
+26,Nuevo León,Ciénega de Flores,26.004104,-100.192866,1/7/2026,Enero,19,Emprendedor,Temporal,3,18200,19800,53.2,Rechazado
+27,Nuevo León,Juárez,25.647189,-100.115637,1/7/2026,Enero,19,Emprendedor,Temporal,0,13800,17500,18.8,Rechazado
+28,Nuevo León,San Nicolás de los Garza,25.742037,-100.325167,1/7/2026,Enero,24,Empleado,Temporal,0,19800,19900,24.8,Rechazado
+29,Nuevo León,General Escobedo,25.811995,-100.328376,1/7/2026,Enero,22,Empleado,Temporal,6,40200,17000,105.2,Aprobado
+30,Nuevo León,Santiago,25.434161,-100.138316,1/8/2026,Enero,19,Empleado,Temporal,1,25500,19500,40.5,Rechazado
+31,Nuevo León,Monterrey,25.665906,-100.326263,1/9/2026,Enero,27,Empleado,Temporal,1,8400,14000,23.4,Rechazado
+32,Nuevo León,Guadalupe,25.686737,-100.264997,1/9/2026,Enero,18,Empleado,Indefinido,2,96100,26000,136.1,Aprobado
+33,Nuevo León,Juárez,25.635037,-100.107249,1/9/2026,Enero,24,Empleado,Temporal,2,38800,19700,63.8,Rechazado
+34,Nuevo León,Santiago,25.423219,-100.153824,1/9/2026,Enero,18,Empleado,Temporal,1,37800,11300,52.8,Rechazado
+35,Nuevo León,Monterrey,25.681834,-100.312509,1/10/2026,Enero,19,Empleado,Indefinido,2,39500,35700,79.5,Aprobado
+36,Nuevo León,General Escobedo,25.779687,-100.353299,1/10/2026,Enero,21,Empleado,Temporal,3,33900,14400,68.9,Rechazado
+37,Nuevo León,Monterrey,25.679549,-100.317982,1/11/2026,Enero,21,Empleado,Temporal,5,29500,18200,84.5,Aprobado
+38,Nuevo León,Monterrey,25.671997,-100.317174,1/11/2026,Enero,18,Empleado,Temporal,0,13100,8700,18.1,Rechazado
+39,Nuevo León,Guadalupe,25.639065,-100.25374,1/12/2026,Enero,26,Emprendedor,Indefinido,0,57100,19800,77.1,Aprobado
+40,Nuevo León,Guadalupe,25.658636,-100.259031,1/12/2026,Enero,21,Empleado,Indefinido,0,35100,20000,55.1,Rechazado
+41,Nuevo León,Monterrey,25.700493,-100.297563,1/12/2026,Enero,24,Empleado,Indefinido,4,62500,35000,122.5,Aprobado
+42,Nuevo León,Juárez,25.644758,-100.072731,1/13/2026,Enero,18,Emprendedor,Indefinido,0,2100,11700,22.1,Rechazado
+43,Nuevo León,Guadalupe,25.663969,-100.256948,1/13/2026,Enero,21,Empleado,Indefinido,0,23300,18300,43.3,Rechazado
+44,Nuevo León,Juárez,25.651483,-100.089736,1/13/2026,Enero,23,Empleado,Temporal,7,23100,19500,98.1,Aprobado
+45,Nuevo León,Monterrey,25.641307,-100.316184,1/13/2026,Enero,24,Emprendedor,Temporal,0,88500,31300,93.5,Aprobado
+46,Nuevo León,Monterrey,25.722789,-100.30039,1/14/2026,Enero,18,Empleado,Indefinido,2,46700,30000,86.7,Aprobado
+47,Nuevo León,Carmen,25.700449,-100.067188,1/14/2026,Enero,24,Emprendedor,Temporal,1,3700,11700,18.7,Rechazado
+48,Nuevo León,Guadalupe,25.679088,-100.270244,1/14/2026,Enero,25,Empleado,Temporal,6,11300,17900,76.3,Aprobado
+49,Nuevo León,Pesquería,25.744957,-100.005239,1/14/2026,Enero,24,Empleado,Indefinido,6,4500,33900,84.5,Aprobado
+50,Nuevo León,General Escobedo,25.801718,-100.320099,1/14/2026,Enero,22,Empleado,Indefinido,5,93800,35500,163.8,Aprobado
+51,Nuevo León,Juárez,25.665784,-100.101606,1/14/2026,Enero,20,Empleado,Temporal,0,29600,16200,34.6,Rechazado
+52,Nuevo León,Monterrey,25.691872,-100.328557,1/14/2026,Enero,21,Empleado,Temporal,5,45900,15900,100.9,Aprobado
+53,Nuevo León,Apodaca,25.793214,-100.174017,1/15/2026,Enero,24,Empleado,Indefinido,5,13700,13600,83.7,Aprobado
+54,Nuevo León,García,25.810087,-100.62279,1/16/2026,Enero,22,Emprendedor,Indefinido,0,49800,29200,69.8,Rechazado
+55,Nuevo León,Ciénega de Flores,26.001178,-100.176056,1/16/2026,Enero,21,Empleado,Temporal,3,35000,14000,70,Rechazado
+56,Nuevo León,Apodaca,25.772278,-100.176844,1/16/2026,Enero,27,Empleado,Temporal,3,11800,9900,46.8,Rechazado
+57,Nuevo León,General Zuazua,25.888449,-100.106812,1/16/2026,Enero,25,Empleado,Temporal,6,17300,10300,82.3,Rechazado
+58,Nuevo León,Juárez,25.646816,-100.095694,1/16/2026,Enero,22,Empleado,Temporal,4,26700,12200,71.7,Aprobado
+59,Nuevo León,General Escobedo,25.810466,-100.348078,1/16/2026,Enero,20,Empleado,Indefinido,3,60400,25400,110.4,Aprobado
+60,Nuevo León,Apodaca,25.782514,-100.205538,1/16/2026,Enero,27,Empleado,Temporal,6,26700,14500,91.7,Aprobado
+61,Nuevo León,Guadalupe,25.633394,-100.266908,1/16/2026,Enero,27,Empleado,Indefinido,5,46600,15900,116.6,Aprobado
+62,Nuevo León,Salinas Victoria,26.014396,-100.295569,1/16/2026,Enero,27,Empleado,Indefinido,3,18600,21000,68.6,Rechazado
+63,Nuevo León,Linares,24.871276,-99.555349,1/16/2026,Enero,26,Empleado,Indefinido,8,7100,35800,107.1,Aprobado
+64,Nuevo León,García,25.802599,-100.581088,1/18/2026,Enero,27,Empleado,Temporal,7,36700,17900,111.7,Aprobado
+65,Nuevo León,San Pedro Garza García,25.665834,-100.393497,1/18/2026,Enero,27,Empleado,Indefinido,1,43900,34300,73.9,Aprobado
+66,Nuevo León,Guadalupe,25.669338,-100.247318,1/18/2026,Enero,21,Empleado,Indefinido,3,45400,26400,95.4,Aprobado
+67,Nuevo León,Monterrey,25.687499,-100.309507,1/18/2026,Enero,22,Emprendedor,Indefinido,3,25300,24300,75.3,Aprobado
+68,Nuevo León,Juárez,25.674208,-100.112176,1/18/2026,Enero,25,Empleado,Indefinido,7,48000,27300,138,Aprobado
+69,Nuevo León,Montemorelos,25.177891,-99.848694,1/20/2026,Enero,26,Empleado,Indefinido,0,122900,39200,142.9,Aprobado
+70,Nuevo León,Linares,24.869733,-99.589548,1/20/2026,Enero,27,Empleado,Temporal,5,10600,11600,65.6,Rechazado
+71,Nuevo León,Monterrey,25.695428,-100.344895,1/20/2026,Enero,25,Empleado,Indefinido,6,53000,16300,133,Aprobado
+72,Nuevo León,Santa Catarina,25.673303,-100.465283,1/20/2026,Enero,21,Emprendedor,Temporal,4,8700,13000,53.7,Rechazado
+73,Nuevo León,Apodaca,25.783465,-100.182206,1/21/2026,Enero,21,Emprendedor,Temporal,1,11300,16400,26.3,Rechazado
+74,Nuevo León,San Nicolás de los Garza,25.745688,-100.297282,1/21/2026,Enero,23,Empleado,Indefinido,7,41400,37300,131.4,Aprobado
+75,Nuevo León,Monterrey,25.700897,-100.323066,1/21/2026,Enero,19,Empleado,Temporal,1,9300,16700,24.3,Rechazado
+76,Nuevo León,Apodaca,25.760242,-100.183543,1/21/2026,Enero,21,Empleado,Indefinido,5,136600,46900,206.6,Aprobado
+77,Nuevo León,Monterrey,25.684539,-100.33639,1/22/2026,Enero,24,Empleado,Indefinido,0,20800,19100,40.8,Rechazado
+78,Nuevo León,Monterrey,25.667698,-100.305869,1/22/2026,Enero,24,Empleado,Indefinido,5,22400,17200,92.4,Aprobado
+79,Nuevo León,San Nicolás de los Garza,25.735594,-100.320886,1/23/2026,Enero,22,Empleado,Indefinido,2,12300,19000,52.3,Rechazado
+80,Nuevo León,Guadalupe,25.683357,-100.282435,1/23/2026,Enero,20,Empleado,Temporal,4,29400,12200,74.4,Aprobado
+81,Nuevo León,San Nicolás de los Garza,25.734901,-100.288847,1/23/2026,Enero,22,Empleado,Indefinido,2,82100,33000,122.1,Aprobado
+82,Nuevo León,Santa Catarina,25.685159,-100.471996,1/23/2026,Enero,25,Emprendedor,Temporal,5,26600,16800,81.6,Aprobado
+83,Nuevo León,Santa Catarina,25.69371,-100.451233,1/23/2026,Enero,27,Empleado,Temporal,2,24100,10500,49.1,Rechazado
+84,Nuevo León,García,25.785464,-100.608905,1/23/2026,Enero,22,Empleado,Temporal,3,21100,14200,56.1,Rechazado
+85,Nuevo León,Santa Catarina,25.645302,-100.427252,1/24/2026,Enero,25,Empleado,Indefinido,1,35800,29400,65.8,Rechazado
+86,Nuevo León,Carmen,25.699952,-100.065645,1/25/2026,Enero,23,Empleado,Indefinido,5,71200,24000,141.2,Aprobado
+87,Nuevo León,San Pedro Garza García,25.681758,-100.367299,1/25/2026,Enero,21,Empleado,Temporal,4,28100,8900,73.1,Rechazado
+88,Nuevo León,Santa Catarina,25.681043,-100.461873,1/25/2026,Enero,19,Empleado,Indefinido,2,20200,14500,60.2,Rechazado
+89,Nuevo León,Apodaca,25.776072,-100.204987,1/25/2026,Enero,25,Empleado,Indefinido,2,70500,21300,110.5,Aprobado
+90,Nuevo León,Apodaca,25.782002,-100.178306,1/26/2026,Enero,26,Empleado,Indefinido,7,10100,28700,100.1,Aprobado
+91,Nuevo León,Monterrey,25.679225,-100.303363,1/26/2026,Enero,20,Empleado,Indefinido,3,43400,21200,93.4,Aprobado
+92,Nuevo León,Juárez,25.650104,-100.08967,1/26/2026,Enero,25,Empleado,Indefinido,6,4700,13700,84.7,Aprobado
+93,Nuevo León,Apodaca,25.790803,-100.183485,1/26/2026,Enero,26,Empleado,Temporal,0,12900,13000,17.9,Rechazado
+94,Nuevo León,Monterrey,25.666968,-100.290983,1/27/2026,Enero,23,Emprendedor,Temporal,6,32400,18600,97.4,Aprobado
+95,Nuevo León,General Escobedo,25.818707,-100.330423,1/27/2026,Enero,18,Empleado,Indefinido,2,56500,21300,96.5,Aprobado
+96,Nuevo León,Monterrey,25.696489,-100.308082,1/27/2026,Enero,20,Empleado,Temporal,1,6500,14300,21.5,Rechazado
+97,Nuevo León,Monterrey,25.676728,-100.305846,1/27/2026,Enero,24,Empleado,Temporal,5,33800,19100,88.8,Aprobado
+98,Nuevo León,Guadalupe,25.667787,-100.214821,1/28/2026,Enero,20,Empleado,Indefinido,3,41700,33800,91.7,Aprobado
+99,Nuevo León,Monterrey,25.697561,-100.320526,1/28/2026,Enero,26,Emprendedor,Temporal,7,67700,32000,142.7,Aprobado
+100,Nuevo León,Carmen,25.706499,-100.011451,1/29/2026,Enero,20,Empleado,Indefinido,1,120600,32100,150.6,Aprobado
+101,Nuevo León,Cadereyta Jiménez,25.591261,-99.960742,1/29/2026,Enero,27,Empleado,Indefinido,8,67300,49600,167.3,Aprobado
+102,Nuevo León,Monterrey,25.702441,-100.355163,2/2/2026,Febrero,21,Emprendedor,Indefinido,5,32500,23700,102.5,Aprobado
+103,Nuevo León,General Escobedo,25.809173,-100.321966,2/2/2026,Febrero,22,Empleado,Indefinido,0,46700,42700,66.7,Rechazado
+104,Nuevo León,García,25.796967,-100.612763,2/2/2026,Febrero,19,Emprendedor,Indefinido,1,60100,20400,90.1,Aprobado
+105,Nuevo León,Pesquería,25.77192,-99.99246,2/2/2026,Febrero,26,Emprendedor,Indefinido,4,51700,31300,111.7,Aprobado
+106,Nuevo León,General Escobedo,25.787125,-100.355087,2/2/2026,Febrero,25,Empleado,Indefinido,4,59900,22000,119.9,Aprobado
+107,Nuevo León,Juárez,25.678696,-100.099247,2/2/2026,Febrero,24,Empleado,Temporal,5,14500,10900,69.5,Rechazado
+108,Nuevo León,Linares,24.887465,-99.558541,2/3/2026,Febrero,23,Empleado,Temporal,3,18000,11400,53,Rechazado
+109,Nuevo León,Apodaca,25.791993,-100.189053,2/3/2026,Febrero,18,Empleado,Indefinido,0,64500,34100,84.5,Aprobado
+110,Nuevo León,General Zuazua,25.886396,-100.113643,2/3/2026,Febrero,19,Empleado,Indefinido,3,52200,40200,102.2,Aprobado
+111,Nuevo León,Carmen,25.673748,-100.049767,2/3/2026,Febrero,22,Empleado,Indefinido,2,26800,31300,66.8,Rechazado
+112,Nuevo León,San Nicolás de los Garza,25.752325,-100.314324,2/3/2026,Febrero,18,Empleado,Indefinido,2,10600,27000,50.6,Rechazado
+113,Nuevo León,San Nicolás de los Garza,25.757287,-100.303452,2/3/2026,Febrero,19,Empleado,Temporal,0,25500,14600,30.5,Rechazado
+114,Nuevo León,García,25.807202,-100.61079,2/4/2026,Febrero,19,Empleado,Indefinido,0,31400,15700,51.4,Rechazado
+115,Nuevo León,Juárez,25.636931,-100.088696,2/5/2026,Febrero,21,Emprendedor,Temporal,3,35900,25500,70.9,Aprobado
+116,Nuevo León,Santa Catarina,25.684463,-100.452588,2/5/2026,Febrero,18,Empleado,Temporal,0,64000,17200,69,Rechazado
+117,Nuevo León,San Nicolás de los Garza,25.747806,-100.295261,2/5/2026,Febrero,22,Emprendedor,Temporal,4,22300,23100,67.3,Rechazado
+118,Nuevo León,Linares,24.890754,-99.587179,2/5/2026,Febrero,25,Empleado,Indefinido,3,27800,23300,77.8,Aprobado
+119,Nuevo León,Santa Catarina,25.671208,-100.464302,2/5/2026,Febrero,23,Empleado,Indefinido,3,19800,20800,69.8,Rechazado
+120,Nuevo León,Apodaca,25.763732,-100.194961,2/6/2026,Febrero,24,Empleado,Indefinido,0,48200,16500,68.2,Rechazado
+121,Nuevo León,Apodaca,25.784228,-100.19458,2/6/2026,Febrero,18,Empleado,Indefinido,1,26800,24900,56.8,Rechazado
+122,Nuevo León,Apodaca,25.785838,-100.215344,2/6/2026,Febrero,19,Emprendedor,Indefinido,3,31800,37900,81.8,Aprobado
+123,Nuevo León,Apodaca,25.778993,-100.182376,2/6/2026,Febrero,18,Empleado,Temporal,2,46900,18600,71.9,Aprobado
+124,Nuevo León,San Pedro Garza García,25.642585,-100.398591,2/6/2026,Febrero,24,Empleado,Indefinido,7,19000,30600,109,Aprobado
+125,Nuevo León,Apodaca,25.799958,-100.208591,2/6/2026,Febrero,20,Empleado,Indefinido,4,14600,22500,74.6,Aprobado
+126,Nuevo León,Monterrey,25.700664,-100.302785,2/7/2026,Febrero,23,Empleado,Indefinido,4,40200,15900,100.2,Aprobado
+127,Nuevo León,Guadalupe,25.694382,-100.263675,2/7/2026,Febrero,24,Emprendedor,Temporal,1,10600,22300,25.6,Rechazado
+128,Nuevo León,Santa Catarina,25.664559,-100.435094,2/7/2026,Febrero,25,Empleado,Indefinido,1,18200,18300,48.2,Rechazado
+129,Nuevo León,García,25.788028,-100.599208,2/7/2026,Febrero,27,Empleado,Temporal,8,22500,21700,107.5,Aprobado
+130,Nuevo León,Guadalupe,25.675054,-100.249843,2/8/2026,Febrero,22,Empleado,Indefinido,6,53100,18800,133.1,Aprobado
+131,Nuevo León,Monterrey,25.695668,-100.307891,2/8/2026,Febrero,21,Empleado,Indefinido,4,41100,37400,101.1,Aprobado
+132,Nuevo León,Santa Catarina,25.670463,-100.442779,2/9/2026,Febrero,18,Empleado,Temporal,0,30600,21400,35.6,Rechazado
+133,Nuevo León,Pesquería,25.746789,-99.99632,2/9/2026,Febrero,25,Empleado,Temporal,2,23400,11600,48.4,Rechazado
+134,Nuevo León,Cadereyta Jiménez,25.578053,-100.012477,2/9/2026,Febrero,26,Empleado,Indefinido,2,72600,32200,112.6,Aprobado
+135,Nuevo León,Juárez,25.664302,-100.114365,2/9/2026,Febrero,21,Empleado,Indefinido,0,12500,26100,32.5,Rechazado
+136,Nuevo León,San Nicolás de los Garza,25.764702,-100.289306,2/9/2026,Febrero,20,Empleado,Temporal,2,19100,14000,44.1,Rechazado
+137,Nuevo León,Juárez,25.649485,-100.103691,2/9/2026,Febrero,26,Empleado,Temporal,6,22700,19900,87.7,Aprobado
+138,Nuevo León,Guadalupe,25.674576,-100.267163,2/10/2026,Febrero,24,Empleado,Indefinido,0,44600,46300,64.6,Rechazado
+139,Nuevo León,Apodaca,25.77839,-100.17845,2/10/2026,Febrero,23,Empleado,Indefinido,3,44800,39000,94.8,Aprobado
+140,Nuevo León,General Escobedo,25.801914,-100.314563,2/11/2026,Febrero,27,Empleado,Indefinido,2,27700,17800,67.7,Rechazado
+141,Nuevo León,Juárez,25.638265,-100.114586,2/11/2026,Febrero,24,Emprendedor,Temporal,1,57800,29700,72.8,Aprobado
+142,Nuevo León,General Escobedo,25.771642,-100.338459,2/11/2026,Febrero,20,Empleado,Temporal,2,38600,23300,63.6,Rechazado
+143,Nuevo León,Monterrey,25.6892,-100.335484,2/12/2026,Febrero,21,Empleado,Indefinido,1,29900,12000,59.9,Rechazado
+144,Nuevo León,García,25.806372,-100.607701,2/12/2026,Febrero,25,Empleado,Indefinido,5,54000,19200,124,Aprobado
+145,Nuevo León,Monterrey,25.678342,-100.315608,2/12/2026,Febrero,22,Emprendedor,Temporal,1,64100,36400,79.1,Aprobado
+146,Nuevo León,Monterrey,25.686894,-100.331395,2/13/2026,Febrero,23,Empleado,Indefinido,2,43400,20300,83.4,Aprobado
+147,Nuevo León,Apodaca,25.797803,-100.175344,2/14/2026,Febrero,18,Empleado,Temporal,1,17800,12400,32.8,Rechazado
+148,Nuevo León,Monterrey,25.692246,-100.326926,2/14/2026,Febrero,18,Empleado,Indefinido,0,11000,17700,31,Rechazado
+149,Nuevo León,Monterrey,25.663136,-100.320727,2/14/2026,Febrero,22,Empleado,Indefinido,0,47800,17400,67.8,Rechazado
+150,Nuevo León,Linares,24.848514,-99.57286,2/15/2026,Febrero,21,Empleado,Temporal,1,22600,9500,37.6,Rechazado
+151,Nuevo León,Guadalupe,25.680271,-100.237801,2/15/2026,Febrero,26,Empleado,Indefinido,4,53100,16000,113.1,Aprobado
+152,Nuevo León,Monterrey,25.694417,-100.297563,2/15/2026,Febrero,22,Empleado,Indefinido,1,92300,26700,122.3,Aprobado
+153,Nuevo León,Monterrey,25.690061,-100.326836,2/15/2026,Febrero,23,Empleado,Indefinido,5,34300,47000,104.3,Aprobado
+154,Nuevo León,Pesquería,25.768152,-99.991862,2/15/2026,Febrero,26,Emprendedor,Indefinido,1,61400,23400,91.4,Aprobado
+155,Nuevo León,General Escobedo,25.794002,-100.325128,2/15/2026,Febrero,21,Emprendedor,Temporal,2,101000,37000,126,Aprobado
+156,Nuevo León,Guadalupe,25.677219,-100.275909,2/16/2026,Febrero,27,Empleado,Temporal,2,6500,26900,31.5,Rechazado
+157,Nuevo León,General Escobedo,25.781745,-100.337672,2/16/2026,Febrero,18,Emprendedor,Temporal,0,128000,36500,133,Aprobado
+158,Nuevo León,Juárez,25.646208,-100.12909,2/16/2026,Febrero,21,Emprendedor,Temporal,3,10100,15100,45.1,Rechazado
+159,Nuevo León,Salinas Victoria,25.986252,-100.280846,2/16/2026,Febrero,27,Empleado,Indefinido,9,27600,11000,137.6,Rechazado
+160,Nuevo León,Carmen,25.706959,-100.047754,2/16/2026,Febrero,23,Empleado,Temporal,6,25400,9600,90.4,Rechazado
+161,Nuevo León,Apodaca,25.770363,-100.185249,2/16/2026,Febrero,22,Empleado,Temporal,6,5500,10100,70.5,Rechazado
+162,Nuevo León,Ciénega de Flores,25.980396,-100.142665,2/16/2026,Febrero,22,Empleado,Temporal,0,32900,19500,37.9,Rechazado
+163,Nuevo León,General Escobedo,25.791572,-100.313421,2/16/2026,Febrero,27,Empleado,Temporal,4,7500,15000,52.5,Rechazado
+164,Nuevo León,Guadalupe,25.676364,-100.281345,2/16/2026,Febrero,26,Emprendedor,Indefinido,9,78500,39300,188.5,Aprobado
+165,Nuevo León,General Zuazua,25.892986,-100.13371,2/17/2026,Febrero,26,Empleado,Indefinido,4,41800,34200,101.8,Aprobado
+166,Nuevo León,Juárez,25.634864,-100.1281,2/18/2026,Febrero,27,Empleado,Temporal,5,20300,14500,75.3,Aprobado
+167,Nuevo León,Monterrey,25.675007,-100.306105,2/18/2026,Febrero,24,Emprendedor,Temporal,8,84200,33400,169.2,Aprobado
+168,Nuevo León,Monterrey,25.692988,-100.320284,2/18/2026,Febrero,21,Empleado,Indefinido,5,107400,32600,177.4,Aprobado
+169,Nuevo León,Juárez,25.645651,-100.107556,2/18/2026,Febrero,20,Empleado,Temporal,2,12000,10300,37,Rechazado
+170,Nuevo León,Salinas Victoria,25.996894,-100.302681,2/19/2026,Febrero,25,Empleado,Indefinido,2,64600,22200,104.6,Aprobado
+171,Nuevo León,Pesquería,25.739844,-100.002448,2/19/2026,Febrero,19,Empleado,Indefinido,2,39000,25600,79,Aprobado
+172,Nuevo León,García,25.798772,-100.577976,2/20/2026,Febrero,21,Emprendedor,Indefinido,2,51200,29800,91.2,Aprobado
+173,Nuevo León,General Escobedo,25.807034,-100.31053,2/20/2026,Febrero,20,Empleado,Temporal,0,20500,20300,25.5,Rechazado
+174,Nuevo León,Guadalupe,25.684586,-100.271981,2/20/2026,Febrero,18,Empleado,Temporal,1,32500,12800,47.5,Rechazado
+175,Nuevo León,Apodaca,25.770459,-100.161772,2/20/2026,Febrero,27,Emprendedor,Indefinido,7,11600,19200,101.6,Aprobado
+176,Nuevo León,Monterrey,25.681859,-100.294373,2/20/2026,Febrero,20,Empleado,Indefinido,3,32200,15700,82.2,Aprobado
+177,Nuevo León,Guadalupe,25.687076,-100.247154,2/21/2026,Febrero,27,Empleado,Temporal,9,35500,18300,130.5,Aprobado
+178,Nuevo León,Juárez,25.643495,-100.108571,2/21/2026,Febrero,26,Empleado,Indefinido,5,37700,20800,107.7,Aprobado
+179,Nuevo León,Guadalupe,25.679028,-100.261572,2/21/2026,Febrero,24,Empleado,Indefinido,2,78700,40300,118.7,Aprobado
+180,Nuevo León,Juárez,25.656248,-100.113024,2/21/2026,Febrero,20,Empleado,Indefinido,1,36700,32100,66.7,Rechazado
+181,Nuevo León,Guadalupe,25.688296,-100.26457,2/22/2026,Febrero,26,Empleado,Indefinido,0,59600,37000,79.6,Aprobado
+182,Nuevo León,General Escobedo,25.803976,-100.349916,2/22/2026,Febrero,27,Empleado,Indefinido,8,11500,17200,111.5,Aprobado
+183,Nuevo León,General Escobedo,25.822317,-100.323746,2/23/2026,Febrero,24,Empleado,Indefinido,1,28000,17200,58,Rechazado
+184,Nuevo León,Monterrey,25.668759,-100.290998,2/23/2026,Febrero,21,Empleado,Indefinido,3,13100,25800,63.1,Rechazado
+185,Nuevo León,Linares,24.867718,-99.561999,2/24/2026,Febrero,27,Emprendedor,Indefinido,4,29800,27200,89.8,Aprobado
+186,Nuevo León,Apodaca,25.792673,-100.193711,2/24/2026,Febrero,22,Empleado,Indefinido,0,30000,18500,50,Rechazado
+187,Nuevo León,Apodaca,25.757886,-100.184287,2/24/2026,Febrero,27,Emprendedor,Indefinido,3,22700,21700,72.7,Aprobado
+188,Nuevo León,García,25.775418,-100.607037,2/24/2026,Febrero,26,Empleado,Indefinido,4,57900,18900,117.9,Aprobado
+189,Nuevo León,San Pedro Garza García,25.669942,-100.393711,2/24/2026,Febrero,24,Empleado,Temporal,6,31900,16400,96.9,Aprobado
+190,Nuevo León,Juárez,25.659206,-100.069717,2/24/2026,Febrero,23,Empleado,Temporal,1,17000,17000,32,Rechazado
+191,Nuevo León,Monterrey,25.684432,-100.331071,2/24/2026,Febrero,21,Empleado,Indefinido,2,12300,14000,52.3,Rechazado
+192,Nuevo León,Guadalupe,25.657312,-100.241421,2/25/2026,Febrero,20,Empleado,Indefinido,4,23300,28600,83.3,Aprobado
+193,Nuevo León,Monterrey,25.704434,-100.31482,2/25/2026,Febrero,22,Emprendedor,Indefinido,4,49900,22800,109.9,Aprobado
+194,Nuevo León,Guadalupe,25.677102,-100.253324,2/25/2026,Febrero,18,Emprendedor,Temporal,2,49400,25500,74.4,Aprobado
+195,Nuevo León,García,25.794288,-100.590419,2/25/2026,Febrero,24,Empleado,Indefinido,4,21900,13100,81.9,Aprobado
+196,Nuevo León,Carmen,25.717781,-100.060438,2/25/2026,Febrero,20,Emprendedor,Temporal,4,6800,11200,51.8,Rechazado
+197,Nuevo León,Santa Catarina,25.676058,-100.448069,2/26/2026,Febrero,18,Empleado,Indefinido,2,29000,21800,69,Rechazado
+198,Nuevo León,General Zuazua,25.885259,-100.094273,2/26/2026,Febrero,18,Empleado,Temporal,1,23800,13200,38.8,Rechazado
+199,Nuevo León,García,25.821839,-100.609136,2/26/2026,Febrero,23,Empleado,Indefinido,5,43800,19700,113.8,Aprobado
+200,Nuevo León,Apodaca,25.77197,-100.176502,2/26/2026,Febrero,24,Empleado,Indefinido,1,25400,25900,55.4,Rechazado
+201,Nuevo León,Guadalupe,25.663401,-100.252134,2/26/2026,Febrero,23,Empleado,Indefinido,0,51500,17600,71.5,Aprobado
+202,Nuevo León,Guadalupe,25.690263,-100.275041,3/2/2026,Marzo,20,Emprendedor,Temporal,4,6400,10900,51.4,Rechazado
+203,Nuevo León,Monterrey,25.682657,-100.316752,3/2/2026,Marzo,26,Emprendedor,Indefinido,4,26900,21000,86.9,Aprobado
+204,Nuevo León,García,25.827113,-100.615963,3/2/2026,Marzo,27,Empleado,Indefinido,2,5500,15400,45.5,Rechazado
+205,Nuevo León,García,25.835235,-100.586609,3/2/2026,Marzo,20,Empleado,Temporal,0,20400,21400,25.4,Rechazado
+206,Nuevo León,Monterrey,25.705825,-100.308605,3/3/2026,Marzo,19,Empleado,Indefinido,3,19300,27500,69.3,Rechazado
+207,Nuevo León,García,25.807444,-100.619489,3/3/2026,Marzo,18,Empleado,Temporal,1,10700,11100,25.7,Rechazado
+208,Nuevo León,Carmen,25.692879,-100.047618,3/3/2026,Marzo,23,Empleado,Indefinido,6,73300,39900,153.3,Aprobado
+209,Nuevo León,Monterrey,25.662487,-100.32091,3/4/2026,Marzo,22,Empleado,Indefinido,6,35200,20300,115.2,Aprobado
+210,Nuevo León,Monterrey,25.669928,-100.314961,3/4/2026,Marzo,23,Empleado,Indefinido,6,67300,36000,147.3,Aprobado
+211,Nuevo León,Monterrey,25.690298,-100.30496,3/4/2026,Marzo,24,Empleado,Temporal,7,25400,13800,100.4,Aprobado
+212,Nuevo León,General Escobedo,25.782944,-100.321972,3/4/2026,Marzo,24,Empleado,Indefinido,1,10700,24900,40.7,Rechazado
+213,Nuevo León,Monterrey,25.699536,-100.330817,3/4/2026,Marzo,22,Empleado,Indefinido,4,15800,10000,75.8,Rechazado
+214,Nuevo León,Apodaca,25.774266,-100.187953,3/5/2026,Marzo,23,Empleado,Indefinido,6,77700,44700,157.7,Aprobado
+215,Nuevo León,Apodaca,25.794007,-100.19311,3/5/2026,Marzo,20,Empleado,Temporal,3,11400,13000,46.4,Rechazado
+216,Nuevo León,San Nicolás de los Garza,25.76634,-100.282093,3/5/2026,Marzo,19,Emprendedor,Indefinido,3,14100,12500,64.1,Rechazado
+217,Nuevo León,Monterrey,25.683735,-100.335997,3/5/2026,Marzo,20,Empleado,Temporal,0,6400,13900,11.4,Rechazado
+218,Nuevo León,Monterrey,25.674073,-100.311543,3/6/2026,Marzo,22,Empleado,Temporal,1,16300,11400,31.3,Rechazado
+219,Nuevo León,San Nicolás de los Garza,25.762994,-100.295899,3/6/2026,Marzo,23,Empleado,Indefinido,6,43500,24200,123.5,Aprobado
+220,Nuevo León,Apodaca,25.813243,-100.177877,3/6/2026,Marzo,20,Empleado,Indefinido,1,12200,41200,42.2,Rechazado
+221,Nuevo León,Pesquería,25.739055,-100.0079,3/6/2026,Marzo,23,Empleado,Indefinido,0,85500,38600,105.5,Aprobado
+222,Nuevo León,Juárez,25.654195,-100.09894,3/6/2026,Marzo,22,Empleado,Temporal,5,18700,22400,73.7,Aprobado
+223,Nuevo León,Pesquería,25.75608,-100.009139,3/7/2026,Marzo,20,Empleado,Indefinido,1,63100,42000,93.1,Aprobado
+224,Nuevo León,Santa Catarina,25.670582,-100.462803,3/7/2026,Marzo,26,Emprendedor,Temporal,1,66000,23900,81,Aprobado
+225,Nuevo León,Monterrey,25.698976,-100.300201,3/7/2026,Marzo,20,Empleado,Temporal,1,20200,14200,35.2,Rechazado
+226,Nuevo León,Monterrey,25.733666,-100.322411,3/7/2026,Marzo,21,Empleado,Temporal,1,24800,18500,39.8,Rechazado
+227,Nuevo León,Guadalupe,25.690616,-100.257449,3/7/2026,Marzo,18,Empleado,Indefinido,1,4700,30200,34.7,Rechazado
+228,Nuevo León,Monterrey,25.683171,-100.307828,3/7/2026,Marzo,23,Empleado,Indefinido,5,81800,38600,151.8,Aprobado
+229,Nuevo León,Guadalupe,25.675283,-100.273463,3/7/2026,Marzo,24,Empleado,Temporal,1,39500,12200,54.5,Rechazado
+230,Nuevo León,Monterrey,25.665241,-100.321907,3/8/2026,Marzo,27,Emprendedor,Temporal,9,40000,40700,135,Aprobado
+231,Nuevo León,Monterrey,25.708862,-100.271864,3/8/2026,Marzo,24,Empleado,Indefinido,6,32000,24200,112,Aprobado
+232,Nuevo León,Apodaca,25.776525,-100.186072,3/8/2026,Marzo,24,Empleado,Temporal,8,20800,14400,105.8,Aprobado
+233,Nuevo León,Monterrey,25.696131,-100.324475,3/8/2026,Marzo,27,Empleado,Indefinido,4,45000,29700,105,Aprobado
+234,Nuevo León,Apodaca,25.762501,-100.197884,3/9/2026,Marzo,21,Empleado,Indefinido,4,41500,26300,101.5,Aprobado
+235,Nuevo León,Monterrey,25.678739,-100.30872,3/9/2026,Marzo,20,Empleado,Indefinido,2,15300,16800,55.3,Rechazado
+236,Nuevo León,Juárez,25.6432,-100.096481,3/9/2026,Marzo,27,Empleado,Indefinido,0,87800,30600,107.8,Aprobado
+237,Nuevo León,Monterrey,25.670522,-100.331159,3/9/2026,Marzo,26,Empleado,Indefinido,0,24800,20800,44.8,Rechazado
+238,Nuevo León,General Escobedo,25.768522,-100.337443,3/9/2026,Marzo,23,Empleado,Indefinido,1,105600,47300,135.6,Aprobado
+239,Nuevo León,García,25.819582,-100.604355,3/10/2026,Marzo,23,Emprendedor,Indefinido,3,36900,30900,86.9,Aprobado
+240,Nuevo León,General Escobedo,25.800877,-100.322649,3/10/2026,Marzo,27,Empleado,Indefinido,1,33400,21000,63.4,Rechazado
+241,Nuevo León,Santa Catarina,25.67463,-100.4557,3/10/2026,Marzo,26,Emprendedor,Temporal,0,14900,10000,19.9,Rechazado
+242,Nuevo León,General Escobedo,25.796782,-100.318798,3/10/2026,Marzo,22,Empleado,Indefinido,4,111700,32900,171.7,Aprobado
+243,Nuevo León,Guadalupe,25.678263,-100.238878,3/10/2026,Marzo,25,Empleado,Temporal,7,46000,19200,121,Aprobado
+244,Nuevo León,San Nicolás de los Garza,25.74156,-100.315142,3/11/2026,Marzo,24,Empleado,Temporal,5,9500,9900,64.5,Rechazado
+245,Nuevo León,Apodaca,25.795289,-100.20248,3/11/2026,Marzo,23,Empleado,Indefinido,4,45500,13700,105.5,Aprobado
+246,Nuevo León,García,25.806638,-100.573209,3/11/2026,Marzo,24,Empleado,Indefinido,5,48600,40500,118.6,Aprobado
+247,Nuevo León,Monterrey,25.703315,-100.317033,3/11/2026,Marzo,20,Empleado,Temporal,4,7300,19500,52.3,Rechazado
+248,Nuevo León,Ciénega de Flores,26.015377,-100.164131,3/11/2026,Marzo,22,Empleado,Indefinido,6,17900,16300,97.9,Aprobado
+249,Nuevo León,San Nicolás de los Garza,25.758562,-100.292009,3/12/2026,Marzo,19,Emprendedor,Indefinido,0,41500,19500,61.5,Rechazado
+250,Nuevo León,General Escobedo,25.813469,-100.311656,3/12/2026,Marzo,19,Empleado,Temporal,3,10500,15600,45.5,Rechazado
+251,Nuevo León,Santa Catarina,25.668681,-100.454347,3/12/2026,Marzo,25,Empleado,Temporal,9,4300,13000,99.3,Aprobado
+252,Nuevo León,Guadalupe,25.687557,-100.273428,3/12/2026,Marzo,23,Empleado,Temporal,4,10000,16500,55,Rechazado
+253,Nuevo León,General Escobedo,25.818515,-100.312743,3/13/2026,Marzo,22,Empleado,Indefinido,5,9400,24500,79.4,Aprobado
+254,Nuevo León,Santa Catarina,25.698222,-100.470577,3/13/2026,Marzo,24,Empleado,Indefinido,4,43500,21700,103.5,Aprobado
+255,Nuevo León,García,25.820365,-100.59192,3/13/2026,Marzo,25,Empleado,Temporal,0,4800,16900,9.8,Rechazado
+256,Nuevo León,Monterrey,25.695477,-100.318715,3/14/2026,Marzo,20,Empleado,Temporal,4,39700,15300,84.7,Aprobado
+257,Nuevo León,Monterrey,25.684331,-100.311305,3/14/2026,Marzo,23,Empleado,Indefinido,5,51200,17200,121.2,Aprobado
+258,Nuevo León,Cadereyta Jiménez,25.589536,-99.981677,3/15/2026,Marzo,26,Empleado,Indefinido,2,27400,39000,67.4,Rechazado
+259,Nuevo León,Monterrey,25.693079,-100.294764,3/15/2026,Marzo,26,Empleado,Indefinido,3,42400,24500,92.4,Aprobado
+260,Nuevo León,Guadalupe,25.678844,-100.241712,3/15/2026,Marzo,19,Emprendedor,Indefinido,0,3700,10100,23.7,Rechazado
+261,Nuevo León,García,25.82681,-100.582905,3/15/2026,Marzo,19,Empleado,Indefinido,3,68600,19000,118.6,Aprobado
+262,Nuevo León,Guadalupe,25.671061,-100.259219,3/15/2026,Marzo,18,Empleado,Indefinido,1,17900,29400,47.9,Rechazado
+263,Nuevo León,Guadalupe,25.683386,-100.25209,3/16/2026,Marzo,22,Empleado,Temporal,1,40400,12600,55.4,Rechazado
+264,Nuevo León,San Nicolás de los Garza,25.735561,-100.295885,3/16/2026,Marzo,20,Empleado,Temporal,4,9900,20700,54.9,Rechazado
+265,Nuevo León,Santa Catarina,25.687513,-100.475332,3/17/2026,Marzo,23,Emprendedor,Indefinido,5,27400,26900,97.4,Aprobado
+266,Nuevo León,Juárez,25.668987,-100.080271,3/18/2026,Marzo,23,Empleado,Indefinido,0,3500,49200,23.5,Rechazado
+267,Nuevo León,General Escobedo,25.804171,-100.302956,3/18/2026,Marzo,22,Empleado,Indefinido,4,66600,49800,126.6,Aprobado
+268,Nuevo León,Guadalupe,25.685707,-100.251886,3/19/2026,Marzo,24,Empleado,Temporal,6,20800,14500,85.8,Aprobado
+269,Nuevo León,Monterrey,25.727995,-100.307472,3/19/2026,Marzo,25,Empleado,Indefinido,6,48400,25600,128.4,Aprobado
+270,Nuevo León,San Nicolás de los Garza,25.762293,-100.3137,3/19/2026,Marzo,21,Empleado,Indefinido,3,6900,25200,56.9,Rechazado
+271,Nuevo León,García,25.812313,-100.600008,3/19/2026,Marzo,18,Emprendedor,Temporal,0,33600,28700,38.6,Rechazado
+272,Nuevo León,Guadalupe,25.653385,-100.263063,3/20/2026,Marzo,23,Emprendedor,Indefinido,1,36800,24800,66.8,Rechazado
+273,Nuevo León,San Nicolás de los Garza,25.753968,-100.30116,3/20/2026,Marzo,22,Empleado,Indefinido,0,18500,16000,38.5,Rechazado
+274,Nuevo León,García,25.825235,-100.590767,3/20/2026,Marzo,25,Empleado,Indefinido,4,19300,20500,79.3,Aprobado
+275,Nuevo León,Santa Catarina,25.676445,-100.447667,3/21/2026,Marzo,26,Empleado,Indefinido,4,28800,16800,88.8,Aprobado
+276,Nuevo León,Monterrey,25.673593,-100.306845,3/21/2026,Marzo,25,Empleado,Temporal,4,14700,18500,59.7,Rechazado
+277,Nuevo León,Monterrey,25.654565,-100.302797,3/22/2026,Marzo,23,Empleado,Indefinido,2,15900,26700,55.9,Rechazado
+278,Nuevo León,Monterrey,25.685052,-100.29941,3/22/2026,Marzo,19,Empleado,Indefinido,0,30200,18200,50.2,Rechazado
+279,Nuevo León,Monterrey,25.689521,-100.315588,3/23/2026,Marzo,24,Empleado,Indefinido,3,97000,40100,147,Aprobado
+280,Nuevo León,García,25.835708,-100.585963,3/23/2026,Marzo,26,Empleado,Temporal,1,13900,11100,28.9,Rechazado
+281,Nuevo León,Guadalupe,25.667878,-100.268563,3/23/2026,Marzo,27,Empleado,Indefinido,3,28100,27800,78.1,Aprobado
+282,Nuevo León,Ciénega de Flores,26.039165,-100.179997,3/24/2026,Marzo,23,Empleado,Temporal,7,19400,11100,94.4,Rechazado
+283,Nuevo León,General Escobedo,25.820242,-100.337424,3/24/2026,Marzo,21,Emprendedor,Temporal,3,22500,20400,57.5,Rechazado
+284,Nuevo León,Carmen,25.70626,-100.050573,3/24/2026,Marzo,18,Empleado,Indefinido,2,36900,13500,76.9,Aprobado
+285,Nuevo León,Apodaca,25.786801,-100.216393,3/25/2026,Marzo,22,Empleado,Indefinido,4,34100,18500,94.1,Aprobado
+286,Nuevo León,Cadereyta Jiménez,25.585647,-99.992296,3/25/2026,Marzo,22,Empleado,Indefinido,6,50600,41600,130.6,Aprobado
+287,Nuevo León,Monterrey,25.673118,-100.336764,3/25/2026,Marzo,20,Empleado,Temporal,1,23700,17200,38.7,Rechazado
+288,Nuevo León,Carmen,25.694055,-100.035791,3/25/2026,Marzo,21,Empleado,Indefinido,1,17400,25800,47.4,Rechazado
+289,Nuevo León,Guadalupe,25.660418,-100.26935,3/26/2026,Marzo,25,Empleado,Indefinido,9,11800,27100,121.8,Aprobado
+290,Nuevo León,Santa Catarina,25.654711,-100.474602,3/26/2026,Marzo,19,Empleado,Temporal,0,18300,14100,23.3,Rechazado
+291,Nuevo León,Santa Catarina,25.670594,-100.428212,3/26/2026,Marzo,26,Empleado,Temporal,4,14200,19900,59.2,Rechazado
+292,Nuevo León,Monterrey,25.68364,-100.342779,3/27/2026,Marzo,23,Empleado,Indefinido,4,73100,33600,133.1,Aprobado
+293,Nuevo León,García,25.788694,-100.595891,3/27/2026,Marzo,25,Emprendedor,Indefinido,8,17000,12500,117,Aprobado
+294,Nuevo León,García,25.823112,-100.583735,3/27/2026,Marzo,23,Empleado,Indefinido,7,28900,16300,118.9,Aprobado
+295,Nuevo León,San Nicolás de los Garza,25.732694,-100.293097,3/28/2026,Marzo,27,Empleado,Indefinido,3,39200,48900,89.2,Aprobado
+296,Nuevo León,San Nicolás de los Garza,25.729411,-100.298281,3/28/2026,Marzo,20,Emprendedor,Temporal,1,19700,13000,34.7,Rechazado
+297,Nuevo León,Guadalupe,25.673532,-100.247016,3/29/2026,Marzo,24,Empleado,Indefinido,8,146900,53300,246.9,Aprobado
+298,Nuevo León,Guadalupe,25.643057,-100.26033,3/29/2026,Marzo,21,Empleado,Indefinido,3,56100,26900,106.1,Aprobado
+299,Nuevo León,Guadalupe,25.662274,-100.246291,3/29/2026,Marzo,25,Empleado,Temporal,1,18500,17900,33.5,Rechazado
+300,Nuevo León,Carmen,25.700662,-100.071843,3/29/2026,Marzo,21,Empleado,Indefinido,2,76400,37100,116.4,Aprobado
