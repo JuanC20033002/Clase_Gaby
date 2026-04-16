@@ -5,40 +5,53 @@ import plotly.express as px
 
 st.set_page_config(page_title="Dashboard Crediticio NL", page_icon="📊", layout="wide")
 
-COLOR_MAP = {"Aprobado": "green", "Rechazado": "red"}
+COLOR_MAP = {"Aprobado": "#22c55e", "Rechazado": "#ef4444"}
+
+CENSO_COLS = [
+    "ENTIDAD","NOM_ENT","MUN","NOM_MUN","LOC","NOM_LOC","LONGITUD","LATITUD","ALTITUD","POBTOT"
+]
 
 @st.cache_data(show_spinner=False)
 def load_data():
-    censo = pd.read_csv("conjunto_de_datos_iter_19CSV20.csv", encoding="utf-8-sig", low_memory=False)
+    censo = pd.read_csv(
+        "conjunto_de_datos_iter_19CSV20.csv",
+        header=None,
+        usecols=list(range(10)),
+        names=CENSO_COLS,
+        encoding="utf-8-sig",
+        low_memory=False
+    )
     enigh = pd.read_csv("conjunto_de_datos_ingresos_enigh2024_ns.csv", low_memory=False)
     enoe = pd.read_csv("conjunto_de_datos_coe1_enoe_2025_4t.csv", low_memory=False)
     return censo, enigh, enoe
 
+def dms_to_decimal(text, is_lon=False):
+    if pd.isna(text):
+        return np.nan
+    s = str(text).strip().replace('"', "").replace("''", "").replace("’", "'")
+    ext = pd.Series([s]).str.extract(r"(\d+)[°](\d+)[']([\d\.]+)")
+    if ext.isna().any(axis=None):
+        return np.nan
+    deg = float(ext.iloc[0, 0])
+    minute = float(ext.iloc[0, 1])
+    sec = float(ext.iloc[0, 2])
+    val = deg + minute / 60 + sec / 3600
+    return -val if is_lon else val
 
 def clean_censo(censo):
     c = censo.copy()
-    c = c[c["ENTIDAD"].astype(str).str.zfill(2) == "19"].copy()
-    c = c[c["POBTOT"].astype(str) != "*"].copy()
+    c["ENTIDAD"] = c["ENTIDAD"].astype(str).str.zfill(2)
+    c = c[c["ENTIDAD"] == "19"].copy()
+
     c["POBTOT"] = pd.to_numeric(c["POBTOT"], errors="coerce")
-    c = c.dropna(subset=["POBTOT", "LATITUD", "LONGITUD", "MUN", "NOM_MUN"]).copy()
+    c = c.dropna(subset=["MUN", "NOM_MUN", "LATITUD", "LONGITUD", "POBTOT"]).copy()
     c = c[c["POBTOT"] > 0].copy()
 
     c["MUN"] = c["MUN"].astype(str).str.zfill(3)
+    c["lat"] = c["LATITUD"].apply(lambda x: dms_to_decimal(x, is_lon=False))
+    c["lon"] = c["LONGITUD"].apply(lambda x: dms_to_decimal(x, is_lon=True))
 
-    lat_parts = c["LATITUD"].astype(str).str.extract(r"(\d+)[°](\d+)[']([\d\.]+)")
-    lon_parts = c["LONGITUD"].astype(str).str.extract(r"(\d+)[°](\d+)[']([\d\.]+)")
-
-    c["lat"] = (
-        lat_parts[0].astype(float)
-        + lat_parts[1].astype(float) / 60
-        + lat_parts[2].astype(float) / 3600
-    )
-
-    c["lon"] = -(
-        lon_parts[0].astype(float)
-        + lon_parts[1].astype(float) / 60
-        + lon_parts[2].astype(float) / 3600
-    )
+    c = c.dropna(subset=["lat", "lon"]).copy()
 
     muni = (
         c.groupby(["MUN", "NOM_MUN"], as_index=False)
@@ -48,11 +61,9 @@ def clean_censo(censo):
             lon=("lon", "mean")
         )
     )
-
     muni["estado"] = "Nuevo León"
     muni = muni.rename(columns={"MUN": "cve_mun", "NOM_MUN": "municipio"})
     return muni
-
 
 def clean_enigh(enigh):
     e = enigh.copy()
@@ -77,13 +88,14 @@ def clean_enigh(enigh):
         )
     )
 
+    ingreso_persona = ingreso_persona[ingreso_persona["ingreso_mensual_mxn"].notna()].copy()
     return ingreso_persona
-
 
 def clean_enoe(enoe):
     d = enoe.copy()
     d["cve_ent"] = d["cve_ent"].astype(str).str.zfill(2)
     d = d[d["cve_ent"] == "19"].copy()
+
     d["cve_mun"] = d["cve_mun"].astype(str).str.zfill(3)
     d["n_ren"] = d["n_ren"].astype(str).str.zfill(2)
     d["eda"] = pd.to_numeric(d["eda"], errors="coerce")
@@ -92,11 +104,8 @@ def clean_enoe(enoe):
     d["anio"] = 2025
     d["trimestre"] = "4T"
 
-    d["p3"] = pd.to_numeric(d["p3"], errors="coerce")
-    d["p4a"] = pd.to_numeric(d["p4a"], errors="coerce")
-    d["p2k_anio"] = pd.to_numeric(d["p2k_anio"], errors="coerce")
-    d["p2k_mes"] = pd.to_numeric(d["p2k_mes"], errors="coerce")
-    d["p5b_thrs"] = pd.to_numeric(d["p5b_thrs"], errors="coerce")
+    for col in ["p3", "p4a", "p2k_anio", "p2k_mes", "p5b_thrs"]:
+        d[col] = pd.to_numeric(d[col], errors="coerce")
 
     d["estatus_laboral"] = np.select(
         [d["p3"] == 1, d["p3"] == 2],
@@ -113,32 +122,37 @@ def clean_enoe(enoe):
     d["antiguedad_laboral_anios"] = d["p2k_anio"].fillna(0) + (d["p2k_mes"].fillna(0) / 12)
     d["antiguedad_laboral_anios"] = d["antiguedad_laboral_anios"].clip(lower=0)
 
+    d = d[d["estatus_laboral"].isin(["Empleado", "Emprendedor"])].copy()
+
     keep = [
         "cve_mun", "n_ren", "eda", "anio", "trimestre",
         "estatus_laboral", "tipo_contrato", "antiguedad_laboral_anios", "p5b_thrs"
     ]
     return d[keep].copy()
 
-
 def build_final_dataset(censo, enigh, enoe):
     geo = clean_censo(censo)
     inc = clean_enigh(enigh)
     labor = clean_enoe(enoe)
 
-    inc = inc.reset_index(drop=True)
-    labor = labor.reset_index(drop=True)
-
     n = min(len(inc), len(labor))
-    inc = inc.iloc[:n].copy()
-    labor = labor.iloc[:n].copy()
+    if n == 0:
+        return pd.DataFrame(), {
+            "geo": len(geo),
+            "enigh": len(inc),
+            "enoe": len(labor),
+            "final": 0
+        }
 
-    df = pd.concat([labor.reset_index(drop=True), inc.reset_index(drop=True)], axis=1)
+    inc = inc.iloc[:n].reset_index(drop=True)
+    labor = labor.iloc[:n].reset_index(drop=True)
+
+    df = pd.concat([labor, inc], axis=1)
     df = df.merge(geo, on="cve_mun", how="left")
-
-    df = df[df["estatus_laboral"].isin(["Empleado", "Emprendedor"])].copy()
     df = df.dropna(subset=["lat", "lon", "ingreso_mensual_mxn"]).copy()
 
     rng = np.random.default_rng(42)
+
     df["saldo_cuenta_mxn"] = np.where(
         df["ingreso_mensual_mxn"] > 0,
         (df["ingreso_mensual_mxn"] * rng.uniform(0.5, 3.5, len(df))).round(0),
@@ -146,9 +160,9 @@ def build_final_dataset(censo, enigh, enoe):
     )
 
     df["Score_Final"] = (
-        df["antiguedad_laboral_anios"] * 10
-        + (df["saldo_cuenta_mxn"] / 1000)
-        + np.select(
+        df["antiguedad_laboral_anios"] * 10 +
+        (df["saldo_cuenta_mxn"] / 1000) +
+        np.select(
             [df["tipo_contrato"] == "Indefinido", df["tipo_contrato"] == "Temporal"],
             [20, 5],
             default=0
@@ -161,27 +175,37 @@ def build_final_dataset(censo, enigh, enoe):
         "Rechazado"
     )
 
-    df["mes"] = pd.Series(
-        rng.choice(["Octubre", "Noviembre", "Diciembre"], len(df), p=[0.34, 0.33, 0.33])
-    )
+    df["mes"] = rng.choice(["Octubre", "Noviembre", "Diciembre"], len(df), p=[0.34, 0.33, 0.33])
     df["id_solicitud"] = range(1, len(df) + 1)
     df["estado"] = "Nuevo León"
 
-    return df
-
+    info = {
+        "geo": len(geo),
+        "enigh": len(inc),
+        "enoe": len(labor),
+        "final": len(df)
+    }
+    return df, info
 
 censo_raw, enigh_raw, enoe_raw = load_data()
-df = build_final_dataset(censo_raw, enigh_raw, enoe_raw)
+df, debug_info = build_final_dataset(censo_raw, enigh_raw, enoe_raw)
 
 st.sidebar.title("Dashboard crediticio")
 st.sidebar.markdown("**Estado:** Nuevo León")
 st.sidebar.markdown("**Edad:** 18 a 27 años")
 st.sidebar.markdown("**Fuente:** Censo 2020 + ENIGH 2024 + ENOE 2025 4T")
 
+with st.sidebar.expander("Ver diagnóstico"):
+    st.write(debug_info)
+
 pagina = st.sidebar.radio(
     "Secciones",
     ["Monitor de Aprobación", "Análisis de Riesgo", "Dinámica Temporal"]
 )
+
+if df.empty:
+    st.error("La base final quedó vacía. Revisa el diagnóstico de la barra lateral.")
+    st.stop()
 
 anios = sorted(df["anio"].dropna().unique().tolist())
 anio_sel = st.sidebar.multiselect("Año", anios, default=anios)
@@ -208,12 +232,7 @@ if pagina == "Monitor de Aprobación":
         color="Estatus_Aprobacion",
         color_discrete_map=COLOR_MAP,
         hover_name="municipio",
-        hover_data={
-            "Score_Final": True,
-            "ingreso_mensual_mxn": True,
-            "lat": False,
-            "lon": False
-        },
+        hover_data={"Score_Final": True, "ingreso_mensual_mxn": True, "lat": False, "lon": False},
         zoom=6.8,
         height=600
     )
@@ -228,8 +247,7 @@ elif pagina == "Análisis de Riesgo":
     df_r = df_f.copy()
     df_r["estatus_dinamico"] = np.where(
         (df_r["Score_Final"] > 70) & (df_r["ingreso_mensual_mxn"] > ingreso_min),
-        "Aprobado",
-        "Rechazado"
+        "Aprobado", "Rechazado"
     )
 
     col1, col2 = st.columns(2)
@@ -257,12 +275,7 @@ elif pagina == "Análisis de Riesgo":
             color="estatus_dinamico",
             color_discrete_map=COLOR_MAP,
             hover_name="municipio",
-            hover_data={
-                "Score_Final": True,
-                "ingreso_mensual_mxn": True,
-                "lat": False,
-                "lon": False
-            },
+            hover_data={"Score_Final": True, "ingreso_mensual_mxn": True, "lat": False, "lon": False},
             zoom=6.8,
             height=500
         )
@@ -283,12 +296,7 @@ elif pagina == "Dinámica Temporal":
         color_discrete_map=COLOR_MAP,
         animation_frame="mes",
         hover_name="municipio",
-        hover_data={
-            "Score_Final": True,
-            "ingreso_mensual_mxn": True,
-            "lat": False,
-            "lon": False
-        },
+        hover_data={"Score_Final": True, "ingreso_mensual_mxn": True, "lat": False, "lon": False},
         zoom=6.8,
         height=650
     )
@@ -301,14 +309,8 @@ elif pagina == "Dinámica Temporal":
         ingreso_promedio=("ingreso_mensual_mxn", "mean")
     ).reset_index()
 
-    resumen["tasa_aprobacion"] = (
-        resumen["aprobados"] / resumen["solicitudes"] * 100
-    ).round(1)
-
+    resumen["tasa_aprobacion"] = (resumen["aprobados"] / resumen["solicitudes"] * 100).round(1)
     st.dataframe(resumen, use_container_width=True, hide_index=True)
 
 st.markdown("---")
-st.caption(
-    "Proyecto con datos reales cargados desde CSV oficiales de INEGI. "
-    "Para este prototipo, el score usa ENOE para perfil laboral, ENIGH para ingresos y Censo para geografía municipal."
-)
+st.caption("Proyecto con datos reales de INEGI. Integración analítica entre Censo, ENIGH y ENOE.")
