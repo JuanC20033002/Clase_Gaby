@@ -1,0 +1,1264 @@
+﻿id_solicitud,estado,municipio,cve_mun,anio,mes,edad,estatus_laboral,tipo_contrato,antiguedad_laboral_anios,ingreso_mensual_mxn,saldo_cuenta_mxn,Score_Final,Estatus_Aprobacion,lat,lon
+1,Nuevo León,Juárez,031,2025,Octubre,25,Empleado,Sin contrato,0.0,1200.0,3385.0,3.38,Rechazado,25.60212283769063,-100.1228211083878
+2,Nuevo León,Apodaca,006,2025,Diciembre,19,Empleado,Sin contrato,0.0,4800.0,14863.0,14.86,Rechazado,25.78899183060109,-100.18325821038252
+3,Nuevo León,General Escobedo,021,2025,Octubre,23,Empleado,Sin contrato,0.0,4000.0,10873.0,10.87,Rechazado,25.827195,-100.37023350529101
+4,Nuevo León,Guadalupe,026,2025,Noviembre,27,Empleado,Sin contrato,0.0,1800.0,5225.0,5.22,Rechazado,25.68932401234568,-100.16110456790123
+5,Nuevo León,Guadalupe,026,2025,Noviembre,21,Empleado,Sin contrato,0.0,3000.0,1941.0,1.94,Rechazado,25.68932401234568,-100.16110456790123
+6,Nuevo León,Guadalupe,026,2025,Noviembre,20,Empleado,Sin contrato,0.0,8000.0,9629.0,9.63,Rechazado,25.68932401234568,-100.16110456790123
+7,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,25,Empleado,Sin contrato,0.0,4600.0,10882.0,10.88,Rechazado,25.755252777777777,-100.2895861111111
+8,Nuevo León,García,018,2025,Diciembre,24,Empleado,Sin contrato,0.0,36000.0,110678.0,110.68,Aprobado,25.8149235154321,-100.62665417901233
+9,Nuevo León,General Escobedo,021,2025,Diciembre,22,Empleado,Sin contrato,0.0,223.0,115.0,0.12,Rechazado,25.827195,-100.37023350529101
+10,Nuevo León,Guadalupe,026,2025,Octubre,24,Empleado,Sin contrato,0.0,67.0,137.0,0.14,Rechazado,25.68932401234568,-100.16110456790123
+11,Nuevo León,Guadalupe,026,2025,Octubre,18,Empleado,Sin contrato,0.0,6000.0,15191.0,15.19,Rechazado,25.68932401234568,-100.16110456790123
+12,Nuevo León,Santa Catarina,048,2025,Diciembre,22,Empleado,Sin contrato,0.0,3000.0,1766.0,1.77,Rechazado,25.598188524305556,-100.48739686921296
+13,Nuevo León,Juárez,031,2025,Noviembre,21,Empleado,Sin contrato,0.0,2817.0,4800.0,4.8,Rechazado,25.60212283769063,-100.1228211083878
+14,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,21,Empleado,Sin contrato,0.0,1000.0,3187.0,3.19,Rechazado,25.755252777777777,-100.2895861111111
+15,Nuevo León,General Escobedo,021,2025,Octubre,20,Empleado,Sin contrato,0.0,11200.0,28166.0,28.17,Rechazado,25.827195,-100.37023350529101
+16,Nuevo León,General Escobedo,021,2025,Noviembre,21,Empleado,Sin contrato,0.0,6000.0,7278.0,7.28,Rechazado,25.827195,-100.37023350529101
+17,Nuevo León,Guadalupe,026,2025,Diciembre,25,Empleado,Sin contrato,0.0,4000.0,12233.0,12.23,Rechazado,25.68932401234568,-100.16110456790123
+18,Nuevo León,Guadalupe,026,2025,Noviembre,18,Empleado,Sin contrato,0.0,1500.0,2316.0,2.32,Rechazado,25.68932401234568,-100.16110456790123
+19,Nuevo León,Juárez,031,2025,Diciembre,27,Empleado,Sin contrato,0.0,1000.0,3060.0,3.06,Rechazado,25.60212283769063,-100.1228211083878
+20,Nuevo León,Juárez,031,2025,Noviembre,26,Empleado,Sin contrato,0.0,1000.0,1397.0,1.4,Rechazado,25.60212283769063,-100.1228211083878
+21,Nuevo León,Juárez,031,2025,Octubre,23,Empleado,Sin contrato,0.0,10000.0,22710.0,22.71,Rechazado,25.60212283769063,-100.1228211083878
+22,Nuevo León,Monterrey,039,2025,Noviembre,20,Empleado,Sin contrato,0.0,1300.0,2198.0,2.2,Rechazado,25.55914746031746,-100.26696880952382
+23,Nuevo León,Apodaca,006,2025,Noviembre,26,Empleado,Sin contrato,0.0,5200.0,6887.0,6.89,Rechazado,25.78899183060109,-100.18325821038252
+24,Nuevo León,General Escobedo,021,2025,Octubre,23,Empleado,Sin contrato,0.0,15000.0,47395.0,47.4,Rechazado,25.827195,-100.37023350529101
+25,Nuevo León,General Escobedo,021,2025,Octubre,20,Empleado,Sin contrato,0.0,7500.0,7971.0,7.97,Rechazado,25.827195,-100.37023350529101
+26,Nuevo León,Guadalupe,026,2025,Noviembre,25,Empleado,Sin contrato,0.0,1000.0,754.0,0.75,Rechazado,25.68932401234568,-100.16110456790123
+27,Nuevo León,General Escobedo,021,2025,Diciembre,25,Empleado,Sin contrato,0.0,2600.0,3967.0,3.97,Rechazado,25.827195,-100.37023350529101
+28,Nuevo León,Guadalupe,026,2025,Octubre,27,Empleado,Sin contrato,0.0,27000.0,71629.0,71.63,Aprobado,25.68932401234568,-100.16110456790123
+29,Nuevo León,Monterrey,039,2025,Noviembre,27,Empleado,Sin contrato,0.0,9000.0,26301.0,26.3,Rechazado,25.55914746031746,-100.26696880952382
+30,Nuevo León,Monterrey,039,2025,Noviembre,20,Empleado,Sin contrato,0.0,5000.0,17481.0,17.48,Rechazado,25.55914746031746,-100.26696880952382
+31,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,23,Empleado,Sin contrato,0.0,16000.0,22225.0,22.22,Rechazado,25.755252777777777,-100.2895861111111
+32,Nuevo León,General Escobedo,021,2025,Diciembre,21,Empleado,Sin contrato,0.0,2000.0,3448.0,3.45,Rechazado,25.827195,-100.37023350529101
+33,Nuevo León,Guadalupe,026,2025,Diciembre,24,Empleado,Sin contrato,0.0,4182.0,3808.0,3.81,Rechazado,25.68932401234568,-100.16110456790123
+34,Nuevo León,Guadalupe,026,2025,Diciembre,24,Empleado,Sin contrato,0.0,14000.0,31145.0,31.14,Rechazado,25.68932401234568,-100.16110456790123
+35,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,24,Empleado,Sin contrato,0.0,1500.0,5239.0,5.24,Rechazado,25.755252777777777,-100.2895861111111
+36,Nuevo León,Apodaca,006,2025,Noviembre,23,Empleado,Sin contrato,0.0,153.0,398.0,0.4,Rechazado,25.78899183060109,-100.18325821038252
+37,Nuevo León,Apodaca,006,2025,Noviembre,20,Empleado,Sin contrato,0.0,14000.0,31999.0,32.0,Rechazado,25.78899183060109,-100.18325821038252
+38,Nuevo León,Apodaca,006,2025,Octubre,24,Empleado,Sin contrato,0.0,200.0,335.0,0.34,Rechazado,25.78899183060109,-100.18325821038252
+39,Nuevo León,General Escobedo,021,2025,Octubre,22,Empleado,Sin contrato,0.0,7083.0,22991.0,22.99,Rechazado,25.827195,-100.37023350529101
+40,Nuevo León,Juárez,031,2025,Octubre,22,Empleado,Sin contrato,0.0,12000.0,23889.0,23.89,Rechazado,25.60212283769063,-100.1228211083878
+41,Nuevo León,Juárez,031,2025,Noviembre,25,Empleado,Sin contrato,0.0,105000.0,94826.0,94.83,Aprobado,25.60212283769063,-100.1228211083878
+42,Nuevo León,Juárez,031,2025,Noviembre,18,Empleado,Sin contrato,0.0,83.0,132.0,0.13,Rechazado,25.60212283769063,-100.1228211083878
+43,Nuevo León,Juárez,031,2025,Octubre,23,Empleado,Sin contrato,0.0,3000.0,2105.0,2.1,Rechazado,25.60212283769063,-100.1228211083878
+44,Nuevo León,General Escobedo,021,2025,Diciembre,24,Empleado,Sin contrato,0.0,15000.0,16589.0,16.59,Rechazado,25.827195,-100.37023350529101
+45,Nuevo León,Juárez,031,2025,Diciembre,27,Empleado,Sin contrato,0.0,5000.0,2765.0,2.76,Rechazado,25.60212283769063,-100.1228211083878
+46,Nuevo León,Monterrey,039,2025,Octubre,18,Empleado,Sin contrato,0.0,4400.0,8183.0,8.18,Rechazado,25.55914746031746,-100.26696880952382
+47,Nuevo León,Santa Catarina,048,2025,Diciembre,22,Empleado,Sin contrato,0.0,833.0,2002.0,2.0,Rechazado,25.598188524305556,-100.48739686921296
+48,Nuevo León,General Escobedo,021,2025,Octubre,24,Empleado,Sin contrato,0.0,5200.0,7955.0,7.96,Rechazado,25.827195,-100.37023350529101
+49,Nuevo León,General Escobedo,021,2025,Diciembre,25,Empleado,Sin contrato,0.0,3000.0,5283.0,5.28,Rechazado,25.827195,-100.37023350529101
+50,Nuevo León,Guadalupe,026,2025,Diciembre,27,Empleado,Sin contrato,0.0,622.0,2101.0,2.1,Rechazado,25.68932401234568,-100.16110456790123
+51,Nuevo León,Guadalupe,026,2025,Octubre,25,Empleado,Sin contrato,0.0,1667.0,4594.0,4.59,Rechazado,25.68932401234568,-100.16110456790123
+52,Nuevo León,Monterrey,039,2025,Diciembre,25,Empleado,Sin contrato,0.0,15000.0,31839.0,31.84,Rechazado,25.55914746031746,-100.26696880952382
+53,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,25,Empleado,Sin contrato,0.0,16000.0,21658.0,21.66,Rechazado,25.755252777777777,-100.2895861111111
+54,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,23,Empleado,Sin contrato,0.0,10000.0,31910.0,31.91,Rechazado,25.755252777777777,-100.2895861111111
+55,Nuevo León,Monterrey,039,2025,Diciembre,26,Empleado,Sin contrato,0.0,17000.0,20490.0,20.49,Rechazado,25.55914746031746,-100.26696880952382
+56,Nuevo León,Monterrey,039,2025,Noviembre,26,Empleado,Sin contrato,0.0,60000.0,88562.0,88.56,Aprobado,25.55914746031746,-100.26696880952382
+57,Nuevo León,García,018,2025,Octubre,18,Empleado,Sin contrato,0.0,13867.0,44752.0,44.75,Rechazado,25.8149235154321,-100.62665417901233
+58,Nuevo León,Santa Catarina,048,2025,Diciembre,26,Empleado,Sin contrato,0.0,18000.0,37595.0,37.6,Rechazado,25.598188524305556,-100.48739686921296
+59,Nuevo León,Santa Catarina,048,2025,Noviembre,22,Empleado,Sin contrato,0.0,2000.0,5454.0,5.45,Rechazado,25.598188524305556,-100.48739686921296
+60,Nuevo León,García,018,2025,Noviembre,18,Empleado,Sin contrato,0.0,2000.0,4544.0,4.54,Rechazado,25.8149235154321,-100.62665417901233
+61,Nuevo León,Linares,033,2025,Noviembre,26,Empleado,Sin contrato,0.0,3000.0,7381.0,7.38,Rechazado,24.850526184108524,-99.55899921834624
+62,Nuevo León,Cadereyta Jiménez,009,2025,Noviembre,21,Empleado,Sin contrato,0.0,5958.0,8330.0,8.33,Rechazado,25.47843766025641,-99.96717816724941
+63,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,19,Empleado,Sin contrato,0.0,1550.0,1897.0,1.9,Rechazado,25.47843766025641,-99.96717816724941
+64,Nuevo León,Cadereyta Jiménez,009,2025,Diciembre,18,Empleado,Sin contrato,0.0,3000.0,4402.0,4.4,Rechazado,25.47843766025641,-99.96717816724941
+65,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,19,Empleado,Sin contrato,0.0,3000.0,2899.0,2.9,Rechazado,25.47843766025641,-99.96717816724941
+66,Nuevo León,General Zuazua,025,2025,Diciembre,27,Empleado,Sin contrato,0.0,11500.0,35914.0,35.91,Rechazado,25.89077779239766,-100.13730503898636
+67,Nuevo León,Ciénega de Flores,012,2025,Diciembre,19,Empleado,Sin contrato,0.0,667.0,900.0,0.9,Rechazado,25.96289115079365,-100.17802153174603
+68,Nuevo León,General Zuazua,025,2025,Noviembre,22,Empleado,Sin contrato,0.0,7153.0,15626.0,15.63,Rechazado,25.89077779239766,-100.13730503898636
+69,Nuevo León,General Zuazua,025,2025,Noviembre,20,Empleado,Sin contrato,0.0,1000.0,2876.0,2.88,Rechazado,25.89077779239766,-100.13730503898636
+70,Nuevo León,Anáhuac,005,2025,Octubre,23,Empleado,Sin contrato,0.0,14000.0,39921.0,39.92,Rechazado,27.289438437830686,-100.1443252037037
+71,Nuevo León,Sabinas Hidalgo,044,2025,Diciembre,21,Empleado,Sin contrato,0.0,4600.0,8350.0,8.35,Rechazado,26.487203570370372,-100.11743341481481
+72,Nuevo León,Anáhuac,005,2025,Diciembre,22,Empleado,Sin contrato,0.0,1000.0,1929.0,1.93,Rechazado,27.289438437830686,-100.1443252037037
+73,Nuevo León,Anáhuac,005,2025,Noviembre,19,Empleado,Sin contrato,0.0,60000.0,209046.0,209.05,Aprobado,27.289438437830686,-100.1443252037037
+74,Nuevo León,Anáhuac,005,2025,Octubre,18,Empleado,Sin contrato,0.0,7000.0,17667.0,17.67,Rechazado,27.289438437830686,-100.1443252037037
+75,Nuevo León,Anáhuac,005,2025,Octubre,25,Empleado,Sin contrato,0.0,3000.0,8832.0,8.83,Rechazado,27.289438437830686,-100.1443252037037
+76,Nuevo León,General Zuazua,025,2025,Noviembre,23,Empleado,Sin contrato,0.0,4000.0,12831.0,12.83,Rechazado,25.89077779239766,-100.13730503898636
+77,Nuevo León,Salinas Victoria,045,2025,Diciembre,26,Empleado,Sin contrato,0.0,500.0,1431.0,1.43,Rechazado,26.075659133141762,-100.28113906768837
+78,Nuevo León,General Zuazua,025,2025,Diciembre,23,Empleado,Sin contrato,0.0,10500.0,11083.0,11.08,Rechazado,25.89077779239766,-100.13730503898636
+79,Nuevo León,Bustamante,008,2025,Octubre,20,Empleado,Sin contrato,0.0,10000.0,21865.0,21.86,Rechazado,26.561276589147287,-100.49989370155038
+80,Nuevo León,Bustamante,008,2025,Diciembre,26,Empleado,Sin contrato,0.0,500.0,403.0,0.4,Rechazado,26.561276589147287,-100.49989370155038
+81,Nuevo León,Marín,034,2025,Noviembre,24,Empleado,Sin contrato,0.0,1117.0,2746.0,2.75,Rechazado,25.859648082437275,-100.02385195340501
+82,Nuevo León,San Pedro Garza García,019,2025,Diciembre,23,Empleado,Sin contrato,0.0,8000.0,26928.0,26.93,Rechazado,25.634911428571428,-100.38775825396826
+83,Nuevo León,Guadalupe,026,2025,Octubre,27,Empleado,Sin contrato,0.0,800.0,1631.0,1.63,Rechazado,25.68932401234568,-100.16110456790123
+84,Nuevo León,Guadalupe,026,2025,Noviembre,22,Empleado,Sin contrato,0.0,37933.0,68238.0,68.24,Rechazado,25.68932401234568,-100.16110456790123
+85,Nuevo León,Guadalupe,026,2025,Diciembre,23,Empleado,Sin contrato,0.0,3800.0,2309.0,2.31,Rechazado,25.68932401234568,-100.16110456790123
+86,Nuevo León,Guadalupe,026,2025,Octubre,26,Empleado,Sin contrato,0.0,11250.0,38017.0,38.02,Rechazado,25.68932401234568,-100.16110456790123
+87,Nuevo León,Guadalupe,026,2025,Diciembre,25,Empleado,Sin contrato,0.0,3000.0,2427.0,2.43,Rechazado,25.68932401234568,-100.16110456790123
+88,Nuevo León,Monterrey,039,2025,Diciembre,19,Empleado,Sin contrato,0.0,133.0,83.0,0.08,Rechazado,25.55914746031746,-100.26696880952382
+89,Nuevo León,Apodaca,006,2025,Octubre,19,Empleado,Sin contrato,0.0,4200.0,5200.0,5.2,Rechazado,25.78899183060109,-100.18325821038252
+90,Nuevo León,Apodaca,006,2025,Octubre,25,Empleado,Sin contrato,0.0,15000.0,10449.0,10.45,Rechazado,25.78899183060109,-100.18325821038252
+91,Nuevo León,Apodaca,006,2025,Diciembre,22,Empleado,Sin contrato,0.0,2000.0,3731.0,3.73,Rechazado,25.78899183060109,-100.18325821038252
+92,Nuevo León,San Pedro Garza García,019,2025,Octubre,19,Empleado,Sin contrato,0.0,167.0,342.0,0.34,Rechazado,25.634911428571428,-100.38775825396826
+93,Nuevo León,Monterrey,039,2025,Octubre,22,Empleado,Sin contrato,0.0,8100.0,11645.0,11.64,Rechazado,25.55914746031746,-100.26696880952382
+94,Nuevo León,Monterrey,039,2025,Noviembre,19,Empleado,Sin contrato,0.0,12000.0,7835.0,7.84,Rechazado,25.55914746031746,-100.26696880952382
+95,Nuevo León,Santa Catarina,048,2025,Diciembre,26,Empleado,Sin contrato,0.0,1550.0,1294.0,1.29,Rechazado,25.598188524305556,-100.48739686921296
+96,Nuevo León,Santa Catarina,048,2025,Octubre,26,Empleado,Sin contrato,0.0,1200.0,1984.0,1.98,Rechazado,25.598188524305556,-100.48739686921296
+97,Nuevo León,Monterrey,039,2025,Octubre,24,Empleado,Sin contrato,0.0,2000.0,1363.0,1.36,Rechazado,25.55914746031746,-100.26696880952382
+98,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,23,Empleado,Sin contrato,0.0,7483.0,19415.0,19.42,Rechazado,25.755252777777777,-100.2895861111111
+99,Nuevo León,Santa Catarina,048,2025,Noviembre,21,Empleado,Sin contrato,0.0,150000.0,168159.0,168.16,Aprobado,25.598188524305556,-100.48739686921296
+100,Nuevo León,Santa Catarina,048,2025,Diciembre,21,Empleado,Sin contrato,0.0,7000.0,9844.0,9.84,Rechazado,25.598188524305556,-100.48739686921296
+101,Nuevo León,San Pedro Garza García,019,2025,Noviembre,23,Empleado,Sin contrato,0.0,10000.0,16824.0,16.82,Rechazado,25.634911428571428,-100.38775825396826
+102,Nuevo León,General Escobedo,021,2025,Diciembre,25,Empleado,Sin contrato,0.0,8000.0,13999.0,14.0,Rechazado,25.827195,-100.37023350529101
+103,Nuevo León,General Escobedo,021,2025,Noviembre,26,Empleado,Sin contrato,0.0,4000.0,2020.0,2.02,Rechazado,25.827195,-100.37023350529101
+104,Nuevo León,Guadalupe,026,2025,Octubre,25,Empleado,Sin contrato,0.0,1000.0,836.0,0.84,Rechazado,25.68932401234568,-100.16110456790123
+105,Nuevo León,Guadalupe,026,2025,Diciembre,21,Empleado,Sin contrato,0.0,6400.0,19765.0,19.76,Rechazado,25.68932401234568,-100.16110456790123
+106,Nuevo León,Monterrey,039,2025,Noviembre,22,Empleado,Sin contrato,0.0,37798.0,19039.0,19.04,Rechazado,25.55914746031746,-100.26696880952382
+107,Nuevo León,General Escobedo,021,2025,Octubre,26,Empleado,Sin contrato,0.0,1000.0,2025.0,2.02,Rechazado,25.827195,-100.37023350529101
+108,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,25,Empleado,Sin contrato,0.0,24000.0,47244.0,47.24,Rechazado,25.755252777777777,-100.2895861111111
+109,Nuevo León,Monterrey,039,2025,Diciembre,25,Empleado,Sin contrato,0.0,5000.0,7496.0,7.5,Rechazado,25.55914746031746,-100.26696880952382
+110,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,3833.0,6876.0,6.88,Rechazado,25.55914746031746,-100.26696880952382
+111,Nuevo León,Monterrey,039,2025,Octubre,26,Empleado,Sin contrato,0.0,1000.0,2842.0,2.84,Rechazado,25.55914746031746,-100.26696880952382
+112,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,8000.0,24189.0,24.19,Rechazado,25.55914746031746,-100.26696880952382
+113,Nuevo León,Juárez,031,2025,Noviembre,27,Empleado,Sin contrato,0.0,18000.0,23059.0,23.06,Rechazado,25.60212283769063,-100.1228211083878
+114,Nuevo León,Juárez,031,2025,Noviembre,19,Empleado,Sin contrato,0.0,25000.0,36687.0,36.69,Rechazado,25.60212283769063,-100.1228211083878
+115,Nuevo León,Monterrey,039,2025,Noviembre,27,Empleado,Sin contrato,0.0,8000.0,9820.0,9.82,Rechazado,25.55914746031746,-100.26696880952382
+116,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,24,Empleado,Sin contrato,0.0,5500.0,10668.0,10.67,Rechazado,25.755252777777777,-100.2895861111111
+117,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,21,Empleado,Sin contrato,0.0,75000.0,191233.0,191.23,Aprobado,25.755252777777777,-100.2895861111111
+118,Nuevo León,Apodaca,006,2025,Noviembre,25,Empleado,Sin contrato,0.0,6000.0,7109.0,7.11,Rechazado,25.78899183060109,-100.18325821038252
+119,Nuevo León,Apodaca,006,2025,Noviembre,23,Empleado,Sin contrato,0.0,500.0,746.0,0.75,Rechazado,25.78899183060109,-100.18325821038252
+120,Nuevo León,Apodaca,006,2025,Noviembre,21,Empleado,Sin contrato,0.0,4000.0,13165.0,13.16,Rechazado,25.78899183060109,-100.18325821038252
+121,Nuevo León,Apodaca,006,2025,Octubre,27,Empleado,Sin contrato,0.0,6000.0,3874.0,3.87,Rechazado,25.78899183060109,-100.18325821038252
+122,Nuevo León,Apodaca,006,2025,Octubre,23,Empleado,Sin contrato,0.0,10000.0,18823.0,18.82,Rechazado,25.78899183060109,-100.18325821038252
+123,Nuevo León,General Escobedo,021,2025,Octubre,22,Empleado,Sin contrato,0.0,10000.0,26347.0,26.35,Rechazado,25.827195,-100.37023350529101
+124,Nuevo León,General Escobedo,021,2025,Noviembre,26,Empleado,Sin contrato,0.0,25.0,24.0,0.02,Rechazado,25.827195,-100.37023350529101
+125,Nuevo León,Monterrey,039,2025,Noviembre,23,Empleado,Sin contrato,0.0,10833.0,6956.0,6.96,Rechazado,25.55914746031746,-100.26696880952382
+126,Nuevo León,Monterrey,039,2025,Diciembre,27,Empleado,Sin contrato,0.0,3333.0,3048.0,3.05,Rechazado,25.55914746031746,-100.26696880952382
+127,Nuevo León,General Escobedo,021,2025,Noviembre,18,Empleado,Sin contrato,0.0,6300.0,20516.0,20.52,Rechazado,25.827195,-100.37023350529101
+128,Nuevo León,Juárez,031,2025,Noviembre,24,Empleado,Sin contrato,0.0,10933.0,5770.0,5.77,Rechazado,25.60212283769063,-100.1228211083878
+129,Nuevo León,Juárez,031,2025,Noviembre,26,Empleado,Sin contrato,0.0,450.0,479.0,0.48,Rechazado,25.60212283769063,-100.1228211083878
+130,Nuevo León,Apodaca,006,2025,Octubre,20,Empleado,Sin contrato,0.0,400.0,238.0,0.24,Rechazado,25.78899183060109,-100.18325821038252
+131,Nuevo León,Monterrey,039,2025,Noviembre,22,Empleado,Sin contrato,0.0,1200.0,998.0,1.0,Rechazado,25.55914746031746,-100.26696880952382
+132,Nuevo León,General Escobedo,021,2025,Noviembre,26,Empleado,Sin contrato,0.0,1000.0,2360.0,2.36,Rechazado,25.827195,-100.37023350529101
+133,Nuevo León,Guadalupe,026,2025,Noviembre,23,Empleado,Sin contrato,0.0,67.0,82.0,0.08,Rechazado,25.68932401234568,-100.16110456790123
+134,Nuevo León,Pesquería,041,2025,Octubre,22,Empleado,Sin contrato,0.0,2400.0,5298.0,5.3,Rechazado,25.75300753734827,-100.01929248132586
+135,Nuevo León,Pesquería,041,2025,Diciembre,25,Empleado,Sin contrato,0.0,16000.0,36329.0,36.33,Rechazado,25.75300753734827,-100.01929248132586
+136,Nuevo León,Apodaca,006,2025,Diciembre,27,Empleado,Sin contrato,0.0,2000.0,6097.0,6.1,Rechazado,25.78899183060109,-100.18325821038252
+137,Nuevo León,General Escobedo,021,2025,Octubre,19,Empleado,Sin contrato,0.0,10000.0,5142.0,5.14,Rechazado,25.827195,-100.37023350529101
+138,Nuevo León,Monterrey,039,2025,Noviembre,20,Empleado,Sin contrato,0.0,5000.0,15301.0,15.3,Rechazado,25.55914746031746,-100.26696880952382
+139,Nuevo León,Apodaca,006,2025,Diciembre,25,Empleado,Sin contrato,0.0,1500.0,3536.0,3.54,Rechazado,25.78899183060109,-100.18325821038252
+140,Nuevo León,Apodaca,006,2025,Octubre,19,Empleado,Sin contrato,0.0,1000.0,988.0,0.99,Rechazado,25.78899183060109,-100.18325821038252
+141,Nuevo León,García,018,2025,Diciembre,19,Empleado,Sin contrato,0.0,10000.0,28188.0,28.19,Rechazado,25.8149235154321,-100.62665417901233
+142,Nuevo León,Allende,004,2025,Noviembre,27,Empleado,Sin contrato,0.0,14700.0,45077.0,45.08,Rechazado,25.304741803418803,-100.0046524017094
+143,Nuevo León,Allende,004,2025,Diciembre,24,Empleado,Sin contrato,0.0,2833.0,3577.0,3.58,Rechazado,25.304741803418803,-100.0046524017094
+144,Nuevo León,Allende,004,2025,Diciembre,26,Empleado,Sin contrato,0.0,2700.0,8792.0,8.79,Rechazado,25.304741803418803,-100.0046524017094
+145,Nuevo León,Hidalgo,047,2025,Octubre,24,Empleado,Sin contrato,0.0,6000.0,11180.0,11.18,Rechazado,25.98203736111111,-100.4565300462963
+146,Nuevo León,Anáhuac,005,2025,Noviembre,27,Empleado,Sin contrato,0.0,833.0,1924.0,1.92,Rechazado,27.289438437830686,-100.1443252037037
+147,Nuevo León,Hidalgo,047,2025,Noviembre,25,Empleado,Sin contrato,0.0,15000.0,51809.0,51.81,Rechazado,25.98203736111111,-100.4565300462963
+148,Nuevo León,Hidalgo,047,2025,Octubre,25,Empleado,Sin contrato,0.0,6667.0,10565.0,10.56,Rechazado,25.98203736111111,-100.4565300462963
+149,Nuevo León,Sabinas Hidalgo,044,2025,Octubre,19,Empleado,Sin contrato,0.0,333.0,979.0,0.98,Rechazado,26.487203570370372,-100.11743341481481
+150,Nuevo León,General Zuazua,025,2025,Diciembre,23,Empleado,Sin contrato,0.0,7000.0,10186.0,10.19,Rechazado,25.89077779239766,-100.13730503898636
+151,Nuevo León,General Zuazua,025,2025,Octubre,19,Empleado,Sin contrato,0.0,25000.0,72441.0,72.44,Aprobado,25.89077779239766,-100.13730503898636
+152,Nuevo León,Marín,034,2025,Noviembre,25,Empleado,Sin contrato,0.0,960.0,2210.0,2.21,Rechazado,25.859648082437275,-100.02385195340501
+153,Nuevo León,García,018,2025,Diciembre,24,Empleado,Sin contrato,0.0,7000.0,8043.0,8.04,Rechazado,25.8149235154321,-100.62665417901233
+154,Nuevo León,García,018,2025,Octubre,22,Empleado,Sin contrato,0.0,40000.0,69683.0,69.68,Rechazado,25.8149235154321,-100.62665417901233
+155,Nuevo León,Galeana,017,2025,Noviembre,25,Empleado,Sin contrato,0.0,12250.0,17798.0,17.8,Rechazado,24.826310219067647,-100.3212828785489
+156,Nuevo León,Cadereyta Jiménez,009,2025,Diciembre,23,Empleado,Sin contrato,0.0,8000.0,5875.0,5.88,Rechazado,25.47843766025641,-99.96717816724941
+157,Nuevo León,Cadereyta Jiménez,009,2025,Noviembre,27,Empleado,Sin contrato,0.0,583.0,344.0,0.34,Rechazado,25.47843766025641,-99.96717816724941
+158,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,27,Empleado,Sin contrato,0.0,30000.0,46183.0,46.18,Rechazado,25.47843766025641,-99.96717816724941
+159,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,22,Empleado,Sin contrato,0.0,600.0,334.0,0.33,Rechazado,25.47843766025641,-99.96717816724941
+160,Nuevo León,Juárez,031,2025,Diciembre,24,Empleado,Sin contrato,0.0,13.0,13.0,0.01,Rechazado,25.60212283769063,-100.1228211083878
+161,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,2000.0,5351.0,5.35,Rechazado,25.55914746031746,-100.26696880952382
+162,Nuevo León,Monterrey,039,2025,Noviembre,22,Empleado,Sin contrato,0.0,7500.0,19682.0,19.68,Rechazado,25.55914746031746,-100.26696880952382
+163,Nuevo León,El Carmen,010,2025,Octubre,25,Empleado,Sin contrato,0.0,14000.0,38020.0,38.02,Rechazado,25.897698611111114,-100.35209398888888
+164,Nuevo León,Guadalupe,026,2025,Noviembre,23,Empleado,Sin contrato,0.0,3500.0,5080.0,5.08,Rechazado,25.68932401234568,-100.16110456790123
+165,Nuevo León,Apodaca,006,2025,Diciembre,21,Empleado,Sin contrato,0.0,7000.0,22190.0,22.19,Rechazado,25.78899183060109,-100.18325821038252
+166,Nuevo León,Guadalupe,026,2025,Noviembre,27,Empleado,Sin contrato,0.0,12000.0,27378.0,27.38,Rechazado,25.68932401234568,-100.16110456790123
+167,Nuevo León,Guadalupe,026,2025,Diciembre,25,Empleado,Sin contrato,0.0,10400.0,9132.0,9.13,Rechazado,25.68932401234568,-100.16110456790123
+168,Nuevo León,Monterrey,039,2025,Octubre,19,Empleado,Sin contrato,0.0,3500.0,3259.0,3.26,Rechazado,25.55914746031746,-100.26696880952382
+169,Nuevo León,Monterrey,039,2025,Noviembre,25,Empleado,Sin contrato,0.0,833.0,2149.0,2.15,Rechazado,25.55914746031746,-100.26696880952382
+170,Nuevo León,Monterrey,039,2025,Diciembre,27,Empleado,Sin contrato,0.0,1000.0,1019.0,1.02,Rechazado,25.55914746031746,-100.26696880952382
+171,Nuevo León,Apodaca,006,2025,Noviembre,26,Empleado,Sin contrato,0.0,8000.0,16175.0,16.18,Rechazado,25.78899183060109,-100.18325821038252
+172,Nuevo León,Apodaca,006,2025,Octubre,26,Empleado,Sin contrato,0.0,2500.0,8688.0,8.69,Rechazado,25.78899183060109,-100.18325821038252
+173,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,25,Empleado,Sin contrato,0.0,4000.0,2048.0,2.05,Rechazado,25.755252777777777,-100.2895861111111
+174,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,22,Empleado,Sin contrato,0.0,4000.0,2199.0,2.2,Rechazado,25.755252777777777,-100.2895861111111
+175,Nuevo León,Apodaca,006,2025,Noviembre,19,Empleado,Sin contrato,0.0,3000.0,10438.0,10.44,Rechazado,25.78899183060109,-100.18325821038252
+176,Nuevo León,General Escobedo,021,2025,Diciembre,25,Empleado,Sin contrato,0.0,3667.0,8265.0,8.26,Rechazado,25.827195,-100.37023350529101
+177,Nuevo León,Monterrey,039,2025,Octubre,19,Empleado,Sin contrato,0.0,780.0,687.0,0.69,Rechazado,25.55914746031746,-100.26696880952382
+178,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,22,Empleado,Sin contrato,0.0,20000.0,63838.0,63.84,Rechazado,25.755252777777777,-100.2895861111111
+179,Nuevo León,Santa Catarina,048,2025,Octubre,27,Empleado,Sin contrato,0.0,533.0,1674.0,1.67,Rechazado,25.598188524305556,-100.48739686921296
+180,Nuevo León,Santa Catarina,048,2025,Noviembre,27,Empleado,Sin contrato,0.0,11267.0,23758.0,23.76,Rechazado,25.598188524305556,-100.48739686921296
+181,Nuevo León,Juárez,031,2025,Octubre,26,Empleado,Sin contrato,0.0,2000.0,4731.0,4.73,Rechazado,25.60212283769063,-100.1228211083878
+182,Nuevo León,Apodaca,006,2025,Diciembre,21,Empleado,Sin contrato,0.0,4000.0,5278.0,5.28,Rechazado,25.78899183060109,-100.18325821038252
+183,Nuevo León,García,018,2025,Octubre,18,Empleado,Sin contrato,0.0,80000.0,52125.0,52.12,Rechazado,25.8149235154321,-100.62665417901233
+184,Nuevo León,García,018,2025,Diciembre,20,Empleado,Sin contrato,0.0,400.0,913.0,0.91,Rechazado,25.8149235154321,-100.62665417901233
+185,Nuevo León,Apodaca,006,2025,Octubre,27,Empleado,Sin contrato,0.0,50000.0,69213.0,69.21,Rechazado,25.78899183060109,-100.18325821038252
+186,Nuevo León,Monterrey,039,2025,Noviembre,25,Empleado,Sin contrato,0.0,11250.0,28022.0,28.02,Rechazado,25.55914746031746,-100.26696880952382
+187,Nuevo León,General Escobedo,021,2025,Noviembre,24,Empleado,Sin contrato,0.0,16000.0,48140.0,48.14,Rechazado,25.827195,-100.37023350529101
+188,Nuevo León,General Escobedo,021,2025,Diciembre,22,Empleado,Sin contrato,0.0,8450.0,4685.0,4.68,Rechazado,25.827195,-100.37023350529101
+189,Nuevo León,General Escobedo,021,2025,Noviembre,23,Empleado,Sin contrato,0.0,617.0,1411.0,1.41,Rechazado,25.827195,-100.37023350529101
+190,Nuevo León,General Escobedo,021,2025,Noviembre,20,Empleado,Sin contrato,0.0,3000.0,3582.0,3.58,Rechazado,25.827195,-100.37023350529101
+191,Nuevo León,Juárez,031,2025,Diciembre,20,Empleado,Sin contrato,0.0,7000.0,21852.0,21.85,Rechazado,25.60212283769063,-100.1228211083878
+192,Nuevo León,Juárez,031,2025,Noviembre,23,Empleado,Sin contrato,0.0,1103.0,1391.0,1.39,Rechazado,25.60212283769063,-100.1228211083878
+193,Nuevo León,General Escobedo,021,2025,Octubre,24,Empleado,Sin contrato,0.0,6750.0,15743.0,15.74,Rechazado,25.827195,-100.37023350529101
+194,Nuevo León,General Escobedo,021,2025,Diciembre,20,Empleado,Sin contrato,0.0,1000.0,2161.0,2.16,Rechazado,25.827195,-100.37023350529101
+195,Nuevo León,General Escobedo,021,2025,Noviembre,23,Empleado,Sin contrato,0.0,200.0,338.0,0.34,Rechazado,25.827195,-100.37023350529101
+196,Nuevo León,Juárez,031,2025,Octubre,27,Empleado,Sin contrato,0.0,3200.0,8105.0,8.1,Rechazado,25.60212283769063,-100.1228211083878
+197,Nuevo León,Monterrey,039,2025,Noviembre,22,Empleado,Sin contrato,0.0,100.0,268.0,0.27,Rechazado,25.55914746031746,-100.26696880952382
+198,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,4000.0,8803.0,8.8,Rechazado,25.55914746031746,-100.26696880952382
+199,Nuevo León,Apodaca,006,2025,Octubre,26,Empleado,Sin contrato,0.0,20000.0,55505.0,55.5,Rechazado,25.78899183060109,-100.18325821038252
+200,Nuevo León,Guadalupe,026,2025,Diciembre,26,Empleado,Sin contrato,0.0,6000.0,20702.0,20.7,Rechazado,25.68932401234568,-100.16110456790123
+201,Nuevo León,Guadalupe,026,2025,Octubre,25,Empleado,Sin contrato,0.0,1033.0,1816.0,1.82,Rechazado,25.68932401234568,-100.16110456790123
+202,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,27,Empleado,Sin contrato,0.0,700.0,1431.0,1.43,Rechazado,25.755252777777777,-100.2895861111111
+203,Nuevo León,Juárez,031,2025,Diciembre,19,Empleado,Sin contrato,0.0,117.0,63.0,0.06,Rechazado,25.60212283769063,-100.1228211083878
+204,Nuevo León,Monterrey,039,2025,Noviembre,25,Empleado,Sin contrato,0.0,10000.0,28881.0,28.88,Rechazado,25.55914746031746,-100.26696880952382
+205,Nuevo León,Monterrey,039,2025,Diciembre,21,Empleado,Sin contrato,0.0,100.0,206.0,0.21,Rechazado,25.55914746031746,-100.26696880952382
+206,Nuevo León,Apodaca,006,2025,Diciembre,20,Empleado,Sin contrato,0.0,4000.0,6896.0,6.9,Rechazado,25.78899183060109,-100.18325821038252
+207,Nuevo León,General Escobedo,021,2025,Diciembre,26,Empleado,Sin contrato,0.0,383.0,300.0,0.3,Rechazado,25.827195,-100.37023350529101
+208,Nuevo León,General Escobedo,021,2025,Noviembre,26,Empleado,Sin contrato,0.0,1000.0,3169.0,3.17,Rechazado,25.827195,-100.37023350529101
+209,Nuevo León,General Escobedo,021,2025,Octubre,21,Empleado,Sin contrato,0.0,20000.0,33700.0,33.7,Rechazado,25.827195,-100.37023350529101
+210,Nuevo León,General Escobedo,021,2025,Noviembre,26,Empleado,Sin contrato,0.0,833.0,2122.0,2.12,Rechazado,25.827195,-100.37023350529101
+211,Nuevo León,Monterrey,039,2025,Noviembre,23,Empleado,Sin contrato,0.0,314.0,298.0,0.3,Rechazado,25.55914746031746,-100.26696880952382
+212,Nuevo León,Santa Catarina,048,2025,Octubre,27,Empleado,Sin contrato,0.0,10000.0,33846.0,33.85,Rechazado,25.598188524305556,-100.48739686921296
+213,Nuevo León,García,018,2025,Noviembre,27,Empleado,Sin contrato,0.0,2700.0,2795.0,2.8,Rechazado,25.8149235154321,-100.62665417901233
+214,Nuevo León,Monterrey,039,2025,Octubre,24,Empleado,Sin contrato,0.0,4000.0,4395.0,4.39,Rechazado,25.55914746031746,-100.26696880952382
+215,Nuevo León,Monterrey,039,2025,Diciembre,23,Empleado,Sin contrato,0.0,4183.0,12871.0,12.87,Rechazado,25.55914746031746,-100.26696880952382
+216,Nuevo León,Juárez,031,2025,Octubre,25,Empleado,Sin contrato,0.0,10000.0,32377.0,32.38,Rechazado,25.60212283769063,-100.1228211083878
+217,Nuevo León,Juárez,031,2025,Octubre,20,Empleado,Sin contrato,0.0,25000.0,28411.0,28.41,Rechazado,25.60212283769063,-100.1228211083878
+218,Nuevo León,García,018,2025,Octubre,27,Empleado,Sin contrato,0.0,3000.0,5728.0,5.73,Rechazado,25.8149235154321,-100.62665417901233
+219,Nuevo León,García,018,2025,Octubre,23,Empleado,Sin contrato,0.0,3160.0,8534.0,8.53,Rechazado,25.8149235154321,-100.62665417901233
+220,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,21,Empleado,Sin contrato,0.0,3000.0,9405.0,9.4,Rechazado,25.47843766025641,-99.96717816724941
+221,Nuevo León,Montemorelos,038,2025,Octubre,26,Empleado,Sin contrato,0.0,25000.0,40929.0,40.93,Rechazado,25.186208204656864,-99.86381055759803
+222,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,25,Empleado,Sin contrato,0.0,6667.0,13674.0,13.67,Rechazado,25.47843766025641,-99.96717816724941
+223,Nuevo León,Ciénega de Flores,012,2025,Octubre,23,Empleado,Sin contrato,0.0,3000.0,8175.0,8.18,Rechazado,25.96289115079365,-100.17802153174603
+224,Nuevo León,Cadereyta Jiménez,009,2025,Noviembre,26,Empleado,Sin contrato,0.0,2000.0,5387.0,5.39,Rechazado,25.47843766025641,-99.96717816724941
+225,Nuevo León,Cadereyta Jiménez,009,2025,Noviembre,26,Empleado,Sin contrato,0.0,1050.0,2991.0,2.99,Rechazado,25.47843766025641,-99.96717816724941
+226,Nuevo León,Allende,004,2025,Octubre,24,Empleado,Sin contrato,0.0,14000.0,30937.0,30.94,Rechazado,25.304741803418803,-100.0046524017094
+227,Nuevo León,Allende,004,2025,Octubre,23,Empleado,Sin contrato,0.0,100.0,81.0,0.08,Rechazado,25.304741803418803,-100.0046524017094
+228,Nuevo León,Ciénega de Flores,012,2025,Octubre,25,Empleado,Sin contrato,0.0,167.0,536.0,0.54,Rechazado,25.96289115079365,-100.17802153174603
+229,Nuevo León,General Zuazua,025,2025,Octubre,26,Empleado,Sin contrato,0.0,65000.0,201287.0,201.29,Aprobado,25.89077779239766,-100.13730503898636
+230,Nuevo León,General Zuazua,025,2025,Octubre,22,Empleado,Sin contrato,0.0,8000.0,23154.0,23.15,Rechazado,25.89077779239766,-100.13730503898636
+231,Nuevo León,General Zuazua,025,2025,Diciembre,23,Empleado,Sin contrato,0.0,1294.0,1035.0,1.03,Rechazado,25.89077779239766,-100.13730503898636
+232,Nuevo León,Salinas Victoria,045,2025,Diciembre,18,Empleado,Sin contrato,0.0,5000.0,5566.0,5.57,Rechazado,26.075659133141762,-100.28113906768837
+233,Nuevo León,Marín,034,2025,Diciembre,26,Empleado,Sin contrato,0.0,14000.0,38231.0,38.23,Rechazado,25.859648082437275,-100.02385195340501
+234,Nuevo León,Marín,034,2025,Noviembre,20,Empleado,Sin contrato,0.0,13000.0,7402.0,7.4,Rechazado,25.859648082437275,-100.02385195340501
+235,Nuevo León,Montemorelos,038,2025,Noviembre,24,Empleado,Sin contrato,0.0,3000.0,10313.0,10.31,Rechazado,25.186208204656864,-99.86381055759803
+236,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,19,Empleado,Sin contrato,0.0,6000.0,9789.0,9.79,Rechazado,25.47843766025641,-99.96717816724941
+237,Nuevo León,Apodaca,006,2025,Diciembre,27,Empleado,Sin contrato,0.0,92.0,245.0,0.24,Rechazado,25.78899183060109,-100.18325821038252
+238,Nuevo León,Monterrey,039,2025,Diciembre,20,Empleado,Sin contrato,0.0,2333.0,7379.0,7.38,Rechazado,25.55914746031746,-100.26696880952382
+239,Nuevo León,Monterrey,039,2025,Diciembre,23,Empleado,Sin contrato,0.0,75000.0,126292.0,126.29,Aprobado,25.55914746031746,-100.26696880952382
+240,Nuevo León,Monterrey,039,2025,Diciembre,24,Empleado,Sin contrato,0.0,40000.0,58296.0,58.3,Rechazado,25.55914746031746,-100.26696880952382
+241,Nuevo León,Monterrey,039,2025,Noviembre,21,Empleado,Sin contrato,0.0,2500.0,5816.0,5.82,Rechazado,25.55914746031746,-100.26696880952382
+242,Nuevo León,Guadalupe,026,2025,Diciembre,22,Empleado,Sin contrato,0.0,2492.0,5589.0,5.59,Rechazado,25.68932401234568,-100.16110456790123
+243,Nuevo León,General Escobedo,021,2025,Diciembre,25,Empleado,Sin contrato,0.0,500.0,864.0,0.86,Rechazado,25.827195,-100.37023350529101
+244,Nuevo León,Guadalupe,026,2025,Octubre,20,Empleado,Sin contrato,0.0,5000.0,11527.0,11.53,Rechazado,25.68932401234568,-100.16110456790123
+245,Nuevo León,Guadalupe,026,2025,Diciembre,25,Empleado,Sin contrato,0.0,10000.0,33061.0,33.06,Rechazado,25.68932401234568,-100.16110456790123
+246,Nuevo León,Guadalupe,026,2025,Octubre,27,Empleado,Sin contrato,0.0,24152.0,45959.0,45.96,Rechazado,25.68932401234568,-100.16110456790123
+247,Nuevo León,Guadalupe,026,2025,Diciembre,21,Empleado,Sin contrato,0.0,6400.0,6977.0,6.98,Rechazado,25.68932401234568,-100.16110456790123
+248,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,26,Empleado,Sin contrato,0.0,1958.0,3195.0,3.2,Rechazado,25.755252777777777,-100.2895861111111
+249,Nuevo León,Guadalupe,026,2025,Octubre,26,Empleado,Sin contrato,0.0,2333.0,3925.0,3.92,Rechazado,25.68932401234568,-100.16110456790123
+250,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,22,Empleado,Sin contrato,0.0,9533.0,8516.0,8.52,Rechazado,25.755252777777777,-100.2895861111111
+251,Nuevo León,Apodaca,006,2025,Octubre,23,Empleado,Sin contrato,0.0,500.0,494.0,0.49,Rechazado,25.78899183060109,-100.18325821038252
+252,Nuevo León,General Escobedo,021,2025,Diciembre,26,Empleado,Sin contrato,0.0,18000.0,45966.0,45.97,Rechazado,25.827195,-100.37023350529101
+253,Nuevo León,General Escobedo,021,2025,Diciembre,18,Empleado,Sin contrato,0.0,6350.0,9642.0,9.64,Rechazado,25.827195,-100.37023350529101
+254,Nuevo León,Monterrey,039,2025,Noviembre,23,Empleado,Sin contrato,0.0,400.0,1346.0,1.35,Rechazado,25.55914746031746,-100.26696880952382
+255,Nuevo León,General Escobedo,021,2025,Diciembre,24,Empleado,Sin contrato,0.0,3800.0,4677.0,4.68,Rechazado,25.827195,-100.37023350529101
+256,Nuevo León,Juárez,031,2025,Octubre,25,Empleado,Sin contrato,0.0,11000.0,8765.0,8.76,Rechazado,25.60212283769063,-100.1228211083878
+257,Nuevo León,General Escobedo,021,2025,Octubre,23,Empleado,Sin contrato,0.0,417.0,1151.0,1.15,Rechazado,25.827195,-100.37023350529101
+258,Nuevo León,General Escobedo,021,2025,Noviembre,22,Empleado,Sin contrato,0.0,3000.0,9429.0,9.43,Rechazado,25.827195,-100.37023350529101
+259,Nuevo León,General Escobedo,021,2025,Octubre,27,Empleado,Sin contrato,0.0,3183.0,4247.0,4.25,Rechazado,25.827195,-100.37023350529101
+260,Nuevo León,General Escobedo,021,2025,Noviembre,26,Empleado,Sin contrato,0.0,1458.0,1613.0,1.61,Rechazado,25.827195,-100.37023350529101
+261,Nuevo León,Guadalupe,026,2025,Octubre,27,Empleado,Sin contrato,0.0,10000.0,10573.0,10.57,Rechazado,25.68932401234568,-100.16110456790123
+262,Nuevo León,Santa Catarina,048,2025,Noviembre,20,Empleado,Sin contrato,0.0,167.0,345.0,0.34,Rechazado,25.598188524305556,-100.48739686921296
+263,Nuevo León,Apodaca,006,2025,Noviembre,27,Empleado,Sin contrato,0.0,700.0,1334.0,1.33,Rechazado,25.78899183060109,-100.18325821038252
+264,Nuevo León,Juárez,031,2025,Diciembre,18,Empleado,Sin contrato,0.0,4500.0,5752.0,5.75,Rechazado,25.60212283769063,-100.1228211083878
+265,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,25000.0,15888.0,15.89,Rechazado,25.55914746031746,-100.26696880952382
+266,Nuevo León,Apodaca,006,2025,Diciembre,24,Empleado,Sin contrato,0.0,1000.0,1944.0,1.94,Rechazado,25.78899183060109,-100.18325821038252
+267,Nuevo León,El Carmen,010,2025,Noviembre,20,Empleado,Sin contrato,0.0,10000.0,33780.0,33.78,Rechazado,25.897698611111114,-100.35209398888888
+268,Nuevo León,Juárez,031,2025,Octubre,20,Empleado,Sin contrato,0.0,10000.0,24576.0,24.58,Rechazado,25.60212283769063,-100.1228211083878
+269,Nuevo León,Apodaca,006,2025,Noviembre,22,Empleado,Sin contrato,0.0,6000.0,11919.0,11.92,Rechazado,25.78899183060109,-100.18325821038252
+270,Nuevo León,Juárez,031,2025,Noviembre,21,Empleado,Sin contrato,0.0,3000.0,2496.0,2.5,Rechazado,25.60212283769063,-100.1228211083878
+271,Nuevo León,Juárez,031,2025,Octubre,19,Empleado,Sin contrato,0.0,833.0,1047.0,1.05,Rechazado,25.60212283769063,-100.1228211083878
+272,Nuevo León,General Escobedo,021,2025,Noviembre,26,Empleado,Sin contrato,0.0,167.0,231.0,0.23,Rechazado,25.827195,-100.37023350529101
+273,Nuevo León,García,018,2025,Octubre,25,Empleado,Sin contrato,0.0,10000.0,27944.0,27.94,Rechazado,25.8149235154321,-100.62665417901233
+274,Nuevo León,García,018,2025,Noviembre,21,Empleado,Sin contrato,0.0,3000.0,9390.0,9.39,Rechazado,25.8149235154321,-100.62665417901233
+275,Nuevo León,García,018,2025,Noviembre,22,Empleado,Sin contrato,0.0,16267.0,52135.0,52.14,Rechazado,25.8149235154321,-100.62665417901233
+276,Nuevo León,General Escobedo,021,2025,Noviembre,20,Empleado,Sin contrato,0.0,2000.0,6907.0,6.91,Rechazado,25.827195,-100.37023350529101
+277,Nuevo León,General Escobedo,021,2025,Diciembre,23,Empleado,Sin contrato,0.0,8000.0,27577.0,27.58,Rechazado,25.827195,-100.37023350529101
+278,Nuevo León,Monterrey,039,2025,Octubre,21,Empleado,Sin contrato,0.0,3000.0,10077.0,10.08,Rechazado,25.55914746031746,-100.26696880952382
+279,Nuevo León,Monterrey,039,2025,Diciembre,26,Empleado,Sin contrato,0.0,18000.0,12878.0,12.88,Rechazado,25.55914746031746,-100.26696880952382
+280,Nuevo León,García,018,2025,Diciembre,24,Empleado,Sin contrato,0.0,1250.0,1142.0,1.14,Rechazado,25.8149235154321,-100.62665417901233
+281,Nuevo León,Apodaca,006,2025,Diciembre,27,Empleado,Sin contrato,0.0,3000.0,4240.0,4.24,Rechazado,25.78899183060109,-100.18325821038252
+282,Nuevo León,Apodaca,006,2025,Diciembre,24,Empleado,Sin contrato,0.0,25000.0,53967.0,53.97,Rechazado,25.78899183060109,-100.18325821038252
+283,Nuevo León,Montemorelos,038,2025,Octubre,22,Empleado,Sin contrato,0.0,1333.0,1054.0,1.05,Rechazado,25.186208204656864,-99.86381055759803
+284,Nuevo León,Cadereyta Jiménez,009,2025,Noviembre,26,Empleado,Sin contrato,0.0,9967.0,30274.0,30.27,Rechazado,25.47843766025641,-99.96717816724941
+285,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,23,Empleado,Sin contrato,0.0,12150.0,28556.0,28.56,Rechazado,25.47843766025641,-99.96717816724941
+286,Nuevo León,Cadereyta Jiménez,009,2025,Diciembre,23,Empleado,Sin contrato,0.0,15000.0,31906.0,31.91,Rechazado,25.47843766025641,-99.96717816724941
+287,Nuevo León,General Zuazua,025,2025,Noviembre,22,Empleado,Sin contrato,0.0,3000.0,2988.0,2.99,Rechazado,25.89077779239766,-100.13730503898636
+288,Nuevo León,Allende,004,2025,Octubre,27,Empleado,Sin contrato,0.0,2250.0,2834.0,2.83,Rechazado,25.304741803418803,-100.0046524017094
+289,Nuevo León,Allende,004,2025,Diciembre,22,Empleado,Sin contrato,0.0,60.0,59.0,0.06,Rechazado,25.304741803418803,-100.0046524017094
+290,Nuevo León,Allende,004,2025,Octubre,25,Empleado,Sin contrato,0.0,10000.0,30558.0,30.56,Rechazado,25.304741803418803,-100.0046524017094
+291,Nuevo León,Hidalgo,047,2025,Noviembre,23,Empleado,Sin contrato,0.0,2000.0,4505.0,4.5,Rechazado,25.98203736111111,-100.4565300462963
+292,Nuevo León,Ciénega de Flores,012,2025,Diciembre,25,Empleado,Sin contrato,0.0,15750.0,42610.0,42.61,Rechazado,25.96289115079365,-100.17802153174603
+293,Nuevo León,Ciénega de Flores,012,2025,Octubre,22,Empleado,Sin contrato,0.0,800.0,1110.0,1.11,Rechazado,25.96289115079365,-100.17802153174603
+294,Nuevo León,Hidalgo,047,2025,Noviembre,18,Empleado,Sin contrato,0.0,13000.0,20979.0,20.98,Rechazado,25.98203736111111,-100.4565300462963
+295,Nuevo León,Salinas Victoria,045,2025,Diciembre,20,Empleado,Sin contrato,0.0,1333.0,2286.0,2.29,Rechazado,26.075659133141762,-100.28113906768837
+296,Nuevo León,General Zuazua,025,2025,Octubre,22,Empleado,Sin contrato,0.0,1800.0,5004.0,5.0,Rechazado,25.89077779239766,-100.13730503898636
+297,Nuevo León,General Zuazua,025,2025,Noviembre,21,Empleado,Sin contrato,0.0,20000.0,56341.0,56.34,Rechazado,25.89077779239766,-100.13730503898636
+298,Nuevo León,General Zuazua,025,2025,Octubre,19,Empleado,Sin contrato,0.0,5000.0,5602.0,5.6,Rechazado,25.89077779239766,-100.13730503898636
+299,Nuevo León,Ciénega de Flores,012,2025,Noviembre,24,Empleado,Sin contrato,0.0,8000.0,26597.0,26.6,Rechazado,25.96289115079365,-100.17802153174603
+300,Nuevo León,Bustamante,008,2025,Octubre,22,Empleado,Sin contrato,0.0,300.0,259.0,0.26,Rechazado,26.561276589147287,-100.49989370155038
+301,Nuevo León,Galeana,017,2025,Diciembre,23,Empleado,Sin contrato,0.0,3833.0,12221.0,12.22,Rechazado,24.826310219067647,-100.3212828785489
+302,Nuevo León,General Escobedo,021,2025,Diciembre,20,Empleado,Sin contrato,0.0,333.0,267.0,0.27,Rechazado,25.827195,-100.37023350529101
+303,Nuevo León,Juárez,031,2025,Octubre,23,Empleado,Sin contrato,0.0,4000.0,5174.0,5.17,Rechazado,25.60212283769063,-100.1228211083878
+304,Nuevo León,Monterrey,039,2025,Octubre,22,Empleado,Sin contrato,0.0,75000.0,227958.0,227.96,Aprobado,25.55914746031746,-100.26696880952382
+305,Nuevo León,Monterrey,039,2025,Noviembre,18,Empleado,Sin contrato,0.0,1000.0,1038.0,1.04,Rechazado,25.55914746031746,-100.26696880952382
+306,Nuevo León,Monterrey,039,2025,Diciembre,25,Empleado,Sin contrato,0.0,14000.0,24370.0,24.37,Rechazado,25.55914746031746,-100.26696880952382
+307,Nuevo León,El Carmen,010,2025,Noviembre,27,Empleado,Sin contrato,0.0,1083.0,2003.0,2.0,Rechazado,25.897698611111114,-100.35209398888888
+308,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,10000.0,12358.0,12.36,Rechazado,25.55914746031746,-100.26696880952382
+309,Nuevo León,El Carmen,010,2025,Octubre,20,Empleado,Sin contrato,0.0,1250.0,3288.0,3.29,Rechazado,25.897698611111114,-100.35209398888888
+310,Nuevo León,Guadalupe,026,2025,Diciembre,24,Empleado,Sin contrato,0.0,2000.0,6108.0,6.11,Rechazado,25.68932401234568,-100.16110456790123
+311,Nuevo León,Guadalupe,026,2025,Noviembre,25,Empleado,Sin contrato,0.0,7375.0,23037.0,23.04,Rechazado,25.68932401234568,-100.16110456790123
+312,Nuevo León,Guadalupe,026,2025,Diciembre,27,Empleado,Sin contrato,0.0,2500.0,3795.0,3.8,Rechazado,25.68932401234568,-100.16110456790123
+313,Nuevo León,Monterrey,039,2025,Noviembre,25,Empleado,Sin contrato,0.0,2000.0,4185.0,4.18,Rechazado,25.55914746031746,-100.26696880952382
+314,Nuevo León,Monterrey,039,2025,Diciembre,20,Empleado,Sin contrato,0.0,30000.0,37357.0,37.36,Rechazado,25.55914746031746,-100.26696880952382
+315,Nuevo León,Santa Catarina,048,2025,Octubre,24,Empleado,Sin contrato,0.0,3700.0,4567.0,4.57,Rechazado,25.598188524305556,-100.48739686921296
+316,Nuevo León,General Escobedo,021,2025,Octubre,22,Empleado,Sin contrato,0.0,13080.0,12868.0,12.87,Rechazado,25.827195,-100.37023350529101
+317,Nuevo León,Santiago,049,2025,Diciembre,26,Empleado,Sin contrato,0.0,6000.0,19920.0,19.92,Rechazado,25.405964980916032,-100.1997473812553
+318,Nuevo León,Santiago,049,2025,Diciembre,23,Empleado,Sin contrato,0.0,833.0,2636.0,2.64,Rechazado,25.405964980916032,-100.1997473812553
+319,Nuevo León,Santa Catarina,048,2025,Octubre,23,Empleado,Sin contrato,0.0,8100.0,22940.0,22.94,Rechazado,25.598188524305556,-100.48739686921296
+320,Nuevo León,Monterrey,039,2025,Noviembre,24,Empleado,Sin contrato,0.0,1250.0,2566.0,2.57,Rechazado,25.55914746031746,-100.26696880952382
+321,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,25,Empleado,Sin contrato,0.0,12000.0,23662.0,23.66,Rechazado,25.755252777777777,-100.2895861111111
+322,Nuevo León,Guadalupe,026,2025,Noviembre,25,Empleado,Sin contrato,0.0,7800.0,16296.0,16.3,Rechazado,25.68932401234568,-100.16110456790123
+323,Nuevo León,Monterrey,039,2025,Octubre,26,Empleado,Sin contrato,0.0,9533.0,20112.0,20.11,Rechazado,25.55914746031746,-100.26696880952382
+324,Nuevo León,Monterrey,039,2025,Diciembre,25,Empleado,Sin contrato,0.0,5400.0,9740.0,9.74,Rechazado,25.55914746031746,-100.26696880952382
+325,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,26,Empleado,Sin contrato,0.0,8000.0,7162.0,7.16,Rechazado,25.755252777777777,-100.2895861111111
+326,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,25,Empleado,Sin contrato,0.0,8000.0,7016.0,7.02,Rechazado,25.755252777777777,-100.2895861111111
+327,Nuevo León,García,018,2025,Octubre,21,Empleado,Sin contrato,0.0,11000.0,36924.0,36.92,Rechazado,25.8149235154321,-100.62665417901233
+328,Nuevo León,Apodaca,006,2025,Octubre,19,Empleado,Sin contrato,0.0,8000.0,15569.0,15.57,Rechazado,25.78899183060109,-100.18325821038252
+329,Nuevo León,General Escobedo,021,2025,Noviembre,18,Empleado,Sin contrato,0.0,11000.0,36956.0,36.96,Rechazado,25.827195,-100.37023350529101
+330,Nuevo León,General Escobedo,021,2025,Octubre,23,Empleado,Sin contrato,0.0,8000.0,7926.0,7.93,Rechazado,25.827195,-100.37023350529101
+331,Nuevo León,Guadalupe,026,2025,Noviembre,18,Empleado,Sin contrato,0.0,20000.0,43265.0,43.26,Rechazado,25.68932401234568,-100.16110456790123
+332,Nuevo León,Guadalupe,026,2025,Octubre,23,Empleado,Sin contrato,0.0,800.0,899.0,0.9,Rechazado,25.68932401234568,-100.16110456790123
+333,Nuevo León,Juárez,031,2025,Diciembre,24,Empleado,Sin contrato,0.0,2000.0,2519.0,2.52,Rechazado,25.60212283769063,-100.1228211083878
+334,Nuevo León,Monterrey,039,2025,Diciembre,23,Empleado,Sin contrato,0.0,192.0,113.0,0.11,Rechazado,25.55914746031746,-100.26696880952382
+335,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,25,Empleado,Sin contrato,0.0,1000.0,857.0,0.86,Rechazado,25.755252777777777,-100.2895861111111
+336,Nuevo León,Santa Catarina,048,2025,Octubre,24,Empleado,Sin contrato,0.0,12000.0,39007.0,39.01,Rechazado,25.598188524305556,-100.48739686921296
+337,Nuevo León,García,018,2025,Octubre,21,Empleado,Sin contrato,0.0,16998.0,24895.0,24.9,Rechazado,25.8149235154321,-100.62665417901233
+338,Nuevo León,Juárez,031,2025,Noviembre,24,Empleado,Sin contrato,0.0,10000.0,23244.0,23.24,Rechazado,25.60212283769063,-100.1228211083878
+339,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,27,Empleado,Sin contrato,0.0,3500.0,6633.0,6.63,Rechazado,25.755252777777777,-100.2895861111111
+340,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,19,Empleado,Sin contrato,0.0,50000.0,85068.0,85.07,Aprobado,25.755252777777777,-100.2895861111111
+341,Nuevo León,García,018,2025,Octubre,25,Empleado,Sin contrato,0.0,5250.0,11002.0,11.0,Rechazado,25.8149235154321,-100.62665417901233
+342,Nuevo León,General Escobedo,021,2025,Noviembre,25,Empleado,Sin contrato,0.0,6667.0,7078.0,7.08,Rechazado,25.827195,-100.37023350529101
+343,Nuevo León,General Escobedo,021,2025,Octubre,23,Empleado,Sin contrato,0.0,667.0,2312.0,2.31,Rechazado,25.827195,-100.37023350529101
+344,Nuevo León,General Escobedo,021,2025,Noviembre,26,Empleado,Sin contrato,0.0,8000.0,23639.0,23.64,Rechazado,25.827195,-100.37023350529101
+345,Nuevo León,García,018,2025,Octubre,27,Empleado,Sin contrato,0.0,6000.0,16349.0,16.35,Rechazado,25.8149235154321,-100.62665417901233
+346,Nuevo León,Apodaca,006,2025,Octubre,23,Empleado,Sin contrato,0.0,133.0,254.0,0.25,Rechazado,25.78899183060109,-100.18325821038252
+347,Nuevo León,Juárez,031,2025,Noviembre,22,Empleado,Sin contrato,0.0,5000.0,4793.0,4.79,Rechazado,25.60212283769063,-100.1228211083878
+348,Nuevo León,Juárez,031,2025,Noviembre,23,Empleado,Sin contrato,0.0,5000.0,16310.0,16.31,Rechazado,25.60212283769063,-100.1228211083878
+349,Nuevo León,Juárez,031,2025,Noviembre,24,Empleado,Sin contrato,0.0,1000.0,1524.0,1.52,Rechazado,25.60212283769063,-100.1228211083878
+350,Nuevo León,Juárez,031,2025,Noviembre,27,Empleado,Sin contrato,0.0,5000.0,3252.0,3.25,Rechazado,25.60212283769063,-100.1228211083878
+351,Nuevo León,Apodaca,006,2025,Diciembre,24,Empleado,Sin contrato,0.0,2000.0,3054.0,3.05,Rechazado,25.78899183060109,-100.18325821038252
+352,Nuevo León,Apodaca,006,2025,Noviembre,24,Empleado,Sin contrato,0.0,667.0,1923.0,1.92,Rechazado,25.78899183060109,-100.18325821038252
+353,Nuevo León,General Escobedo,021,2025,Noviembre,20,Empleado,Sin contrato,0.0,4500.0,10657.0,10.66,Rechazado,25.827195,-100.37023350529101
+354,Nuevo León,Monterrey,039,2025,Diciembre,27,Empleado,Sin contrato,0.0,8000.0,22020.0,22.02,Rechazado,25.55914746031746,-100.26696880952382
+355,Nuevo León,Apodaca,006,2025,Noviembre,21,Empleado,Sin contrato,0.0,36000.0,103713.0,103.71,Aprobado,25.78899183060109,-100.18325821038252
+356,Nuevo León,Monterrey,039,2025,Diciembre,26,Empleado,Sin contrato,0.0,3000.0,3408.0,3.41,Rechazado,25.55914746031746,-100.26696880952382
+357,Nuevo León,Guadalupe,026,2025,Diciembre,22,Empleado,Sin contrato,0.0,2000.0,6543.0,6.54,Rechazado,25.68932401234568,-100.16110456790123
+358,Nuevo León,General Escobedo,021,2025,Octubre,25,Empleado,Sin contrato,0.0,3000.0,5442.0,5.44,Rechazado,25.827195,-100.37023350529101
+359,Nuevo León,Pesquería,041,2025,Noviembre,27,Empleado,Sin contrato,0.0,6333.0,15307.0,15.31,Rechazado,25.75300753734827,-100.01929248132586
+360,Nuevo León,Guadalupe,026,2025,Diciembre,23,Empleado,Sin contrato,0.0,1041.0,528.0,0.53,Rechazado,25.68932401234568,-100.16110456790123
+361,Nuevo León,General Escobedo,021,2025,Diciembre,23,Empleado,Sin contrato,0.0,9667.0,33642.0,33.64,Rechazado,25.827195,-100.37023350529101
+362,Nuevo León,General Escobedo,021,2025,Noviembre,24,Empleado,Sin contrato,0.0,2000.0,2685.0,2.68,Rechazado,25.827195,-100.37023350529101
+363,Nuevo León,General Escobedo,021,2025,Octubre,19,Empleado,Sin contrato,0.0,425.0,292.0,0.29,Rechazado,25.827195,-100.37023350529101
+364,Nuevo León,Santa Catarina,048,2025,Noviembre,27,Empleado,Sin contrato,0.0,10833.0,20310.0,20.31,Rechazado,25.598188524305556,-100.48739686921296
+365,Nuevo León,García,018,2025,Octubre,27,Empleado,Sin contrato,0.0,14000.0,12419.0,12.42,Rechazado,25.8149235154321,-100.62665417901233
+366,Nuevo León,García,018,2025,Diciembre,26,Empleado,Sin contrato,0.0,12000.0,11484.0,11.48,Rechazado,25.8149235154321,-100.62665417901233
+367,Nuevo León,Linares,033,2025,Noviembre,26,Empleado,Sin contrato,0.0,37233.0,89242.0,89.24,Aprobado,24.850526184108524,-99.55899921834624
+368,Nuevo León,Montemorelos,038,2025,Diciembre,22,Empleado,Sin contrato,0.0,8233.0,13821.0,13.82,Rechazado,25.186208204656864,-99.86381055759803
+369,Nuevo León,Montemorelos,038,2025,Diciembre,24,Empleado,Sin contrato,0.0,3000.0,9797.0,9.8,Rechazado,25.186208204656864,-99.86381055759803
+370,Nuevo León,Cadereyta Jiménez,009,2025,Noviembre,19,Empleado,Sin contrato,0.0,19500.0,28421.0,28.42,Rechazado,25.47843766025641,-99.96717816724941
+371,Nuevo León,Cadereyta Jiménez,009,2025,Noviembre,24,Empleado,Sin contrato,0.0,8000.0,21428.0,21.43,Rechazado,25.47843766025641,-99.96717816724941
+372,Nuevo León,Salinas Victoria,045,2025,Diciembre,22,Empleado,Sin contrato,0.0,6400.0,12053.0,12.05,Rechazado,26.075659133141762,-100.28113906768837
+373,Nuevo León,Salinas Victoria,045,2025,Diciembre,18,Empleado,Sin contrato,0.0,583.0,1446.0,1.45,Rechazado,26.075659133141762,-100.28113906768837
+374,Nuevo León,Allende,004,2025,Diciembre,25,Empleado,Sin contrato,0.0,2000.0,4598.0,4.6,Rechazado,25.304741803418803,-100.0046524017094
+375,Nuevo León,Hidalgo,047,2025,Octubre,19,Empleado,Sin contrato,0.0,30000.0,57551.0,57.55,Rechazado,25.98203736111111,-100.4565300462963
+376,Nuevo León,Hidalgo,047,2025,Noviembre,20,Empleado,Sin contrato,0.0,7875.0,26383.0,26.38,Rechazado,25.98203736111111,-100.4565300462963
+377,Nuevo León,Sabinas Hidalgo,044,2025,Octubre,22,Empleado,Sin contrato,0.0,2250.0,3438.0,3.44,Rechazado,26.487203570370372,-100.11743341481481
+378,Nuevo León,Sabinas Hidalgo,044,2025,Diciembre,25,Empleado,Sin contrato,0.0,15000.0,15476.0,15.48,Rechazado,26.487203570370372,-100.11743341481481
+379,Nuevo León,Sabinas Hidalgo,044,2025,Noviembre,24,Empleado,Sin contrato,0.0,6000.0,15206.0,15.21,Rechazado,26.487203570370372,-100.11743341481481
+380,Nuevo León,General Zuazua,025,2025,Noviembre,22,Empleado,Sin contrato,0.0,14888.0,45230.0,45.23,Rechazado,25.89077779239766,-100.13730503898636
+381,Nuevo León,General Zuazua,025,2025,Octubre,18,Empleado,Sin contrato,0.0,6000.0,3725.0,3.72,Rechazado,25.89077779239766,-100.13730503898636
+382,Nuevo León,Salinas Victoria,045,2025,Octubre,23,Empleado,Sin contrato,0.0,18000.0,33280.0,33.28,Rechazado,26.075659133141762,-100.28113906768837
+383,Nuevo León,Salinas Victoria,045,2025,Diciembre,24,Empleado,Sin contrato,0.0,6000.0,19065.0,19.07,Rechazado,26.075659133141762,-100.28113906768837
+384,Nuevo León,Ciénega de Flores,012,2025,Octubre,25,Empleado,Sin contrato,0.0,13000.0,35735.0,35.74,Rechazado,25.96289115079365,-100.17802153174603
+385,Nuevo León,Ciénega de Flores,012,2025,Octubre,24,Empleado,Sin contrato,0.0,6500.0,22590.0,22.59,Rechazado,25.96289115079365,-100.17802153174603
+386,Nuevo León,García,018,2025,Diciembre,19,Empleado,Sin contrato,0.0,5000.0,10471.0,10.47,Rechazado,25.8149235154321,-100.62665417901233
+387,Nuevo León,García,018,2025,Diciembre,25,Empleado,Sin contrato,0.0,2000.0,4960.0,4.96,Rechazado,25.8149235154321,-100.62665417901233
+388,Nuevo León,García,018,2025,Octubre,24,Empleado,Sin contrato,0.0,16000.0,22519.0,22.52,Rechazado,25.8149235154321,-100.62665417901233
+389,Nuevo León,Galeana,017,2025,Octubre,26,Empleado,Sin contrato,0.0,7875.0,26323.0,26.32,Rechazado,24.826310219067647,-100.3212828785489
+390,Nuevo León,Galeana,017,2025,Diciembre,23,Empleado,Sin contrato,0.0,7000.0,11193.0,11.19,Rechazado,24.826310219067647,-100.3212828785489
+391,Nuevo León,Galeana,017,2025,Diciembre,27,Empleado,Sin contrato,0.0,7000.0,19009.0,19.01,Rechazado,24.826310219067647,-100.3212828785489
+392,Nuevo León,Galeana,017,2025,Noviembre,24,Empleado,Sin contrato,0.0,8000.0,13675.0,13.68,Rechazado,24.826310219067647,-100.3212828785489
+393,Nuevo León,Galeana,017,2025,Octubre,20,Empleado,Sin contrato,0.0,8050.0,17593.0,17.59,Rechazado,24.826310219067647,-100.3212828785489
+394,Nuevo León,Guadalupe,026,2025,Octubre,22,Empleado,Sin contrato,0.0,1000.0,2659.0,2.66,Rechazado,25.68932401234568,-100.16110456790123
+395,Nuevo León,Guadalupe,026,2025,Octubre,26,Empleado,Sin contrato,0.0,15167.0,30741.0,30.74,Rechazado,25.68932401234568,-100.16110456790123
+396,Nuevo León,Monterrey,039,2025,Diciembre,20,Empleado,Sin contrato,0.0,15000.0,48319.0,48.32,Rechazado,25.55914746031746,-100.26696880952382
+397,Nuevo León,Apodaca,006,2025,Octubre,24,Empleado,Sin contrato,0.0,4000.0,7032.0,7.03,Rechazado,25.78899183060109,-100.18325821038252
+398,Nuevo León,General Escobedo,021,2025,Octubre,25,Empleado,Sin contrato,0.0,4000.0,9765.0,9.76,Rechazado,25.827195,-100.37023350529101
+399,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,22,Empleado,Sin contrato,0.0,3000.0,4581.0,4.58,Rechazado,25.755252777777777,-100.2895861111111
+400,Nuevo León,General Escobedo,021,2025,Diciembre,24,Empleado,Sin contrato,0.0,5000.0,8622.0,8.62,Rechazado,25.827195,-100.37023350529101
+401,Nuevo León,Juárez,031,2025,Diciembre,22,Empleado,Sin contrato,0.0,8000.0,14561.0,14.56,Rechazado,25.60212283769063,-100.1228211083878
+402,Nuevo León,Monterrey,039,2025,Noviembre,26,Empleado,Sin contrato,0.0,7000.0,6142.0,6.14,Rechazado,25.55914746031746,-100.26696880952382
+403,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,27,Empleado,Sin contrato,0.0,4000.0,3101.0,3.1,Rechazado,25.755252777777777,-100.2895861111111
+404,Nuevo León,Santa Catarina,048,2025,Noviembre,21,Empleado,Sin contrato,0.0,5000.0,12512.0,12.51,Rechazado,25.598188524305556,-100.48739686921296
+405,Nuevo León,Guadalupe,026,2025,Octubre,19,Empleado,Sin contrato,0.0,8267.0,20391.0,20.39,Rechazado,25.68932401234568,-100.16110456790123
+406,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,23,Empleado,Sin contrato,0.0,1550.0,3858.0,3.86,Rechazado,25.755252777777777,-100.2895861111111
+407,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,22,Empleado,Sin contrato,0.0,500.0,280.0,0.28,Rechazado,25.755252777777777,-100.2895861111111
+408,Nuevo León,General Escobedo,021,2025,Noviembre,25,Empleado,Sin contrato,0.0,7500.0,11097.0,11.1,Rechazado,25.827195,-100.37023350529101
+409,Nuevo León,General Escobedo,021,2025,Diciembre,24,Empleado,Sin contrato,0.0,20000.0,21869.0,21.87,Rechazado,25.827195,-100.37023350529101
+410,Nuevo León,Monterrey,039,2025,Diciembre,22,Empleado,Sin contrato,0.0,1500.0,4252.0,4.25,Rechazado,25.55914746031746,-100.26696880952382
+411,Nuevo León,Monterrey,039,2025,Octubre,19,Empleado,Sin contrato,0.0,300.0,925.0,0.92,Rechazado,25.55914746031746,-100.26696880952382
+412,Nuevo León,Monterrey,039,2025,Noviembre,21,Empleado,Sin contrato,0.0,27000.0,33481.0,33.48,Rechazado,25.55914746031746,-100.26696880952382
+413,Nuevo León,General Escobedo,021,2025,Octubre,27,Empleado,Sin contrato,0.0,3800.0,9513.0,9.51,Rechazado,25.827195,-100.37023350529101
+414,Nuevo León,Monterrey,039,2025,Noviembre,18,Empleado,Sin contrato,0.0,10000.0,8881.0,8.88,Rechazado,25.55914746031746,-100.26696880952382
+415,Nuevo León,Santa Catarina,048,2025,Octubre,27,Empleado,Sin contrato,0.0,3000.0,3976.0,3.98,Rechazado,25.598188524305556,-100.48739686921296
+416,Nuevo León,Apodaca,006,2025,Octubre,27,Empleado,Sin contrato,0.0,14000.0,12823.0,12.82,Rechazado,25.78899183060109,-100.18325821038252
+417,Nuevo León,Apodaca,006,2025,Diciembre,27,Empleado,Sin contrato,0.0,567.0,766.0,0.77,Rechazado,25.78899183060109,-100.18325821038252
+418,Nuevo León,San Pedro Garza García,019,2025,Noviembre,23,Empleado,Sin contrato,0.0,691.0,1744.0,1.74,Rechazado,25.634911428571428,-100.38775825396826
+419,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,25,Empleado,Sin contrato,0.0,4000.0,12924.0,12.92,Rechazado,25.755252777777777,-100.2895861111111
+420,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,22,Empleado,Sin contrato,0.0,1000.0,1108.0,1.11,Rechazado,25.755252777777777,-100.2895861111111
+421,Nuevo León,General Escobedo,021,2025,Octubre,27,Empleado,Sin contrato,0.0,4500.0,9568.0,9.57,Rechazado,25.827195,-100.37023350529101
+422,Nuevo León,General Escobedo,021,2025,Noviembre,23,Empleado,Sin contrato,0.0,2167.0,5643.0,5.64,Rechazado,25.827195,-100.37023350529101
+423,Nuevo León,Juárez,031,2025,Octubre,25,Empleado,Sin contrato,0.0,14167.0,47584.0,47.58,Rechazado,25.60212283769063,-100.1228211083878
+424,Nuevo León,Monterrey,039,2025,Octubre,24,Empleado,Sin contrato,0.0,11700.0,27263.0,27.26,Rechazado,25.55914746031746,-100.26696880952382
+425,Nuevo León,Monterrey,039,2025,Diciembre,18,Empleado,Sin contrato,0.0,267.0,338.0,0.34,Rechazado,25.55914746031746,-100.26696880952382
+426,Nuevo León,Apodaca,006,2025,Octubre,19,Empleado,Sin contrato,0.0,9000.0,21388.0,21.39,Rechazado,25.78899183060109,-100.18325821038252
+427,Nuevo León,Guadalupe,026,2025,Octubre,21,Empleado,Sin contrato,0.0,3000.0,4384.0,4.38,Rechazado,25.68932401234568,-100.16110456790123
+428,Nuevo León,Guadalupe,026,2025,Noviembre,23,Empleado,Sin contrato,0.0,400.0,1371.0,1.37,Rechazado,25.68932401234568,-100.16110456790123
+429,Nuevo León,Apodaca,006,2025,Noviembre,21,Empleado,Sin contrato,0.0,167.0,284.0,0.28,Rechazado,25.78899183060109,-100.18325821038252
+430,Nuevo León,Apodaca,006,2025,Noviembre,20,Empleado,Sin contrato,0.0,350.0,895.0,0.9,Rechazado,25.78899183060109,-100.18325821038252
+431,Nuevo León,Monterrey,039,2025,Noviembre,21,Empleado,Sin contrato,0.0,5000.0,2848.0,2.85,Rechazado,25.55914746031746,-100.26696880952382
+432,Nuevo León,Monterrey,039,2025,Diciembre,27,Empleado,Sin contrato,0.0,450.0,765.0,0.76,Rechazado,25.55914746031746,-100.26696880952382
+433,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,26,Empleado,Sin contrato,0.0,1200.0,3750.0,3.75,Rechazado,25.755252777777777,-100.2895861111111
+434,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,24,Empleado,Sin contrato,0.0,20000.0,46614.0,46.61,Rechazado,25.755252777777777,-100.2895861111111
+435,Nuevo León,Juárez,031,2025,Diciembre,19,Empleado,Sin contrato,0.0,3700.0,6778.0,6.78,Rechazado,25.60212283769063,-100.1228211083878
+436,Nuevo León,Monterrey,039,2025,Diciembre,26,Empleado,Sin contrato,0.0,9000.0,29770.0,29.77,Rechazado,25.55914746031746,-100.26696880952382
+437,Nuevo León,El Carmen,010,2025,Noviembre,20,Empleado,Sin contrato,0.0,18000.0,55115.0,55.12,Rechazado,25.897698611111114,-100.35209398888888
+438,Nuevo León,Juárez,031,2025,Noviembre,19,Empleado,Sin contrato,0.0,12000.0,17600.0,17.6,Rechazado,25.60212283769063,-100.1228211083878
+439,Nuevo León,Apodaca,006,2025,Octubre,27,Empleado,Sin contrato,0.0,2000.0,4267.0,4.27,Rechazado,25.78899183060109,-100.18325821038252
+440,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,26,Empleado,Sin contrato,0.0,21583.0,42507.0,42.51,Rechazado,25.755252777777777,-100.2895861111111
+441,Nuevo León,Santiago,049,2025,Octubre,21,Empleado,Sin contrato,0.0,2000.0,4793.0,4.79,Rechazado,25.405964980916032,-100.1997473812553
+442,Nuevo León,General Escobedo,021,2025,Diciembre,24,Empleado,Sin contrato,0.0,4000.0,6009.0,6.01,Rechazado,25.827195,-100.37023350529101
+443,Nuevo León,García,018,2025,Octubre,21,Empleado,Sin contrato,0.0,8000.0,9861.0,9.86,Rechazado,25.8149235154321,-100.62665417901233
+444,Nuevo León,García,018,2025,Diciembre,25,Empleado,Sin contrato,0.0,7300.0,23638.0,23.64,Rechazado,25.8149235154321,-100.62665417901233
+445,Nuevo León,Montemorelos,038,2025,Octubre,23,Empleado,Sin contrato,0.0,1500.0,4907.0,4.91,Rechazado,25.186208204656864,-99.86381055759803
+446,Nuevo León,Cadereyta Jiménez,009,2025,Diciembre,22,Empleado,Sin contrato,0.0,7000.0,21210.0,21.21,Rechazado,25.47843766025641,-99.96717816724941
+447,Nuevo León,Ciénega de Flores,012,2025,Diciembre,27,Empleado,Sin contrato,0.0,12800.0,43963.0,43.96,Rechazado,25.96289115079365,-100.17802153174603
+448,Nuevo León,Anáhuac,005,2025,Octubre,22,Empleado,Sin contrato,0.0,1517.0,4149.0,4.15,Rechazado,27.289438437830686,-100.1443252037037
+449,Nuevo León,Ciénega de Flores,012,2025,Octubre,19,Empleado,Sin contrato,0.0,5000.0,13970.0,13.97,Rechazado,25.96289115079365,-100.17802153174603
+450,Nuevo León,General Zuazua,025,2025,Octubre,24,Empleado,Sin contrato,0.0,14000.0,39029.0,39.03,Rechazado,25.89077779239766,-100.13730503898636
+451,Nuevo León,General Zuazua,025,2025,Diciembre,24,Empleado,Sin contrato,0.0,25000.0,48546.0,48.55,Rechazado,25.89077779239766,-100.13730503898636
+452,Nuevo León,General Zuazua,025,2025,Octubre,22,Empleado,Sin contrato,0.0,16000.0,29910.0,29.91,Rechazado,25.89077779239766,-100.13730503898636
+453,Nuevo León,General Zuazua,025,2025,Noviembre,19,Empleado,Sin contrato,0.0,502.0,613.0,0.61,Rechazado,25.89077779239766,-100.13730503898636
+454,Nuevo León,General Zuazua,025,2025,Noviembre,21,Empleado,Sin contrato,0.0,3333.0,8114.0,8.11,Rechazado,25.89077779239766,-100.13730503898636
+455,Nuevo León,Ciénega de Flores,012,2025,Diciembre,19,Empleado,Sin contrato,0.0,3000.0,4104.0,4.1,Rechazado,25.96289115079365,-100.17802153174603
+456,Nuevo León,Bustamante,008,2025,Noviembre,20,Empleado,Sin contrato,0.0,6300.0,8023.0,8.02,Rechazado,26.561276589147287,-100.49989370155038
+457,Nuevo León,General Zuazua,025,2025,Noviembre,26,Empleado,Sin contrato,0.0,10400.0,23482.0,23.48,Rechazado,25.89077779239766,-100.13730503898636
+458,Nuevo León,Montemorelos,038,2025,Diciembre,23,Empleado,Sin contrato,0.0,200.0,346.0,0.35,Rechazado,25.186208204656864,-99.86381055759803
+459,Nuevo León,Montemorelos,038,2025,Octubre,22,Empleado,Sin contrato,0.0,40000.0,46263.0,46.26,Rechazado,25.186208204656864,-99.86381055759803
+460,Nuevo León,Galeana,017,2025,Diciembre,19,Empleado,Sin contrato,0.0,2002.0,5902.0,5.9,Rechazado,24.826310219067647,-100.3212828785489
+461,Nuevo León,General Escobedo,021,2025,Octubre,22,Empleado,Sin contrato,0.0,2400.0,7396.0,7.4,Rechazado,25.827195,-100.37023350529101
+462,Nuevo León,General Escobedo,021,2025,Noviembre,22,Empleado,Sin contrato,0.0,14167.0,14211.0,14.21,Rechazado,25.827195,-100.37023350529101
+463,Nuevo León,Juárez,031,2025,Diciembre,23,Empleado,Sin contrato,0.0,5000.0,2613.0,2.61,Rechazado,25.60212283769063,-100.1228211083878
+464,Nuevo León,Juárez,031,2025,Noviembre,27,Empleado,Sin contrato,0.0,100000.0,150839.0,150.84,Aprobado,25.60212283769063,-100.1228211083878
+465,Nuevo León,San Pedro Garza García,019,2025,Diciembre,19,Empleado,Sin contrato,0.0,10833.0,31335.0,31.34,Rechazado,25.634911428571428,-100.38775825396826
+466,Nuevo León,Juárez,031,2025,Octubre,18,Empleado,Sin contrato,0.0,6000.0,18105.0,18.1,Rechazado,25.60212283769063,-100.1228211083878
+467,Nuevo León,Santa Catarina,048,2025,Noviembre,21,Empleado,Sin contrato,0.0,1143.0,1046.0,1.05,Rechazado,25.598188524305556,-100.48739686921296
+468,Nuevo León,San Pedro Garza García,019,2025,Noviembre,27,Empleado,Sin contrato,0.0,7000.0,19761.0,19.76,Rechazado,25.634911428571428,-100.38775825396826
+469,Nuevo León,San Pedro Garza García,019,2025,Noviembre,24,Empleado,Sin contrato,0.0,15000.0,12707.0,12.71,Rechazado,25.634911428571428,-100.38775825396826
+470,Nuevo León,Apodaca,006,2025,Noviembre,27,Empleado,Sin contrato,0.0,6000.0,10021.0,10.02,Rechazado,25.78899183060109,-100.18325821038252
+471,Nuevo León,Santiago,049,2025,Octubre,19,Empleado,Sin contrato,0.0,4000.0,13983.0,13.98,Rechazado,25.405964980916032,-100.1997473812553
+472,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,27,Empleado,Sin contrato,0.0,3000.0,3233.0,3.23,Rechazado,25.755252777777777,-100.2895861111111
+473,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,23,Empleado,Sin contrato,0.0,5000.0,4809.0,4.81,Rechazado,25.755252777777777,-100.2895861111111
+474,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,26,Empleado,Sin contrato,0.0,800.0,1415.0,1.42,Rechazado,25.755252777777777,-100.2895861111111
+475,Nuevo León,Juárez,031,2025,Octubre,19,Empleado,Sin contrato,0.0,3000.0,7077.0,7.08,Rechazado,25.60212283769063,-100.1228211083878
+476,Nuevo León,Apodaca,006,2025,Diciembre,19,Empleado,Sin contrato,0.0,3000.0,9896.0,9.9,Rechazado,25.78899183060109,-100.18325821038252
+477,Nuevo León,Monterrey,039,2025,Noviembre,19,Empleado,Sin contrato,0.0,2450.0,8434.0,8.43,Rechazado,25.55914746031746,-100.26696880952382
+478,Nuevo León,Monterrey,039,2025,Octubre,23,Empleado,Sin contrato,0.0,3000.0,2127.0,2.13,Rechazado,25.55914746031746,-100.26696880952382
+479,Nuevo León,Monterrey,039,2025,Diciembre,25,Empleado,Sin contrato,0.0,7200.0,6581.0,6.58,Rechazado,25.55914746031746,-100.26696880952382
+480,Nuevo León,Monterrey,039,2025,Diciembre,25,Empleado,Sin contrato,0.0,1333.0,3829.0,3.83,Rechazado,25.55914746031746,-100.26696880952382
+481,Nuevo León,Monterrey,039,2025,Octubre,18,Empleado,Sin contrato,0.0,1000.0,1312.0,1.31,Rechazado,25.55914746031746,-100.26696880952382
+482,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,23,Empleado,Sin contrato,0.0,70000.0,220818.0,220.82,Aprobado,25.755252777777777,-100.2895861111111
+483,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,23,Empleado,Sin contrato,0.0,5000.0,12452.0,12.45,Rechazado,25.755252777777777,-100.2895861111111
+484,Nuevo León,Apodaca,006,2025,Octubre,19,Empleado,Sin contrato,0.0,2500.0,2089.0,2.09,Rechazado,25.78899183060109,-100.18325821038252
+485,Nuevo León,Monterrey,039,2025,Diciembre,27,Empleado,Sin contrato,0.0,10833.0,32473.0,32.47,Rechazado,25.55914746031746,-100.26696880952382
+486,Nuevo León,Juárez,031,2025,Diciembre,18,Empleado,Sin contrato,0.0,1000.0,1029.0,1.03,Rechazado,25.60212283769063,-100.1228211083878
+487,Nuevo León,Santa Catarina,048,2025,Octubre,19,Empleado,Sin contrato,0.0,6000.0,10623.0,10.62,Rechazado,25.598188524305556,-100.48739686921296
+488,Nuevo León,Monterrey,039,2025,Diciembre,23,Empleado,Sin contrato,0.0,9000.0,19409.0,19.41,Rechazado,25.55914746031746,-100.26696880952382
+489,Nuevo León,El Carmen,010,2025,Octubre,27,Empleado,Sin contrato,0.0,2667.0,5340.0,5.34,Rechazado,25.897698611111114,-100.35209398888888
+490,Nuevo León,El Carmen,010,2025,Noviembre,25,Empleado,Sin contrato,0.0,460.0,1177.0,1.18,Rechazado,25.897698611111114,-100.35209398888888
+491,Nuevo León,Guadalupe,026,2025,Diciembre,23,Empleado,Sin contrato,0.0,165000.0,405580.0,405.58,Aprobado,25.68932401234568,-100.16110456790123
+492,Nuevo León,Monterrey,039,2025,Noviembre,21,Empleado,Sin contrato,0.0,3000.0,10428.0,10.43,Rechazado,25.55914746031746,-100.26696880952382
+493,Nuevo León,Santa Catarina,048,2025,Octubre,26,Empleado,Sin contrato,0.0,2000.0,6997.0,7.0,Rechazado,25.598188524305556,-100.48739686921296
+494,Nuevo León,García,018,2025,Noviembre,27,Empleado,Sin contrato,0.0,92.0,189.0,0.19,Rechazado,25.8149235154321,-100.62665417901233
+495,Nuevo León,Apodaca,006,2025,Diciembre,23,Empleado,Sin contrato,0.0,10050.0,7895.0,7.9,Rechazado,25.78899183060109,-100.18325821038252
+496,Nuevo León,Apodaca,006,2025,Octubre,25,Empleado,Sin contrato,0.0,2000.0,5367.0,5.37,Rechazado,25.78899183060109,-100.18325821038252
+497,Nuevo León,Apodaca,006,2025,Octubre,21,Empleado,Sin contrato,0.0,7000.0,24010.0,24.01,Rechazado,25.78899183060109,-100.18325821038252
+498,Nuevo León,Apodaca,006,2025,Octubre,19,Empleado,Sin contrato,0.0,11250.0,16369.0,16.37,Rechazado,25.78899183060109,-100.18325821038252
+499,Nuevo León,Guadalupe,026,2025,Noviembre,22,Empleado,Sin contrato,0.0,1333.0,2511.0,2.51,Rechazado,25.68932401234568,-100.16110456790123
+500,Nuevo León,Guadalupe,026,2025,Noviembre,26,Empleado,Sin contrato,0.0,1000.0,1774.0,1.77,Rechazado,25.68932401234568,-100.16110456790123
+501,Nuevo León,Juárez,031,2025,Diciembre,26,Empleado,Sin contrato,0.0,1600.0,1047.0,1.05,Rechazado,25.60212283769063,-100.1228211083878
+502,Nuevo León,Juárez,031,2025,Diciembre,23,Empleado,Sin contrato,0.0,11160.0,28087.0,28.09,Rechazado,25.60212283769063,-100.1228211083878
+503,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,24,Empleado,Sin contrato,0.0,4533.0,7072.0,7.07,Rechazado,25.755252777777777,-100.2895861111111
+504,Nuevo León,Juárez,031,2025,Diciembre,26,Empleado,Sin contrato,0.0,10000.0,28624.0,28.62,Rechazado,25.60212283769063,-100.1228211083878
+505,Nuevo León,Monterrey,039,2025,Octubre,19,Empleado,Sin contrato,0.0,24000.0,71913.0,71.91,Aprobado,25.55914746031746,-100.26696880952382
+506,Nuevo León,Monterrey,039,2025,Noviembre,26,Empleado,Sin contrato,0.0,12400.0,36750.0,36.75,Rechazado,25.55914746031746,-100.26696880952382
+507,Nuevo León,Apodaca,006,2025,Octubre,23,Empleado,Sin contrato,0.0,9600.0,16800.0,16.8,Rechazado,25.78899183060109,-100.18325821038252
+508,Nuevo León,García,018,2025,Octubre,22,Empleado,Sin contrato,0.0,2100.0,3076.0,3.08,Rechazado,25.8149235154321,-100.62665417901233
+509,Nuevo León,García,018,2025,Diciembre,24,Empleado,Sin contrato,0.0,1333.0,3661.0,3.66,Rechazado,25.8149235154321,-100.62665417901233
+510,Nuevo León,García,018,2025,Diciembre,27,Empleado,Sin contrato,0.0,1500.0,4356.0,4.36,Rechazado,25.8149235154321,-100.62665417901233
+511,Nuevo León,García,018,2025,Diciembre,21,Empleado,Sin contrato,0.0,8000.0,15790.0,15.79,Rechazado,25.8149235154321,-100.62665417901233
+512,Nuevo León,García,018,2025,Noviembre,21,Empleado,Sin contrato,0.0,4017.0,12770.0,12.77,Rechazado,25.8149235154321,-100.62665417901233
+513,Nuevo León,Cadereyta Jiménez,009,2025,Noviembre,24,Empleado,Sin contrato,0.0,12000.0,11181.0,11.18,Rechazado,25.47843766025641,-99.96717816724941
+514,Nuevo León,Montemorelos,038,2025,Noviembre,27,Empleado,Sin contrato,0.0,8100.0,25411.0,25.41,Rechazado,25.186208204656864,-99.86381055759803
+515,Nuevo León,General Zuazua,025,2025,Octubre,24,Empleado,Sin contrato,0.0,6000.0,4730.0,4.73,Rechazado,25.89077779239766,-100.13730503898636
+516,Nuevo León,General Zuazua,025,2025,Octubre,22,Empleado,Sin contrato,0.0,8000.0,7685.0,7.68,Rechazado,25.89077779239766,-100.13730503898636
+517,Nuevo León,Hidalgo,047,2025,Noviembre,21,Empleado,Sin contrato,0.0,6000.0,12609.0,12.61,Rechazado,25.98203736111111,-100.4565300462963
+518,Nuevo León,Sabinas Hidalgo,044,2025,Octubre,22,Empleado,Sin contrato,0.0,5000.0,3513.0,3.51,Rechazado,26.487203570370372,-100.11743341481481
+519,Nuevo León,Anáhuac,005,2025,Diciembre,26,Empleado,Sin contrato,0.0,16000.0,10535.0,10.54,Rechazado,27.289438437830686,-100.1443252037037
+520,Nuevo León,Salinas Victoria,045,2025,Octubre,22,Empleado,Sin contrato,0.0,8700.0,4364.0,4.36,Rechazado,26.075659133141762,-100.28113906768837
+521,Nuevo León,Salinas Victoria,045,2025,Octubre,25,Empleado,Sin contrato,0.0,5200.0,9407.0,9.41,Rechazado,26.075659133141762,-100.28113906768837
+522,Nuevo León,Cerralvo,011,2025,Diciembre,22,Empleado,Sin contrato,0.0,7467.0,21086.0,21.09,Rechazado,26.100784722222222,-99.64702152046785
+523,Nuevo León,Cerralvo,011,2025,Octubre,18,Empleado,Sin contrato,0.0,4000.0,2418.0,2.42,Rechazado,26.100784722222222,-99.64702152046785
+524,Nuevo León,Ciénega de Flores,012,2025,Diciembre,22,Empleado,Sin contrato,0.0,583.0,1432.0,1.43,Rechazado,25.96289115079365,-100.17802153174603
+525,Nuevo León,Ciénega de Flores,012,2025,Diciembre,22,Empleado,Sin contrato,0.0,6000.0,17816.0,17.82,Rechazado,25.96289115079365,-100.17802153174603
+526,Nuevo León,Ciénega de Flores,012,2025,Octubre,19,Empleado,Sin contrato,0.0,5000.0,5020.0,5.02,Rechazado,25.96289115079365,-100.17802153174603
+527,Nuevo León,Montemorelos,038,2025,Diciembre,27,Empleado,Sin contrato,0.0,500.0,470.0,0.47,Rechazado,25.186208204656864,-99.86381055759803
+528,Nuevo León,Galeana,017,2025,Noviembre,20,Empleado,Sin contrato,0.0,8667.0,26715.0,26.72,Rechazado,24.826310219067647,-100.3212828785489
+529,Nuevo León,Galeana,017,2025,Diciembre,18,Empleado,Sin contrato,0.0,20000.0,59387.0,59.39,Rechazado,24.826310219067647,-100.3212828785489
+530,Nuevo León,Santa Catarina,048,2025,Diciembre,23,Empleado,Sin contrato,0.0,20000.0,42337.0,42.34,Rechazado,25.598188524305556,-100.48739686921296
+531,Nuevo León,General Escobedo,021,2025,Diciembre,22,Empleado,Sin contrato,0.0,35000.0,103516.0,103.52,Aprobado,25.827195,-100.37023350529101
+532,Nuevo León,Guadalupe,026,2025,Noviembre,23,Empleado,Sin contrato,0.0,2574.0,2003.0,2.0,Rechazado,25.68932401234568,-100.16110456790123
+533,Nuevo León,Monterrey,039,2025,Octubre,26,Empleado,Sin contrato,0.0,2500.0,4209.0,4.21,Rechazado,25.55914746031746,-100.26696880952382
+534,Nuevo León,El Carmen,010,2025,Diciembre,23,Empleado,Sin contrato,0.0,500.0,1357.0,1.36,Rechazado,25.897698611111114,-100.35209398888888
+535,Nuevo León,El Carmen,010,2025,Diciembre,20,Empleado,Sin contrato,0.0,400.0,509.0,0.51,Rechazado,25.897698611111114,-100.35209398888888
+536,Nuevo León,El Carmen,010,2025,Noviembre,18,Empleado,Sin contrato,0.0,2800.0,7720.0,7.72,Rechazado,25.897698611111114,-100.35209398888888
+537,Nuevo León,Guadalupe,026,2025,Noviembre,26,Empleado,Sin contrato,0.0,3000.0,6038.0,6.04,Rechazado,25.68932401234568,-100.16110456790123
+538,Nuevo León,Monterrey,039,2025,Noviembre,22,Empleado,Sin contrato,0.0,1000.0,2751.0,2.75,Rechazado,25.55914746031746,-100.26696880952382
+539,Nuevo León,Juárez,031,2025,Diciembre,22,Empleado,Sin contrato,0.0,16000.0,30305.0,30.3,Rechazado,25.60212283769063,-100.1228211083878
+540,Nuevo León,Santiago,049,2025,Diciembre,25,Empleado,Sin contrato,0.0,283.0,454.0,0.45,Rechazado,25.405964980916032,-100.1997473812553
+541,Nuevo León,Santiago,049,2025,Octubre,22,Empleado,Sin contrato,0.0,12000.0,13891.0,13.89,Rechazado,25.405964980916032,-100.1997473812553
+542,Nuevo León,Monterrey,039,2025,Octubre,26,Empleado,Sin contrato,0.0,9540.0,10734.0,10.73,Rechazado,25.55914746031746,-100.26696880952382
+543,Nuevo León,Monterrey,039,2025,Noviembre,25,Empleado,Sin contrato,0.0,9500.0,26167.0,26.17,Rechazado,25.55914746031746,-100.26696880952382
+544,Nuevo León,Monterrey,039,2025,Noviembre,24,Empleado,Sin contrato,0.0,800.0,685.0,0.68,Rechazado,25.55914746031746,-100.26696880952382
+545,Nuevo León,Monterrey,039,2025,Noviembre,24,Empleado,Sin contrato,0.0,8000.0,6064.0,6.06,Rechazado,25.55914746031746,-100.26696880952382
+546,Nuevo León,Apodaca,006,2025,Octubre,23,Empleado,Sin contrato,0.0,1500.0,1543.0,1.54,Rechazado,25.78899183060109,-100.18325821038252
+547,Nuevo León,Apodaca,006,2025,Noviembre,21,Empleado,Sin contrato,0.0,4000.0,4104.0,4.1,Rechazado,25.78899183060109,-100.18325821038252
+548,Nuevo León,García,018,2025,Noviembre,23,Empleado,Sin contrato,0.0,4500.0,13362.0,13.36,Rechazado,25.8149235154321,-100.62665417901233
+549,Nuevo León,Juárez,031,2025,Noviembre,24,Empleado,Sin contrato,0.0,2000.0,3391.0,3.39,Rechazado,25.60212283769063,-100.1228211083878
+550,Nuevo León,Monterrey,039,2025,Noviembre,24,Empleado,Sin contrato,0.0,8667.0,30085.0,30.08,Rechazado,25.55914746031746,-100.26696880952382
+551,Nuevo León,El Carmen,010,2025,Diciembre,24,Empleado,Sin contrato,0.0,30000.0,27349.0,27.35,Rechazado,25.897698611111114,-100.35209398888888
+552,Nuevo León,El Carmen,010,2025,Noviembre,20,Empleado,Sin contrato,0.0,1167.0,2872.0,2.87,Rechazado,25.897698611111114,-100.35209398888888
+553,Nuevo León,García,018,2025,Diciembre,23,Empleado,Sin contrato,0.0,8000.0,14770.0,14.77,Rechazado,25.8149235154321,-100.62665417901233
+554,Nuevo León,Apodaca,006,2025,Noviembre,22,Empleado,Sin contrato,0.0,6000.0,10073.0,10.07,Rechazado,25.78899183060109,-100.18325821038252
+555,Nuevo León,General Escobedo,021,2025,Noviembre,24,Empleado,Sin contrato,0.0,10000.0,31253.0,31.25,Rechazado,25.827195,-100.37023350529101
+556,Nuevo León,Apodaca,006,2025,Noviembre,22,Empleado,Sin contrato,0.0,3000.0,10280.0,10.28,Rechazado,25.78899183060109,-100.18325821038252
+557,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,20,Empleado,Sin contrato,0.0,6750.0,21050.0,21.05,Rechazado,25.755252777777777,-100.2895861111111
+558,Nuevo León,General Escobedo,021,2025,Octubre,26,Empleado,Sin contrato,0.0,7650.0,8238.0,8.24,Rechazado,25.827195,-100.37023350529101
+559,Nuevo León,Monterrey,039,2025,Noviembre,25,Empleado,Sin contrato,0.0,6000.0,6974.0,6.97,Rechazado,25.55914746031746,-100.26696880952382
+560,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,26,Empleado,Sin contrato,0.0,6000.0,14809.0,14.81,Rechazado,25.755252777777777,-100.2895861111111
+561,Nuevo León,General Escobedo,021,2025,Diciembre,24,Empleado,Sin contrato,0.0,6000.0,8204.0,8.2,Rechazado,25.827195,-100.37023350529101
+562,Nuevo León,Juárez,031,2025,Octubre,26,Empleado,Sin contrato,0.0,500.0,1352.0,1.35,Rechazado,25.60212283769063,-100.1228211083878
+563,Nuevo León,Apodaca,006,2025,Noviembre,25,Empleado,Sin contrato,0.0,6000.0,13196.0,13.2,Rechazado,25.78899183060109,-100.18325821038252
+564,Nuevo León,Monterrey,039,2025,Octubre,19,Empleado,Sin contrato,0.0,7200.0,15500.0,15.5,Rechazado,25.55914746031746,-100.26696880952382
+565,Nuevo León,Monterrey,039,2025,Diciembre,20,Empleado,Sin contrato,0.0,10400.0,31051.0,31.05,Rechazado,25.55914746031746,-100.26696880952382
+566,Nuevo León,Guadalupe,026,2025,Diciembre,24,Empleado,Sin contrato,0.0,4000.0,10526.0,10.53,Rechazado,25.68932401234568,-100.16110456790123
+567,Nuevo León,Guadalupe,026,2025,Noviembre,19,Empleado,Sin contrato,0.0,12600.0,7305.0,7.3,Rechazado,25.68932401234568,-100.16110456790123
+568,Nuevo León,Monterrey,039,2025,Noviembre,22,Empleado,Sin contrato,0.0,6000.0,3890.0,3.89,Rechazado,25.55914746031746,-100.26696880952382
+569,Nuevo León,García,018,2025,Octubre,20,Empleado,Sin contrato,0.0,500.0,1152.0,1.15,Rechazado,25.8149235154321,-100.62665417901233
+570,Nuevo León,García,018,2025,Noviembre,24,Empleado,Sin contrato,0.0,1000.0,1959.0,1.96,Rechazado,25.8149235154321,-100.62665417901233
+571,Nuevo León,General Escobedo,021,2025,Diciembre,24,Empleado,Sin contrato,0.0,60000.0,76833.0,76.83,Aprobado,25.827195,-100.37023350529101
+572,Nuevo León,Guadalupe,026,2025,Diciembre,26,Empleado,Sin contrato,0.0,6000.0,10536.0,10.54,Rechazado,25.68932401234568,-100.16110456790123
+573,Nuevo León,Guadalupe,026,2025,Noviembre,25,Empleado,Sin contrato,0.0,6400.0,17752.0,17.75,Rechazado,25.68932401234568,-100.16110456790123
+574,Nuevo León,Guadalupe,026,2025,Noviembre,25,Empleado,Sin contrato,0.0,8009.0,23865.0,23.86,Rechazado,25.68932401234568,-100.16110456790123
+575,Nuevo León,Guadalupe,026,2025,Octubre,25,Empleado,Sin contrato,0.0,4500.0,9827.0,9.83,Rechazado,25.68932401234568,-100.16110456790123
+576,Nuevo León,Juárez,031,2025,Octubre,26,Empleado,Sin contrato,0.0,2000.0,3312.0,3.31,Rechazado,25.60212283769063,-100.1228211083878
+577,Nuevo León,Monterrey,039,2025,Octubre,24,Empleado,Sin contrato,0.0,10000.0,13121.0,13.12,Rechazado,25.55914746031746,-100.26696880952382
+578,Nuevo León,Monterrey,039,2025,Noviembre,20,Empleado,Sin contrato,0.0,9000.0,18592.0,18.59,Rechazado,25.55914746031746,-100.26696880952382
+579,Nuevo León,Juárez,031,2025,Diciembre,24,Empleado,Sin contrato,0.0,2000.0,2888.0,2.89,Rechazado,25.60212283769063,-100.1228211083878
+580,Nuevo León,Apodaca,006,2025,Noviembre,21,Empleado,Sin contrato,0.0,900.0,1973.0,1.97,Rechazado,25.78899183060109,-100.18325821038252
+581,Nuevo León,San Pedro Garza García,019,2025,Octubre,24,Empleado,Sin contrato,0.0,14000.0,35419.0,35.42,Rechazado,25.634911428571428,-100.38775825396826
+582,Nuevo León,San Pedro Garza García,019,2025,Octubre,19,Empleado,Sin contrato,0.0,4500.0,3142.0,3.14,Rechazado,25.634911428571428,-100.38775825396826
+583,Nuevo León,Apodaca,006,2025,Octubre,21,Empleado,Sin contrato,0.0,16000.0,8051.0,8.05,Rechazado,25.78899183060109,-100.18325821038252
+584,Nuevo León,Apodaca,006,2025,Diciembre,21,Empleado,Sin contrato,0.0,2000.0,2274.0,2.27,Rechazado,25.78899183060109,-100.18325821038252
+585,Nuevo León,General Escobedo,021,2025,Noviembre,27,Empleado,Sin contrato,0.0,2000.0,6367.0,6.37,Rechazado,25.827195,-100.37023350529101
+586,Nuevo León,General Escobedo,021,2025,Diciembre,20,Empleado,Sin contrato,0.0,15133.0,36907.0,36.91,Rechazado,25.827195,-100.37023350529101
+587,Nuevo León,Guadalupe,026,2025,Diciembre,20,Empleado,Sin contrato,0.0,9000.0,9143.0,9.14,Rechazado,25.68932401234568,-100.16110456790123
+588,Nuevo León,Guadalupe,026,2025,Octubre,26,Empleado,Sin contrato,0.0,250.0,793.0,0.79,Rechazado,25.68932401234568,-100.16110456790123
+589,Nuevo León,Juárez,031,2025,Noviembre,21,Empleado,Sin contrato,0.0,3585.0,6847.0,6.85,Rechazado,25.60212283769063,-100.1228211083878
+590,Nuevo León,Apodaca,006,2025,Diciembre,24,Empleado,Sin contrato,0.0,8967.0,17291.0,17.29,Rechazado,25.78899183060109,-100.18325821038252
+591,Nuevo León,Apodaca,006,2025,Noviembre,22,Empleado,Sin contrato,0.0,18460.0,61040.0,61.04,Rechazado,25.78899183060109,-100.18325821038252
+592,Nuevo León,Guadalupe,026,2025,Octubre,21,Empleado,Sin contrato,0.0,8100.0,5496.0,5.5,Rechazado,25.68932401234568,-100.16110456790123
+593,Nuevo León,Guadalupe,026,2025,Diciembre,26,Empleado,Sin contrato,0.0,22000.0,25202.0,25.2,Rechazado,25.68932401234568,-100.16110456790123
+594,Nuevo León,Monterrey,039,2025,Diciembre,22,Empleado,Sin contrato,0.0,8100.0,18284.0,18.28,Rechazado,25.55914746031746,-100.26696880952382
+595,Nuevo León,Monterrey,039,2025,Noviembre,21,Empleado,Sin contrato,0.0,2020.0,2195.0,2.19,Rechazado,25.55914746031746,-100.26696880952382
+596,Nuevo León,General Escobedo,021,2025,Noviembre,21,Empleado,Sin contrato,0.0,3800.0,9647.0,9.65,Rechazado,25.827195,-100.37023350529101
+597,Nuevo León,General Escobedo,021,2025,Octubre,19,Empleado,Sin contrato,0.0,3000.0,3427.0,3.43,Rechazado,25.827195,-100.37023350529101
+598,Nuevo León,García,018,2025,Diciembre,20,Empleado,Sin contrato,0.0,1000.0,797.0,0.8,Rechazado,25.8149235154321,-100.62665417901233
+599,Nuevo León,García,018,2025,Noviembre,20,Empleado,Sin contrato,0.0,2000.0,2242.0,2.24,Rechazado,25.8149235154321,-100.62665417901233
+600,Nuevo León,Apodaca,006,2025,Octubre,20,Empleado,Sin contrato,0.0,833.0,1473.0,1.47,Rechazado,25.78899183060109,-100.18325821038252
+601,Nuevo León,García,018,2025,Diciembre,24,Empleado,Sin contrato,0.0,15000.0,15426.0,15.43,Rechazado,25.8149235154321,-100.62665417901233
+602,Nuevo León,García,018,2025,Diciembre,19,Empleado,Sin contrato,0.0,15000.0,13561.0,13.56,Rechazado,25.8149235154321,-100.62665417901233
+603,Nuevo León,García,018,2025,Diciembre,24,Empleado,Sin contrato,0.0,9667.0,29783.0,29.78,Rechazado,25.8149235154321,-100.62665417901233
+604,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,21,Empleado,Sin contrato,0.0,2000.0,2922.0,2.92,Rechazado,25.47843766025641,-99.96717816724941
+605,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,22,Empleado,Sin contrato,0.0,9000.0,14240.0,14.24,Rechazado,25.47843766025641,-99.96717816724941
+606,Nuevo León,Cadereyta Jiménez,009,2025,Diciembre,20,Empleado,Sin contrato,0.0,1617.0,1077.0,1.08,Rechazado,25.47843766025641,-99.96717816724941
+607,Nuevo León,Cadereyta Jiménez,009,2025,Diciembre,20,Empleado,Sin contrato,0.0,5550.0,8725.0,8.72,Rechazado,25.47843766025641,-99.96717816724941
+608,Nuevo León,General Zuazua,025,2025,Noviembre,24,Empleado,Sin contrato,0.0,1000.0,1294.0,1.29,Rechazado,25.89077779239766,-100.13730503898636
+609,Nuevo León,General Zuazua,025,2025,Noviembre,23,Empleado,Sin contrato,0.0,60000.0,139887.0,139.89,Aprobado,25.89077779239766,-100.13730503898636
+610,Nuevo León,Ciénega de Flores,012,2025,Noviembre,19,Empleado,Sin contrato,0.0,7648.0,8536.0,8.54,Rechazado,25.96289115079365,-100.17802153174603
+611,Nuevo León,Ciénega de Flores,012,2025,Noviembre,18,Empleado,Sin contrato,0.0,19000.0,60137.0,60.14,Rechazado,25.96289115079365,-100.17802153174603
+612,Nuevo León,Allende,004,2025,Octubre,26,Empleado,Sin contrato,0.0,2500.0,8222.0,8.22,Rechazado,25.304741803418803,-100.0046524017094
+613,Nuevo León,Allende,004,2025,Octubre,27,Empleado,Sin contrato,0.0,13867.0,11087.0,11.09,Rechazado,25.304741803418803,-100.0046524017094
+614,Nuevo León,Allende,004,2025,Octubre,24,Empleado,Sin contrato,0.0,3067.0,2522.0,2.52,Rechazado,25.304741803418803,-100.0046524017094
+615,Nuevo León,Ciénega de Flores,012,2025,Diciembre,18,Empleado,Sin contrato,0.0,9000.0,7614.0,7.61,Rechazado,25.96289115079365,-100.17802153174603
+616,Nuevo León,Hidalgo,047,2025,Octubre,25,Empleado,Sin contrato,0.0,7000.0,16511.0,16.51,Rechazado,25.98203736111111,-100.4565300462963
+617,Nuevo León,Sabinas Hidalgo,044,2025,Octubre,21,Empleado,Sin contrato,0.0,75000.0,64943.0,64.94,Rechazado,26.487203570370372,-100.11743341481481
+618,Nuevo León,Anáhuac,005,2025,Noviembre,22,Empleado,Sin contrato,0.0,11250.0,34393.0,34.39,Rechazado,27.289438437830686,-100.1443252037037
+619,Nuevo León,General Zuazua,025,2025,Octubre,26,Empleado,Sin contrato,0.0,7000.0,19340.0,19.34,Rechazado,25.89077779239766,-100.13730503898636
+620,Nuevo León,General Zuazua,025,2025,Octubre,26,Empleado,Sin contrato,0.0,1500.0,4439.0,4.44,Rechazado,25.89077779239766,-100.13730503898636
+621,Nuevo León,General Zuazua,025,2025,Noviembre,24,Empleado,Sin contrato,0.0,12000.0,24938.0,24.94,Rechazado,25.89077779239766,-100.13730503898636
+622,Nuevo León,General Zuazua,025,2025,Noviembre,22,Empleado,Sin contrato,0.0,15000.0,52350.0,52.35,Rechazado,25.89077779239766,-100.13730503898636
+623,Nuevo León,General Zuazua,025,2025,Noviembre,19,Empleado,Sin contrato,0.0,3500.0,2214.0,2.21,Rechazado,25.89077779239766,-100.13730503898636
+624,Nuevo León,Salinas Victoria,045,2025,Diciembre,27,Empleado,Sin contrato,0.0,10000.0,17038.0,17.04,Rechazado,26.075659133141762,-100.28113906768837
+625,Nuevo León,General Zuazua,025,2025,Octubre,25,Empleado,Sin contrato,0.0,14900.0,21930.0,21.93,Rechazado,25.89077779239766,-100.13730503898636
+626,Nuevo León,General Zuazua,025,2025,Diciembre,19,Empleado,Sin contrato,0.0,45000.0,150567.0,150.57,Aprobado,25.89077779239766,-100.13730503898636
+627,Nuevo León,Galeana,017,2025,Diciembre,26,Empleado,Sin contrato,0.0,22000.0,49073.0,49.07,Rechazado,24.826310219067647,-100.3212828785489
+628,Nuevo León,Galeana,017,2025,Diciembre,20,Empleado,Sin contrato,0.0,3000.0,8756.0,8.76,Rechazado,24.826310219067647,-100.3212828785489
+629,Nuevo León,Galeana,017,2025,Noviembre,18,Empleado,Sin contrato,0.0,5000.0,5055.0,5.06,Rechazado,24.826310219067647,-100.3212828785489
+630,Nuevo León,Doctor Arroyo,014,2025,Noviembre,27,Empleado,Sin contrato,0.0,2500.0,8590.0,8.59,Rechazado,23.80926394,-100.29751210111112
+631,Nuevo León,Apodaca,006,2025,Noviembre,27,Empleado,Sin contrato,0.0,16000.0,31935.0,31.94,Rechazado,25.78899183060109,-100.18325821038252
+632,Nuevo León,Guadalupe,026,2025,Diciembre,23,Empleado,Sin contrato,0.0,3000.0,5943.0,5.94,Rechazado,25.68932401234568,-100.16110456790123
+633,Nuevo León,Juárez,031,2025,Octubre,26,Empleado,Sin contrato,0.0,6000.0,20476.0,20.48,Rechazado,25.60212283769063,-100.1228211083878
+634,Nuevo León,Juárez,031,2025,Diciembre,18,Empleado,Sin contrato,0.0,167.0,274.0,0.27,Rechazado,25.60212283769063,-100.1228211083878
+635,Nuevo León,Monterrey,039,2025,Noviembre,23,Empleado,Sin contrato,0.0,10833.0,18336.0,18.34,Rechazado,25.55914746031746,-100.26696880952382
+636,Nuevo León,El Carmen,010,2025,Diciembre,21,Empleado,Sin contrato,0.0,2250.0,5072.0,5.07,Rechazado,25.897698611111114,-100.35209398888888
+637,Nuevo León,Apodaca,006,2025,Noviembre,22,Empleado,Sin contrato,0.0,500.0,442.0,0.44,Rechazado,25.78899183060109,-100.18325821038252
+638,Nuevo León,Guadalupe,026,2025,Octubre,26,Empleado,Sin contrato,0.0,2000.0,2927.0,2.93,Rechazado,25.68932401234568,-100.16110456790123
+639,Nuevo León,Guadalupe,026,2025,Noviembre,21,Empleado,Sin contrato,0.0,10000.0,10796.0,10.8,Rechazado,25.68932401234568,-100.16110456790123
+640,Nuevo León,Juárez,031,2025,Noviembre,23,Empleado,Sin contrato,0.0,14000.0,11338.0,11.34,Rechazado,25.60212283769063,-100.1228211083878
+641,Nuevo León,Juárez,031,2025,Noviembre,23,Empleado,Sin contrato,0.0,3050.0,9450.0,9.45,Rechazado,25.60212283769063,-100.1228211083878
+642,Nuevo León,Monterrey,039,2025,Octubre,22,Empleado,Sin contrato,0.0,5000.0,11340.0,11.34,Rechazado,25.55914746031746,-100.26696880952382
+643,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,25,Empleado,Sin contrato,0.0,5000.0,7880.0,7.88,Rechazado,25.755252777777777,-100.2895861111111
+644,Nuevo León,Monterrey,039,2025,Noviembre,19,Empleado,Sin contrato,0.0,9000.0,15534.0,15.53,Rechazado,25.55914746031746,-100.26696880952382
+645,Nuevo León,Monterrey,039,2025,Noviembre,23,Empleado,Sin contrato,0.0,2416.0,4336.0,4.34,Rechazado,25.55914746031746,-100.26696880952382
+646,Nuevo León,General Escobedo,021,2025,Diciembre,20,Empleado,Sin contrato,0.0,6667.0,15997.0,16.0,Rechazado,25.827195,-100.37023350529101
+647,Nuevo León,Juárez,031,2025,Octubre,25,Empleado,Sin contrato,0.0,20000.0,65606.0,65.61,Rechazado,25.60212283769063,-100.1228211083878
+648,Nuevo León,Santa Catarina,048,2025,Octubre,27,Empleado,Sin contrato,0.0,3500.0,11544.0,11.54,Rechazado,25.598188524305556,-100.48739686921296
+649,Nuevo León,Santa Catarina,048,2025,Octubre,21,Empleado,Sin contrato,0.0,2000.0,3349.0,3.35,Rechazado,25.598188524305556,-100.48739686921296
+650,Nuevo León,Santa Catarina,048,2025,Noviembre,18,Empleado,Sin contrato,0.0,1000.0,1488.0,1.49,Rechazado,25.598188524305556,-100.48739686921296
+651,Nuevo León,Santa Catarina,048,2025,Noviembre,21,Empleado,Sin contrato,0.0,16000.0,29650.0,29.65,Rechazado,25.598188524305556,-100.48739686921296
+652,Nuevo León,Apodaca,006,2025,Noviembre,20,Empleado,Sin contrato,0.0,8667.0,19100.0,19.1,Rechazado,25.78899183060109,-100.18325821038252
+653,Nuevo León,Guadalupe,026,2025,Diciembre,25,Empleado,Sin contrato,0.0,3000.0,5656.0,5.66,Rechazado,25.68932401234568,-100.16110456790123
+654,Nuevo León,Santa Catarina,048,2025,Octubre,22,Empleado,Sin contrato,0.0,2333.0,5777.0,5.78,Rechazado,25.598188524305556,-100.48739686921296
+655,Nuevo León,Guadalupe,026,2025,Diciembre,26,Empleado,Sin contrato,0.0,167.0,361.0,0.36,Rechazado,25.68932401234568,-100.16110456790123
+656,Nuevo León,Santa Catarina,048,2025,Octubre,20,Empleado,Sin contrato,0.0,8000.0,11697.0,11.7,Rechazado,25.598188524305556,-100.48739686921296
+657,Nuevo León,Juárez,031,2025,Octubre,23,Empleado,Sin contrato,0.0,6667.0,10248.0,10.25,Rechazado,25.60212283769063,-100.1228211083878
+658,Nuevo León,Juárez,031,2025,Noviembre,20,Empleado,Sin contrato,0.0,13000.0,21265.0,21.26,Rechazado,25.60212283769063,-100.1228211083878
+659,Nuevo León,General Escobedo,021,2025,Octubre,21,Empleado,Sin contrato,0.0,2000.0,1568.0,1.57,Rechazado,25.827195,-100.37023350529101
+660,Nuevo León,Guadalupe,026,2025,Noviembre,25,Empleado,Sin contrato,0.0,6000.0,5989.0,5.99,Rechazado,25.68932401234568,-100.16110456790123
+661,Nuevo León,Guadalupe,026,2025,Diciembre,18,Empleado,Sin contrato,0.0,12000.0,32032.0,32.03,Rechazado,25.68932401234568,-100.16110456790123
+662,Nuevo León,Juárez,031,2025,Diciembre,26,Empleado,Sin contrato,0.0,500.0,834.0,0.83,Rechazado,25.60212283769063,-100.1228211083878
+663,Nuevo León,Juárez,031,2025,Noviembre,26,Empleado,Sin contrato,0.0,317.0,363.0,0.36,Rechazado,25.60212283769063,-100.1228211083878
+664,Nuevo León,Apodaca,006,2025,Noviembre,21,Empleado,Sin contrato,0.0,9583.0,20968.0,20.97,Rechazado,25.78899183060109,-100.18325821038252
+665,Nuevo León,Apodaca,006,2025,Noviembre,23,Empleado,Sin contrato,0.0,2500.0,6917.0,6.92,Rechazado,25.78899183060109,-100.18325821038252
+666,Nuevo León,Apodaca,006,2025,Octubre,19,Empleado,Sin contrato,0.0,12000.0,15267.0,15.27,Rechazado,25.78899183060109,-100.18325821038252
+667,Nuevo León,Apodaca,006,2025,Octubre,27,Empleado,Sin contrato,0.0,12000.0,35764.0,35.76,Rechazado,25.78899183060109,-100.18325821038252
+668,Nuevo León,Apodaca,006,2025,Noviembre,24,Empleado,Sin contrato,0.0,9333.0,30636.0,30.64,Rechazado,25.78899183060109,-100.18325821038252
+669,Nuevo León,Apodaca,006,2025,Diciembre,22,Empleado,Sin contrato,0.0,8566.0,19635.0,19.64,Rechazado,25.78899183060109,-100.18325821038252
+670,Nuevo León,General Escobedo,021,2025,Octubre,24,Empleado,Sin contrato,0.0,1500.0,3760.0,3.76,Rechazado,25.827195,-100.37023350529101
+671,Nuevo León,Juárez,031,2025,Noviembre,18,Empleado,Sin contrato,0.0,6000.0,3946.0,3.95,Rechazado,25.60212283769063,-100.1228211083878
+672,Nuevo León,Monterrey,039,2025,Diciembre,19,Empleado,Sin contrato,0.0,833.0,2779.0,2.78,Rechazado,25.55914746031746,-100.26696880952382
+673,Nuevo León,Monterrey,039,2025,Diciembre,24,Empleado,Sin contrato,0.0,33.0,55.0,0.06,Rechazado,25.55914746031746,-100.26696880952382
+674,Nuevo León,Apodaca,006,2025,Noviembre,27,Empleado,Sin contrato,0.0,1500.0,4908.0,4.91,Rechazado,25.78899183060109,-100.18325821038252
+675,Nuevo León,Apodaca,006,2025,Noviembre,21,Empleado,Sin contrato,0.0,8667.0,19387.0,19.39,Rechazado,25.78899183060109,-100.18325821038252
+676,Nuevo León,Apodaca,006,2025,Diciembre,25,Empleado,Sin contrato,0.0,5833.0,2997.0,3.0,Rechazado,25.78899183060109,-100.18325821038252
+677,Nuevo León,Guadalupe,026,2025,Diciembre,24,Empleado,Sin contrato,0.0,48100.0,29612.0,29.61,Rechazado,25.68932401234568,-100.16110456790123
+678,Nuevo León,Santa Catarina,048,2025,Octubre,22,Empleado,Sin contrato,0.0,13000.0,33036.0,33.04,Rechazado,25.598188524305556,-100.48739686921296
+679,Nuevo León,Apodaca,006,2025,Diciembre,22,Empleado,Sin contrato,0.0,2000.0,4376.0,4.38,Rechazado,25.78899183060109,-100.18325821038252
+680,Nuevo León,García,018,2025,Octubre,19,Empleado,Sin contrato,0.0,13500.0,7825.0,7.82,Rechazado,25.8149235154321,-100.62665417901233
+681,Nuevo León,Montemorelos,038,2025,Diciembre,22,Empleado,Sin contrato,0.0,18000.0,49147.0,49.15,Rechazado,25.186208204656864,-99.86381055759803
+682,Nuevo León,Montemorelos,038,2025,Octubre,19,Empleado,Sin contrato,0.0,3833.0,11715.0,11.72,Rechazado,25.186208204656864,-99.86381055759803
+683,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,25,Empleado,Sin contrato,0.0,100.0,199.0,0.2,Rechazado,25.47843766025641,-99.96717816724941
+684,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,25,Empleado,Sin contrato,0.0,3000.0,5692.0,5.69,Rechazado,25.47843766025641,-99.96717816724941
+685,Nuevo León,Cadereyta Jiménez,009,2025,Noviembre,21,Empleado,Sin contrato,0.0,20.0,10.0,0.01,Rechazado,25.47843766025641,-99.96717816724941
+686,Nuevo León,Salinas Victoria,045,2025,Octubre,25,Empleado,Sin contrato,0.0,2033.0,5814.0,5.81,Rechazado,26.075659133141762,-100.28113906768837
+687,Nuevo León,Ciénega de Flores,012,2025,Octubre,26,Empleado,Sin contrato,0.0,3000.0,4476.0,4.48,Rechazado,25.96289115079365,-100.17802153174603
+688,Nuevo León,Ciénega de Flores,012,2025,Noviembre,20,Empleado,Sin contrato,0.0,2000.0,6273.0,6.27,Rechazado,25.96289115079365,-100.17802153174603
+689,Nuevo León,Allende,004,2025,Noviembre,20,Empleado,Sin contrato,0.0,3300.0,5343.0,5.34,Rechazado,25.304741803418803,-100.0046524017094
+690,Nuevo León,Allende,004,2025,Diciembre,23,Empleado,Sin contrato,0.0,133.0,292.0,0.29,Rechazado,25.304741803418803,-100.0046524017094
+691,Nuevo León,Allende,004,2025,Diciembre,25,Empleado,Sin contrato,0.0,40000.0,52441.0,52.44,Rechazado,25.304741803418803,-100.0046524017094
+692,Nuevo León,Hidalgo,047,2025,Noviembre,21,Empleado,Sin contrato,0.0,14250.0,13990.0,13.99,Rechazado,25.98203736111111,-100.4565300462963
+693,Nuevo León,Salinas Victoria,045,2025,Octubre,20,Empleado,Sin contrato,0.0,12000.0,33897.0,33.9,Rechazado,26.075659133141762,-100.28113906768837
+694,Nuevo León,Salinas Victoria,045,2025,Octubre,24,Empleado,Sin contrato,0.0,8050.0,16018.0,16.02,Rechazado,26.075659133141762,-100.28113906768837
+695,Nuevo León,Salinas Victoria,045,2025,Diciembre,20,Empleado,Sin contrato,0.0,3600.0,7594.0,7.59,Rechazado,26.075659133141762,-100.28113906768837
+696,Nuevo León,General Zuazua,025,2025,Octubre,20,Empleado,Sin contrato,0.0,1000.0,3396.0,3.4,Rechazado,25.89077779239766,-100.13730503898636
+697,Nuevo León,García,018,2025,Noviembre,18,Empleado,Sin contrato,0.0,2250.0,7629.0,7.63,Rechazado,25.8149235154321,-100.62665417901233
+698,Nuevo León,Montemorelos,038,2025,Diciembre,23,Empleado,Sin contrato,0.0,167.0,512.0,0.51,Rechazado,25.186208204656864,-99.86381055759803
+699,Nuevo León,Montemorelos,038,2025,Diciembre,18,Empleado,Sin contrato,0.0,4000.0,4251.0,4.25,Rechazado,25.186208204656864,-99.86381055759803
+700,Nuevo León,Montemorelos,038,2025,Noviembre,27,Empleado,Sin contrato,0.0,3233.0,7380.0,7.38,Rechazado,25.186208204656864,-99.86381055759803
+701,Nuevo León,Montemorelos,038,2025,Noviembre,26,Empleado,Sin contrato,0.0,25000.0,78361.0,78.36,Aprobado,25.186208204656864,-99.86381055759803
+702,Nuevo León,Montemorelos,038,2025,Noviembre,19,Empleado,Sin contrato,0.0,667.0,1083.0,1.08,Rechazado,25.186208204656864,-99.86381055759803
+703,Nuevo León,Galeana,017,2025,Diciembre,25,Empleado,Sin contrato,0.0,1000.0,803.0,0.8,Rechazado,24.826310219067647,-100.3212828785489
+704,Nuevo León,Galeana,017,2025,Octubre,22,Empleado,Sin contrato,0.0,19500.0,57191.0,57.19,Rechazado,24.826310219067647,-100.3212828785489
+705,Nuevo León,Doctor Arroyo,014,2025,Octubre,24,Empleado,Sin contrato,0.0,10833.0,21073.0,21.07,Rechazado,23.80926394,-100.29751210111112
+706,Nuevo León,Doctor Arroyo,014,2025,Noviembre,18,Empleado,Sin contrato,0.0,6000.0,13159.0,13.16,Rechazado,23.80926394,-100.29751210111112
+707,Nuevo León,Galeana,017,2025,Octubre,22,Empleado,Sin contrato,0.0,383.0,1320.0,1.32,Rechazado,24.826310219067647,-100.3212828785489
+708,Nuevo León,Cadereyta Jiménez,009,2025,Noviembre,22,Empleado,Sin contrato,0.0,50.0,116.0,0.12,Rechazado,25.47843766025641,-99.96717816724941
+709,Nuevo León,General Escobedo,021,2025,Noviembre,19,Empleado,Sin contrato,0.0,5000.0,8875.0,8.88,Rechazado,25.827195,-100.37023350529101
+710,Nuevo León,General Escobedo,021,2025,Diciembre,25,Empleado,Sin contrato,0.0,23000.0,37029.0,37.03,Rechazado,25.827195,-100.37023350529101
+711,Nuevo León,Juárez,031,2025,Diciembre,21,Empleado,Sin contrato,0.0,34883.0,61145.0,61.14,Rechazado,25.60212283769063,-100.1228211083878
+712,Nuevo León,Juárez,031,2025,Noviembre,26,Empleado,Sin contrato,0.0,20000.0,17104.0,17.1,Rechazado,25.60212283769063,-100.1228211083878
+713,Nuevo León,El Carmen,010,2025,Diciembre,21,Empleado,Sin contrato,0.0,9333.0,26919.0,26.92,Rechazado,25.897698611111114,-100.35209398888888
+714,Nuevo León,El Carmen,010,2025,Octubre,26,Empleado,Sin contrato,0.0,11000.0,33145.0,33.15,Rechazado,25.897698611111114,-100.35209398888888
+715,Nuevo León,Monterrey,039,2025,Noviembre,24,Empleado,Sin contrato,0.0,5000.0,6766.0,6.77,Rechazado,25.55914746031746,-100.26696880952382
+716,Nuevo León,Monterrey,039,2025,Octubre,21,Empleado,Sin contrato,0.0,3000.0,4234.0,4.23,Rechazado,25.55914746031746,-100.26696880952382
+717,Nuevo León,San Pedro Garza García,019,2025,Diciembre,27,Empleado,Sin contrato,0.0,6883.0,21496.0,21.5,Rechazado,25.634911428571428,-100.38775825396826
+718,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,25,Empleado,Sin contrato,0.0,5572.0,3187.0,3.19,Rechazado,25.755252777777777,-100.2895861111111
+719,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,19,Empleado,Sin contrato,0.0,25000.0,51534.0,51.53,Rechazado,25.755252777777777,-100.2895861111111
+720,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,23,Empleado,Sin contrato,0.0,7500.0,14183.0,14.18,Rechazado,25.755252777777777,-100.2895861111111
+721,Nuevo León,Monterrey,039,2025,Diciembre,23,Empleado,Sin contrato,0.0,120.0,308.0,0.31,Rechazado,25.55914746031746,-100.26696880952382
+722,Nuevo León,Juárez,031,2025,Octubre,24,Empleado,Sin contrato,0.0,14221.0,14081.0,14.08,Rechazado,25.60212283769063,-100.1228211083878
+723,Nuevo León,Juárez,031,2025,Diciembre,27,Empleado,Sin contrato,0.0,12000.0,30060.0,30.06,Rechazado,25.60212283769063,-100.1228211083878
+724,Nuevo León,Juárez,031,2025,Noviembre,22,Empleado,Sin contrato,0.0,13000.0,21193.0,21.19,Rechazado,25.60212283769063,-100.1228211083878
+725,Nuevo León,Juárez,031,2025,Noviembre,24,Empleado,Sin contrato,0.0,16500.0,38876.0,38.88,Rechazado,25.60212283769063,-100.1228211083878
+726,Nuevo León,Guadalupe,026,2025,Noviembre,26,Empleado,Sin contrato,0.0,6067.0,3763.0,3.76,Rechazado,25.68932401234568,-100.16110456790123
+727,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,20,Empleado,Sin contrato,0.0,4500.0,8483.0,8.48,Rechazado,25.755252777777777,-100.2895861111111
+728,Nuevo León,Guadalupe,026,2025,Octubre,27,Empleado,Sin contrato,0.0,15000.0,31001.0,31.0,Rechazado,25.68932401234568,-100.16110456790123
+729,Nuevo León,Apodaca,006,2025,Octubre,25,Empleado,Sin contrato,0.0,1200.0,1372.0,1.37,Rechazado,25.78899183060109,-100.18325821038252
+730,Nuevo León,Apodaca,006,2025,Octubre,25,Empleado,Sin contrato,0.0,8100.0,7443.0,7.44,Rechazado,25.78899183060109,-100.18325821038252
+731,Nuevo León,Apodaca,006,2025,Noviembre,26,Empleado,Sin contrato,0.0,4693.0,5000.0,5.0,Rechazado,25.78899183060109,-100.18325821038252
+732,Nuevo León,General Escobedo,021,2025,Diciembre,22,Empleado,Sin contrato,0.0,9034.0,13844.0,13.84,Rechazado,25.827195,-100.37023350529101
+733,Nuevo León,Juárez,031,2025,Noviembre,20,Empleado,Sin contrato,0.0,7800.0,6165.0,6.16,Rechazado,25.60212283769063,-100.1228211083878
+734,Nuevo León,Juárez,031,2025,Noviembre,18,Empleado,Sin contrato,0.0,2300.0,7687.0,7.69,Rechazado,25.60212283769063,-100.1228211083878
+735,Nuevo León,Juárez,031,2025,Noviembre,26,Empleado,Sin contrato,0.0,7925.0,13591.0,13.59,Rechazado,25.60212283769063,-100.1228211083878
+736,Nuevo León,Juárez,031,2025,Noviembre,18,Empleado,Sin contrato,0.0,2500.0,7317.0,7.32,Rechazado,25.60212283769063,-100.1228211083878
+737,Nuevo León,Monterrey,039,2025,Octubre,22,Empleado,Sin contrato,0.0,3500.0,11981.0,11.98,Rechazado,25.55914746031746,-100.26696880952382
+738,Nuevo León,Monterrey,039,2025,Diciembre,24,Empleado,Sin contrato,0.0,417.0,309.0,0.31,Rechazado,25.55914746031746,-100.26696880952382
+739,Nuevo León,Monterrey,039,2025,Octubre,18,Empleado,Sin contrato,0.0,15167.0,37235.0,37.24,Rechazado,25.55914746031746,-100.26696880952382
+740,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,22,Empleado,Sin contrato,0.0,12000.0,37371.0,37.37,Rechazado,25.755252777777777,-100.2895861111111
+741,Nuevo León,Monterrey,039,2025,Diciembre,25,Empleado,Sin contrato,0.0,4833.0,11612.0,11.61,Rechazado,25.55914746031746,-100.26696880952382
+742,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,24,Empleado,Sin contrato,0.0,7875.0,14073.0,14.07,Rechazado,25.755252777777777,-100.2895861111111
+743,Nuevo León,Santa Catarina,048,2025,Diciembre,24,Empleado,Sin contrato,0.0,5200.0,9325.0,9.32,Rechazado,25.598188524305556,-100.48739686921296
+744,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,27,Empleado,Sin contrato,0.0,12267.0,7455.0,7.46,Rechazado,25.755252777777777,-100.2895861111111
+745,Nuevo León,Apodaca,006,2025,Diciembre,26,Empleado,Sin contrato,0.0,22900.0,48177.0,48.18,Rechazado,25.78899183060109,-100.18325821038252
+746,Nuevo León,Apodaca,006,2025,Diciembre,26,Empleado,Sin contrato,0.0,8667.0,30167.0,30.17,Rechazado,25.78899183060109,-100.18325821038252
+747,Nuevo León,General Escobedo,021,2025,Diciembre,18,Empleado,Sin contrato,0.0,6067.0,20483.0,20.48,Rechazado,25.827195,-100.37023350529101
+748,Nuevo León,Juárez,031,2025,Noviembre,25,Empleado,Sin contrato,0.0,4667.0,2899.0,2.9,Rechazado,25.60212283769063,-100.1228211083878
+749,Nuevo León,Juárez,031,2025,Diciembre,25,Empleado,Sin contrato,0.0,12000.0,31409.0,31.41,Rechazado,25.60212283769063,-100.1228211083878
+750,Nuevo León,Santa Catarina,048,2025,Diciembre,22,Empleado,Sin contrato,0.0,167.0,235.0,0.24,Rechazado,25.598188524305556,-100.48739686921296
+751,Nuevo León,Apodaca,006,2025,Noviembre,20,Empleado,Sin contrato,0.0,40000.0,128359.0,128.36,Aprobado,25.78899183060109,-100.18325821038252
+752,Nuevo León,Guadalupe,026,2025,Diciembre,19,Empleado,Sin contrato,0.0,333.0,212.0,0.21,Rechazado,25.68932401234568,-100.16110456790123
+753,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,19,Empleado,Sin contrato,0.0,850.0,2811.0,2.81,Rechazado,25.755252777777777,-100.2895861111111
+754,Nuevo León,García,018,2025,Noviembre,22,Empleado,Sin contrato,0.0,6000.0,18075.0,18.08,Rechazado,25.8149235154321,-100.62665417901233
+755,Nuevo León,García,018,2025,Diciembre,20,Empleado,Sin contrato,0.0,3500.0,2984.0,2.98,Rechazado,25.8149235154321,-100.62665417901233
+756,Nuevo León,Montemorelos,038,2025,Noviembre,21,Empleado,Sin contrato,0.0,6000.0,4077.0,4.08,Rechazado,25.186208204656864,-99.86381055759803
+757,Nuevo León,Cadereyta Jiménez,009,2025,Noviembre,27,Empleado,Sin contrato,0.0,6067.0,18226.0,18.23,Rechazado,25.47843766025641,-99.96717816724941
+758,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,22,Empleado,Sin contrato,0.0,18433.0,17830.0,17.83,Rechazado,25.47843766025641,-99.96717816724941
+759,Nuevo León,Montemorelos,038,2025,Octubre,18,Empleado,Sin contrato,0.0,3000.0,6314.0,6.31,Rechazado,25.186208204656864,-99.86381055759803
+760,Nuevo León,Montemorelos,038,2025,Diciembre,21,Empleado,Sin contrato,0.0,1733.0,5627.0,5.63,Rechazado,25.186208204656864,-99.86381055759803
+761,Nuevo León,Montemorelos,038,2025,Noviembre,24,Empleado,Sin contrato,0.0,120000.0,264281.0,264.28,Aprobado,25.186208204656864,-99.86381055759803
+762,Nuevo León,Montemorelos,038,2025,Noviembre,26,Empleado,Sin contrato,0.0,10000.0,16917.0,16.92,Rechazado,25.186208204656864,-99.86381055759803
+763,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,19,Empleado,Sin contrato,0.0,93.0,171.0,0.17,Rechazado,25.47843766025641,-99.96717816724941
+764,Nuevo León,Salinas Victoria,045,2025,Noviembre,19,Empleado,Sin contrato,0.0,1333.0,919.0,0.92,Rechazado,26.075659133141762,-100.28113906768837
+765,Nuevo León,Anáhuac,005,2025,Diciembre,22,Empleado,Sin contrato,0.0,1500.0,5109.0,5.11,Rechazado,27.289438437830686,-100.1443252037037
+766,Nuevo León,Salinas Victoria,045,2025,Diciembre,27,Empleado,Sin contrato,0.0,8000.0,11456.0,11.46,Rechazado,26.075659133141762,-100.28113906768837
+767,Nuevo León,General Zuazua,025,2025,Octubre,25,Empleado,Sin contrato,0.0,4000.0,4272.0,4.27,Rechazado,25.89077779239766,-100.13730503898636
+768,Nuevo León,General Zuazua,025,2025,Noviembre,19,Empleado,Sin contrato,0.0,6667.0,9055.0,9.06,Rechazado,25.89077779239766,-100.13730503898636
+769,Nuevo León,Salinas Victoria,045,2025,Noviembre,24,Empleado,Sin contrato,0.0,3800.0,12894.0,12.89,Rechazado,26.075659133141762,-100.28113906768837
+770,Nuevo León,Bustamante,008,2025,Noviembre,20,Empleado,Sin contrato,0.0,36000.0,28183.0,28.18,Rechazado,26.561276589147287,-100.49989370155038
+771,Nuevo León,Montemorelos,038,2025,Noviembre,18,Empleado,Sin contrato,0.0,21167.0,65658.0,65.66,Rechazado,25.186208204656864,-99.86381055759803
+772,Nuevo León,Montemorelos,038,2025,Noviembre,18,Empleado,Sin contrato,0.0,225.0,590.0,0.59,Rechazado,25.186208204656864,-99.86381055759803
+773,Nuevo León,Galeana,017,2025,Noviembre,23,Empleado,Sin contrato,0.0,600.0,1794.0,1.79,Rechazado,24.826310219067647,-100.3212828785489
+774,Nuevo León,Galeana,017,2025,Noviembre,18,Empleado,Sin contrato,0.0,6000.0,20566.0,20.57,Rechazado,24.826310219067647,-100.3212828785489
+775,Nuevo León,Doctor Arroyo,014,2025,Noviembre,24,Empleado,Sin contrato,0.0,14250.0,43127.0,43.13,Rechazado,23.80926394,-100.29751210111112
+776,Nuevo León,Doctor Arroyo,014,2025,Noviembre,21,Empleado,Sin contrato,0.0,13000.0,43292.0,43.29,Rechazado,23.80926394,-100.29751210111112
+777,Nuevo León,Doctor Arroyo,014,2025,Diciembre,20,Empleado,Sin contrato,0.0,11250.0,9909.0,9.91,Rechazado,23.80926394,-100.29751210111112
+778,Nuevo León,General Escobedo,021,2025,Diciembre,26,Empleado,Sin contrato,0.0,22167.0,64004.0,64.0,Rechazado,25.827195,-100.37023350529101
+779,Nuevo León,Juárez,031,2025,Noviembre,20,Empleado,Sin contrato,0.0,4000.0,8548.0,8.55,Rechazado,25.60212283769063,-100.1228211083878
+780,Nuevo León,Monterrey,039,2025,Diciembre,25,Empleado,Sin contrato,0.0,30000.0,63915.0,63.92,Rechazado,25.55914746031746,-100.26696880952382
+781,Nuevo León,Monterrey,039,2025,Diciembre,22,Empleado,Sin contrato,0.0,4000.0,12787.0,12.79,Rechazado,25.55914746031746,-100.26696880952382
+782,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,27,Empleado,Sin contrato,0.0,1333.0,4553.0,4.55,Rechazado,25.755252777777777,-100.2895861111111
+783,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,27,Empleado,Sin contrato,0.0,9600.0,25099.0,25.1,Rechazado,25.755252777777777,-100.2895861111111
+784,Nuevo León,Monterrey,039,2025,Octubre,21,Empleado,Sin contrato,0.0,8000.0,15591.0,15.59,Rechazado,25.55914746031746,-100.26696880952382
+785,Nuevo León,Monterrey,039,2025,Diciembre,19,Empleado,Sin contrato,0.0,8000.0,14954.0,14.95,Rechazado,25.55914746031746,-100.26696880952382
+786,Nuevo León,Monterrey,039,2025,Octubre,23,Empleado,Sin contrato,0.0,467.0,775.0,0.78,Rechazado,25.55914746031746,-100.26696880952382
+787,Nuevo León,Apodaca,006,2025,Diciembre,19,Empleado,Sin contrato,0.0,833.0,1320.0,1.32,Rechazado,25.78899183060109,-100.18325821038252
+788,Nuevo León,General Escobedo,021,2025,Octubre,24,Empleado,Sin contrato,0.0,92983.0,155702.0,155.7,Aprobado,25.827195,-100.37023350529101
+789,Nuevo León,General Escobedo,021,2025,Noviembre,22,Empleado,Sin contrato,0.0,3400.0,2615.0,2.62,Rechazado,25.827195,-100.37023350529101
+790,Nuevo León,General Escobedo,021,2025,Diciembre,18,Empleado,Sin contrato,0.0,6000.0,4394.0,4.39,Rechazado,25.827195,-100.37023350529101
+791,Nuevo León,General Escobedo,021,2025,Noviembre,21,Empleado,Sin contrato,0.0,5200.0,14766.0,14.77,Rechazado,25.827195,-100.37023350529101
+792,Nuevo León,General Escobedo,021,2025,Diciembre,26,Empleado,Sin contrato,0.0,1000.0,1838.0,1.84,Rechazado,25.827195,-100.37023350529101
+793,Nuevo León,Monterrey,039,2025,Diciembre,21,Empleado,Sin contrato,0.0,167.0,550.0,0.55,Rechazado,25.55914746031746,-100.26696880952382
+794,Nuevo León,Apodaca,006,2025,Diciembre,22,Empleado,Sin contrato,0.0,3000.0,7010.0,7.01,Rechazado,25.78899183060109,-100.18325821038252
+795,Nuevo León,Santa Catarina,048,2025,Octubre,26,Empleado,Sin contrato,0.0,2800.0,1695.0,1.7,Rechazado,25.598188524305556,-100.48739686921296
+796,Nuevo León,Juárez,031,2025,Diciembre,22,Empleado,Sin contrato,0.0,7800.0,7586.0,7.59,Rechazado,25.60212283769063,-100.1228211083878
+797,Nuevo León,Guadalupe,026,2025,Octubre,24,Empleado,Sin contrato,0.0,2000.0,2235.0,2.24,Rechazado,25.68932401234568,-100.16110456790123
+798,Nuevo León,Apodaca,006,2025,Noviembre,26,Empleado,Sin contrato,0.0,9034.0,30961.0,30.96,Rechazado,25.78899183060109,-100.18325821038252
+799,Nuevo León,Apodaca,006,2025,Diciembre,22,Empleado,Sin contrato,0.0,500.0,578.0,0.58,Rechazado,25.78899183060109,-100.18325821038252
+800,Nuevo León,Guadalupe,026,2025,Diciembre,20,Empleado,Sin contrato,0.0,12133.0,24839.0,24.84,Rechazado,25.68932401234568,-100.16110456790123
+801,Nuevo León,Guadalupe,026,2025,Noviembre,25,Empleado,Sin contrato,0.0,6000.0,19851.0,19.85,Rechazado,25.68932401234568,-100.16110456790123
+802,Nuevo León,Monterrey,039,2025,Noviembre,20,Empleado,Sin contrato,0.0,1000.0,3432.0,3.43,Rechazado,25.55914746031746,-100.26696880952382
+803,Nuevo León,Apodaca,006,2025,Diciembre,24,Empleado,Sin contrato,0.0,1600.0,1935.0,1.94,Rechazado,25.78899183060109,-100.18325821038252
+804,Nuevo León,Guadalupe,026,2025,Diciembre,25,Empleado,Sin contrato,0.0,60000.0,38841.0,38.84,Rechazado,25.68932401234568,-100.16110456790123
+805,Nuevo León,General Escobedo,021,2025,Noviembre,18,Empleado,Sin contrato,0.0,7000.0,6726.0,6.73,Rechazado,25.827195,-100.37023350529101
+806,Nuevo León,Guadalupe,026,2025,Diciembre,24,Empleado,Sin contrato,0.0,5100.0,3519.0,3.52,Rechazado,25.68932401234568,-100.16110456790123
+807,Nuevo León,Juárez,031,2025,Octubre,26,Empleado,Sin contrato,0.0,8000.0,8683.0,8.68,Rechazado,25.60212283769063,-100.1228211083878
+808,Nuevo León,General Escobedo,021,2025,Octubre,22,Empleado,Sin contrato,0.0,9000.0,19851.0,19.85,Rechazado,25.827195,-100.37023350529101
+809,Nuevo León,El Carmen,010,2025,Noviembre,25,Empleado,Sin contrato,0.0,600.0,1942.0,1.94,Rechazado,25.897698611111114,-100.35209398888888
+810,Nuevo León,Juárez,031,2025,Diciembre,20,Empleado,Sin contrato,0.0,500.0,1056.0,1.06,Rechazado,25.60212283769063,-100.1228211083878
+811,Nuevo León,Apodaca,006,2025,Octubre,27,Empleado,Sin contrato,0.0,1017.0,2418.0,2.42,Rechazado,25.78899183060109,-100.18325821038252
+812,Nuevo León,Guadalupe,026,2025,Octubre,26,Empleado,Sin contrato,0.0,800.0,884.0,0.88,Rechazado,25.68932401234568,-100.16110456790123
+813,Nuevo León,Juárez,031,2025,Octubre,21,Empleado,Sin contrato,0.0,30000.0,87053.0,87.05,Aprobado,25.60212283769063,-100.1228211083878
+814,Nuevo León,Monterrey,039,2025,Diciembre,27,Empleado,Sin contrato,0.0,2500.0,5883.0,5.88,Rechazado,25.55914746031746,-100.26696880952382
+815,Nuevo León,Apodaca,006,2025,Octubre,26,Empleado,Sin contrato,0.0,10000.0,30924.0,30.92,Rechazado,25.78899183060109,-100.18325821038252
+816,Nuevo León,Monterrey,039,2025,Noviembre,23,Empleado,Sin contrato,0.0,8000.0,26772.0,26.77,Rechazado,25.55914746031746,-100.26696880952382
+817,Nuevo León,Monterrey,039,2025,Diciembre,22,Empleado,Sin contrato,0.0,800.0,1235.0,1.24,Rechazado,25.55914746031746,-100.26696880952382
+818,Nuevo León,Santa Catarina,048,2025,Octubre,23,Empleado,Sin contrato,0.0,4417.0,3409.0,3.41,Rechazado,25.598188524305556,-100.48739686921296
+819,Nuevo León,Apodaca,006,2025,Noviembre,25,Empleado,Sin contrato,0.0,2583.0,3042.0,3.04,Rechazado,25.78899183060109,-100.18325821038252
+820,Nuevo León,Monterrey,039,2025,Noviembre,27,Empleado,Sin contrato,0.0,4000.0,7254.0,7.25,Rechazado,25.55914746031746,-100.26696880952382
+821,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,25,Empleado,Sin contrato,0.0,10000.0,33371.0,33.37,Rechazado,25.755252777777777,-100.2895861111111
+822,Nuevo León,Juárez,031,2025,Noviembre,20,Empleado,Sin contrato,0.0,2667.0,4360.0,4.36,Rechazado,25.60212283769063,-100.1228211083878
+823,Nuevo León,Apodaca,006,2025,Noviembre,26,Empleado,Sin contrato,0.0,1550.0,4359.0,4.36,Rechazado,25.78899183060109,-100.18325821038252
+824,Nuevo León,General Escobedo,021,2025,Octubre,24,Empleado,Sin contrato,0.0,467.0,991.0,0.99,Rechazado,25.827195,-100.37023350529101
+825,Nuevo León,General Escobedo,021,2025,Diciembre,19,Empleado,Sin contrato,0.0,14000.0,14678.0,14.68,Rechazado,25.827195,-100.37023350529101
+826,Nuevo León,Juárez,031,2025,Diciembre,22,Empleado,Sin contrato,0.0,6000.0,8773.0,8.77,Rechazado,25.60212283769063,-100.1228211083878
+827,Nuevo León,Monterrey,039,2025,Octubre,22,Empleado,Sin contrato,0.0,11200.0,27547.0,27.55,Rechazado,25.55914746031746,-100.26696880952382
+828,Nuevo León,Santa Catarina,048,2025,Noviembre,25,Empleado,Sin contrato,0.0,1733.0,4365.0,4.36,Rechazado,25.598188524305556,-100.48739686921296
+829,Nuevo León,Apodaca,006,2025,Diciembre,25,Empleado,Sin contrato,0.0,1167.0,2106.0,2.11,Rechazado,25.78899183060109,-100.18325821038252
+830,Nuevo León,Juárez,031,2025,Octubre,22,Empleado,Sin contrato,0.0,192.0,228.0,0.23,Rechazado,25.60212283769063,-100.1228211083878
+831,Nuevo León,Monterrey,039,2025,Octubre,27,Empleado,Sin contrato,0.0,30000.0,79972.0,79.97,Aprobado,25.55914746031746,-100.26696880952382
+832,Nuevo León,García,018,2025,Noviembre,27,Empleado,Sin contrato,0.0,15000.0,15099.0,15.1,Rechazado,25.8149235154321,-100.62665417901233
+833,Nuevo León,García,018,2025,Octubre,27,Empleado,Sin contrato,0.0,7800.0,25818.0,25.82,Rechazado,25.8149235154321,-100.62665417901233
+834,Nuevo León,Montemorelos,038,2025,Octubre,21,Empleado,Sin contrato,0.0,18000.0,19147.0,19.15,Rechazado,25.186208204656864,-99.86381055759803
+835,Nuevo León,Cadereyta Jiménez,009,2025,Noviembre,27,Empleado,Sin contrato,0.0,4800.0,3945.0,3.94,Rechazado,25.47843766025641,-99.96717816724941
+836,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,19,Empleado,Sin contrato,0.0,400.0,797.0,0.8,Rechazado,25.47843766025641,-99.96717816724941
+837,Nuevo León,Ciénega de Flores,012,2025,Noviembre,20,Empleado,Sin contrato,0.0,37000.0,76170.0,76.17,Aprobado,25.96289115079365,-100.17802153174603
+838,Nuevo León,Ciénega de Flores,012,2025,Diciembre,22,Empleado,Sin contrato,0.0,5000.0,10123.0,10.12,Rechazado,25.96289115079365,-100.17802153174603
+839,Nuevo León,General Zuazua,025,2025,Noviembre,24,Empleado,Sin contrato,0.0,5000.0,9050.0,9.05,Rechazado,25.89077779239766,-100.13730503898636
+840,Nuevo León,General Zuazua,025,2025,Octubre,20,Empleado,Sin contrato,0.0,7000.0,24391.0,24.39,Rechazado,25.89077779239766,-100.13730503898636
+841,Nuevo León,Ciénega de Flores,012,2025,Diciembre,26,Empleado,Sin contrato,0.0,8000.0,15671.0,15.67,Rechazado,25.96289115079365,-100.17802153174603
+842,Nuevo León,Sabinas Hidalgo,044,2025,Octubre,27,Empleado,Sin contrato,0.0,175.0,338.0,0.34,Rechazado,26.487203570370372,-100.11743341481481
+843,Nuevo León,Sabinas Hidalgo,044,2025,Diciembre,24,Empleado,Sin contrato,0.0,12000.0,21184.0,21.18,Rechazado,26.487203570370372,-100.11743341481481
+844,Nuevo León,General Zuazua,025,2025,Noviembre,21,Empleado,Sin contrato,0.0,11475.0,8038.0,8.04,Rechazado,25.89077779239766,-100.13730503898636
+845,Nuevo León,Salinas Victoria,045,2025,Diciembre,26,Empleado,Sin contrato,0.0,14000.0,31904.0,31.9,Rechazado,26.075659133141762,-100.28113906768837
+846,Nuevo León,Ciénega de Flores,012,2025,Octubre,19,Empleado,Sin contrato,0.0,1000.0,1184.0,1.18,Rechazado,25.96289115079365,-100.17802153174603
+847,Nuevo León,Ciénega de Flores,012,2025,Octubre,26,Empleado,Sin contrato,0.0,2000.0,4826.0,4.83,Rechazado,25.96289115079365,-100.17802153174603
+848,Nuevo León,García,018,2025,Noviembre,18,Empleado,Sin contrato,0.0,9533.0,6220.0,6.22,Rechazado,25.8149235154321,-100.62665417901233
+849,Nuevo León,Montemorelos,038,2025,Octubre,27,Empleado,Sin contrato,0.0,2000.0,6888.0,6.89,Rechazado,25.186208204656864,-99.86381055759803
+850,Nuevo León,Galeana,017,2025,Octubre,18,Empleado,Sin contrato,0.0,8000.0,15256.0,15.26,Rechazado,24.826310219067647,-100.3212828785489
+851,Nuevo León,Galeana,017,2025,Diciembre,22,Empleado,Sin contrato,0.0,16000.0,51044.0,51.04,Rechazado,24.826310219067647,-100.3212828785489
+852,Nuevo León,General Escobedo,021,2025,Diciembre,22,Empleado,Sin contrato,0.0,1033.0,1990.0,1.99,Rechazado,25.827195,-100.37023350529101
+853,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,975.0,664.0,0.66,Rechazado,25.55914746031746,-100.26696880952382
+854,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,27,Empleado,Sin contrato,0.0,3000.0,8900.0,8.9,Rechazado,25.755252777777777,-100.2895861111111
+855,Nuevo León,Juárez,031,2025,Diciembre,21,Empleado,Sin contrato,0.0,3000.0,7334.0,7.33,Rechazado,25.60212283769063,-100.1228211083878
+856,Nuevo León,Juárez,031,2025,Diciembre,18,Empleado,Sin contrato,0.0,133.0,378.0,0.38,Rechazado,25.60212283769063,-100.1228211083878
+857,Nuevo León,Juárez,031,2025,Diciembre,22,Empleado,Sin contrato,0.0,633.0,1130.0,1.13,Rechazado,25.60212283769063,-100.1228211083878
+858,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,25,Empleado,Sin contrato,0.0,6000.0,14483.0,14.48,Rechazado,25.755252777777777,-100.2895861111111
+859,Nuevo León,Guadalupe,026,2025,Noviembre,26,Empleado,Sin contrato,0.0,800.0,2455.0,2.46,Rechazado,25.68932401234568,-100.16110456790123
+860,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,26,Empleado,Sin contrato,0.0,3500.0,8376.0,8.38,Rechazado,25.755252777777777,-100.2895861111111
+861,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,22,Empleado,Sin contrato,0.0,25000.0,38576.0,38.58,Rechazado,25.755252777777777,-100.2895861111111
+862,Nuevo León,Juárez,031,2025,Octubre,19,Empleado,Sin contrato,0.0,28000.0,69652.0,69.65,Rechazado,25.60212283769063,-100.1228211083878
+863,Nuevo León,San Pedro Garza García,019,2025,Octubre,22,Empleado,Sin contrato,0.0,20000.0,50311.0,50.31,Rechazado,25.634911428571428,-100.38775825396826
+864,Nuevo León,General Escobedo,021,2025,Octubre,18,Empleado,Sin contrato,0.0,3000.0,10145.0,10.14,Rechazado,25.827195,-100.37023350529101
+865,Nuevo León,Guadalupe,026,2025,Diciembre,24,Empleado,Sin contrato,0.0,11250.0,18143.0,18.14,Rechazado,25.68932401234568,-100.16110456790123
+866,Nuevo León,Guadalupe,026,2025,Noviembre,26,Empleado,Sin contrato,0.0,867.0,1539.0,1.54,Rechazado,25.68932401234568,-100.16110456790123
+867,Nuevo León,Guadalupe,026,2025,Diciembre,21,Empleado,Sin contrato,0.0,36000.0,105709.0,105.71,Aprobado,25.68932401234568,-100.16110456790123
+868,Nuevo León,Apodaca,006,2025,Diciembre,22,Empleado,Sin contrato,0.0,8000.0,16138.0,16.14,Rechazado,25.78899183060109,-100.18325821038252
+869,Nuevo León,General Escobedo,021,2025,Diciembre,23,Empleado,Sin contrato,0.0,2940.0,7967.0,7.97,Rechazado,25.827195,-100.37023350529101
+870,Nuevo León,Guadalupe,026,2025,Octubre,20,Empleado,Sin contrato,0.0,2400.0,4510.0,4.51,Rechazado,25.68932401234568,-100.16110456790123
+871,Nuevo León,General Escobedo,021,2025,Diciembre,27,Empleado,Sin contrato,0.0,3000.0,3439.0,3.44,Rechazado,25.827195,-100.37023350529101
+872,Nuevo León,Apodaca,006,2025,Diciembre,26,Empleado,Sin contrato,0.0,10833.0,29635.0,29.64,Rechazado,25.78899183060109,-100.18325821038252
+873,Nuevo León,General Escobedo,021,2025,Octubre,19,Empleado,Sin contrato,0.0,3667.0,3276.0,3.28,Rechazado,25.827195,-100.37023350529101
+874,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,19,Empleado,Sin contrato,0.0,6750.0,7396.0,7.4,Rechazado,25.755252777777777,-100.2895861111111
+875,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,21,Empleado,Sin contrato,0.0,200000.0,476095.0,476.1,Aprobado,25.755252777777777,-100.2895861111111
+876,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,27,Empleado,Sin contrato,0.0,9967.0,27328.0,27.33,Rechazado,25.755252777777777,-100.2895861111111
+877,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,23,Empleado,Sin contrato,0.0,9000.0,28657.0,28.66,Rechazado,25.755252777777777,-100.2895861111111
+878,Nuevo León,Guadalupe,026,2025,Octubre,25,Empleado,Sin contrato,0.0,6967.0,9181.0,9.18,Rechazado,25.68932401234568,-100.16110456790123
+879,Nuevo León,Apodaca,006,2025,Octubre,20,Empleado,Sin contrato,0.0,4500.0,3745.0,3.74,Rechazado,25.78899183060109,-100.18325821038252
+880,Nuevo León,Apodaca,006,2025,Octubre,23,Empleado,Sin contrato,0.0,2000.0,6736.0,6.74,Rechazado,25.78899183060109,-100.18325821038252
+881,Nuevo León,Apodaca,006,2025,Octubre,23,Empleado,Sin contrato,0.0,18667.0,17981.0,17.98,Rechazado,25.78899183060109,-100.18325821038252
+882,Nuevo León,General Escobedo,021,2025,Noviembre,21,Empleado,Sin contrato,0.0,8000.0,8744.0,8.74,Rechazado,25.827195,-100.37023350529101
+883,Nuevo León,General Escobedo,021,2025,Noviembre,26,Empleado,Sin contrato,0.0,1000.0,1374.0,1.37,Rechazado,25.827195,-100.37023350529101
+884,Nuevo León,General Escobedo,021,2025,Octubre,22,Empleado,Sin contrato,0.0,3000.0,6265.0,6.26,Rechazado,25.827195,-100.37023350529101
+885,Nuevo León,Juárez,031,2025,Diciembre,26,Empleado,Sin contrato,0.0,8000.0,25188.0,25.19,Rechazado,25.60212283769063,-100.1228211083878
+886,Nuevo León,Apodaca,006,2025,Diciembre,26,Empleado,Sin contrato,0.0,10000.0,27816.0,27.82,Rechazado,25.78899183060109,-100.18325821038252
+887,Nuevo León,El Carmen,010,2025,Noviembre,21,Empleado,Sin contrato,0.0,7600.0,19946.0,19.95,Rechazado,25.897698611111114,-100.35209398888888
+888,Nuevo León,El Carmen,010,2025,Diciembre,23,Empleado,Sin contrato,0.0,50000.0,51277.0,51.28,Rechazado,25.897698611111114,-100.35209398888888
+889,Nuevo León,Juárez,031,2025,Noviembre,27,Empleado,Sin contrato,0.0,933.0,1468.0,1.47,Rechazado,25.60212283769063,-100.1228211083878
+890,Nuevo León,Juárez,031,2025,Diciembre,27,Empleado,Sin contrato,0.0,18000.0,34834.0,34.83,Rechazado,25.60212283769063,-100.1228211083878
+891,Nuevo León,Juárez,031,2025,Octubre,21,Empleado,Sin contrato,0.0,750.0,707.0,0.71,Rechazado,25.60212283769063,-100.1228211083878
+892,Nuevo León,Apodaca,006,2025,Diciembre,21,Empleado,Sin contrato,0.0,1000.0,1320.0,1.32,Rechazado,25.78899183060109,-100.18325821038252
+893,Nuevo León,General Escobedo,021,2025,Diciembre,21,Empleado,Sin contrato,0.0,3000.0,4275.0,4.28,Rechazado,25.827195,-100.37023350529101
+894,Nuevo León,General Escobedo,021,2025,Diciembre,27,Empleado,Sin contrato,0.0,15000.0,13227.0,13.23,Rechazado,25.827195,-100.37023350529101
+895,Nuevo León,Juárez,031,2025,Noviembre,21,Empleado,Sin contrato,0.0,13000.0,27959.0,27.96,Rechazado,25.60212283769063,-100.1228211083878
+896,Nuevo León,Apodaca,006,2025,Noviembre,19,Empleado,Sin contrato,0.0,2200.0,5753.0,5.75,Rechazado,25.78899183060109,-100.18325821038252
+897,Nuevo León,Monterrey,039,2025,Noviembre,24,Empleado,Sin contrato,0.0,1000.0,710.0,0.71,Rechazado,25.55914746031746,-100.26696880952382
+898,Nuevo León,Santa Catarina,048,2025,Diciembre,26,Empleado,Sin contrato,0.0,242.0,470.0,0.47,Rechazado,25.598188524305556,-100.48739686921296
+899,Nuevo León,Apodaca,006,2025,Diciembre,26,Empleado,Sin contrato,0.0,5200.0,14802.0,14.8,Rechazado,25.78899183060109,-100.18325821038252
+900,Nuevo León,Guadalupe,026,2025,Diciembre,25,Empleado,Sin contrato,0.0,4000.0,10976.0,10.98,Rechazado,25.68932401234568,-100.16110456790123
+901,Nuevo León,Monterrey,039,2025,Noviembre,27,Empleado,Sin contrato,0.0,10000.0,29452.0,29.45,Rechazado,25.55914746031746,-100.26696880952382
+902,Nuevo León,Monterrey,039,2025,Octubre,27,Empleado,Sin contrato,0.0,14000.0,25826.0,25.83,Rechazado,25.55914746031746,-100.26696880952382
+903,Nuevo León,Monterrey,039,2025,Noviembre,27,Empleado,Sin contrato,0.0,2000.0,5923.0,5.92,Rechazado,25.55914746031746,-100.26696880952382
+904,Nuevo León,Monterrey,039,2025,Octubre,27,Empleado,Sin contrato,0.0,16000.0,19556.0,19.56,Rechazado,25.55914746031746,-100.26696880952382
+905,Nuevo León,Monterrey,039,2025,Octubre,27,Empleado,Sin contrato,0.0,93.0,147.0,0.15,Rechazado,25.55914746031746,-100.26696880952382
+906,Nuevo León,Apodaca,006,2025,Octubre,20,Empleado,Sin contrato,0.0,11475.0,11809.0,11.81,Rechazado,25.78899183060109,-100.18325821038252
+907,Nuevo León,García,018,2025,Diciembre,26,Empleado,Sin contrato,0.0,2000.0,3805.0,3.8,Rechazado,25.8149235154321,-100.62665417901233
+908,Nuevo León,García,018,2025,Octubre,19,Empleado,Sin contrato,0.0,5200.0,8716.0,8.72,Rechazado,25.8149235154321,-100.62665417901233
+909,Nuevo León,García,018,2025,Octubre,19,Empleado,Sin contrato,0.0,6000.0,7337.0,7.34,Rechazado,25.8149235154321,-100.62665417901233
+910,Nuevo León,Montemorelos,038,2025,Octubre,23,Empleado,Sin contrato,0.0,933.0,2571.0,2.57,Rechazado,25.186208204656864,-99.86381055759803
+911,Nuevo León,Cadereyta Jiménez,009,2025,Diciembre,24,Empleado,Sin contrato,0.0,1500.0,2162.0,2.16,Rechazado,25.47843766025641,-99.96717816724941
+912,Nuevo León,General Zuazua,025,2025,Diciembre,23,Empleado,Sin contrato,0.0,2500.0,3296.0,3.3,Rechazado,25.89077779239766,-100.13730503898636
+913,Nuevo León,Ciénega de Flores,012,2025,Octubre,25,Empleado,Sin contrato,0.0,4333.0,3868.0,3.87,Rechazado,25.96289115079365,-100.17802153174603
+914,Nuevo León,Salinas Victoria,045,2025,Octubre,22,Empleado,Sin contrato,0.0,25000.0,45412.0,45.41,Rechazado,26.075659133141762,-100.28113906768837
+915,Nuevo León,Salinas Victoria,045,2025,Noviembre,20,Empleado,Sin contrato,0.0,25000.0,35222.0,35.22,Rechazado,26.075659133141762,-100.28113906768837
+916,Nuevo León,General Zuazua,025,2025,Octubre,27,Empleado,Sin contrato,0.0,5333.0,8574.0,8.57,Rechazado,25.89077779239766,-100.13730503898636
+917,Nuevo León,Marín,034,2025,Noviembre,27,Empleado,Sin contrato,0.0,6750.0,8154.0,8.15,Rechazado,25.859648082437275,-100.02385195340501
+918,Nuevo León,Marín,034,2025,Noviembre,26,Empleado,Sin contrato,0.0,3000.0,8368.0,8.37,Rechazado,25.859648082437275,-100.02385195340501
+919,Nuevo León,Doctor Arroyo,014,2025,Diciembre,20,Empleado,Sin contrato,0.0,3800.0,12502.0,12.5,Rechazado,23.80926394,-100.29751210111112
+920,Nuevo León,Montemorelos,038,2025,Octubre,27,Empleado,Sin contrato,0.0,11000.0,21932.0,21.93,Rechazado,25.186208204656864,-99.86381055759803
+921,Nuevo León,Montemorelos,038,2025,Diciembre,23,Empleado,Sin contrato,0.0,3000.0,7287.0,7.29,Rechazado,25.186208204656864,-99.86381055759803
+922,Nuevo León,Galeana,017,2025,Octubre,18,Empleado,Sin contrato,0.0,12600.0,39079.0,39.08,Rechazado,24.826310219067647,-100.3212828785489
+923,Nuevo León,Galeana,017,2025,Diciembre,21,Empleado,Sin contrato,0.0,13867.0,48486.0,48.49,Rechazado,24.826310219067647,-100.3212828785489
+924,Nuevo León,Galeana,017,2025,Diciembre,21,Empleado,Sin contrato,0.0,59837.0,140051.0,140.05,Aprobado,24.826310219067647,-100.3212828785489
+925,Nuevo León,Galeana,017,2025,Diciembre,25,Empleado,Sin contrato,0.0,500.0,1585.0,1.58,Rechazado,24.826310219067647,-100.3212828785489
+926,Nuevo León,Galeana,017,2025,Noviembre,21,Empleado,Sin contrato,0.0,1667.0,5377.0,5.38,Rechazado,24.826310219067647,-100.3212828785489
+927,Nuevo León,Doctor Arroyo,014,2025,Octubre,23,Empleado,Sin contrato,0.0,1000.0,2874.0,2.87,Rechazado,23.80926394,-100.29751210111112
+928,Nuevo León,Cadereyta Jiménez,009,2025,Diciembre,24,Empleado,Sin contrato,0.0,6201.0,11675.0,11.68,Rechazado,25.47843766025641,-99.96717816724941
+929,Nuevo León,Cadereyta Jiménez,009,2025,Diciembre,21,Empleado,Sin contrato,0.0,21000.0,15613.0,15.61,Rechazado,25.47843766025641,-99.96717816724941
+930,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,12000.0,6569.0,6.57,Rechazado,25.55914746031746,-100.26696880952382
+931,Nuevo León,García,018,2025,Noviembre,23,Empleado,Sin contrato,0.0,4800.0,9272.0,9.27,Rechazado,25.8149235154321,-100.62665417901233
+932,Nuevo León,García,018,2025,Noviembre,23,Empleado,Sin contrato,0.0,1667.0,3306.0,3.31,Rechazado,25.8149235154321,-100.62665417901233
+933,Nuevo León,Apodaca,006,2025,Diciembre,23,Empleado,Sin contrato,0.0,1333.0,2296.0,2.3,Rechazado,25.78899183060109,-100.18325821038252
+934,Nuevo León,Guadalupe,026,2025,Diciembre,22,Empleado,Sin contrato,0.0,6000.0,13227.0,13.23,Rechazado,25.68932401234568,-100.16110456790123
+935,Nuevo León,Monterrey,039,2025,Noviembre,26,Empleado,Sin contrato,0.0,1333.0,2875.0,2.88,Rechazado,25.55914746031746,-100.26696880952382
+936,Nuevo León,Monterrey,039,2025,Noviembre,24,Empleado,Sin contrato,0.0,167.0,503.0,0.5,Rechazado,25.55914746031746,-100.26696880952382
+937,Nuevo León,Juárez,031,2025,Octubre,21,Empleado,Sin contrato,0.0,2817.0,2327.0,2.33,Rechazado,25.60212283769063,-100.1228211083878
+938,Nuevo León,Monterrey,039,2025,Noviembre,23,Empleado,Sin contrato,0.0,13500.0,15870.0,15.87,Rechazado,25.55914746031746,-100.26696880952382
+939,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,250.0,720.0,0.72,Rechazado,25.55914746031746,-100.26696880952382
+940,Nuevo León,Juárez,031,2025,Diciembre,20,Empleado,Sin contrato,0.0,1033.0,3144.0,3.14,Rechazado,25.60212283769063,-100.1228211083878
+941,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,21,Empleado,Sin contrato,0.0,3500.0,12196.0,12.2,Rechazado,25.755252777777777,-100.2895861111111
+942,Nuevo León,Apodaca,006,2025,Noviembre,27,Empleado,Sin contrato,0.0,8800.0,27445.0,27.44,Rechazado,25.78899183060109,-100.18325821038252
+943,Nuevo León,Apodaca,006,2025,Octubre,18,Empleado,Sin contrato,0.0,8000.0,25358.0,25.36,Rechazado,25.78899183060109,-100.18325821038252
+944,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,12000.0,17317.0,17.32,Rechazado,25.55914746031746,-100.26696880952382
+945,Nuevo León,Monterrey,039,2025,Noviembre,27,Empleado,Sin contrato,0.0,3000.0,5115.0,5.12,Rechazado,25.55914746031746,-100.26696880952382
+946,Nuevo León,Monterrey,039,2025,Octubre,27,Empleado,Sin contrato,0.0,1000.0,1304.0,1.3,Rechazado,25.55914746031746,-100.26696880952382
+947,Nuevo León,Apodaca,006,2025,Octubre,20,Empleado,Sin contrato,0.0,800.0,1855.0,1.86,Rechazado,25.78899183060109,-100.18325821038252
+948,Nuevo León,Apodaca,006,2025,Diciembre,27,Empleado,Sin contrato,0.0,7367.0,24432.0,24.43,Rechazado,25.78899183060109,-100.18325821038252
+949,Nuevo León,Apodaca,006,2025,Noviembre,25,Empleado,Sin contrato,0.0,1000.0,1534.0,1.53,Rechazado,25.78899183060109,-100.18325821038252
+950,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,27,Empleado,Sin contrato,0.0,3000.0,6513.0,6.51,Rechazado,25.755252777777777,-100.2895861111111
+951,Nuevo León,Monterrey,039,2025,Noviembre,18,Empleado,Sin contrato,0.0,3000.0,4167.0,4.17,Rechazado,25.55914746031746,-100.26696880952382
+952,Nuevo León,San Pedro Garza García,019,2025,Diciembre,22,Empleado,Sin contrato,0.0,8000.0,8075.0,8.07,Rechazado,25.634911428571428,-100.38775825396826
+953,Nuevo León,Monterrey,039,2025,Octubre,27,Empleado,Sin contrato,0.0,7017.0,7617.0,7.62,Rechazado,25.55914746031746,-100.26696880952382
+954,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,27,Empleado,Sin contrato,0.0,33.0,22.0,0.02,Rechazado,25.755252777777777,-100.2895861111111
+955,Nuevo León,El Carmen,010,2025,Diciembre,20,Empleado,Sin contrato,0.0,5000.0,16739.0,16.74,Rechazado,25.897698611111114,-100.35209398888888
+956,Nuevo León,Apodaca,006,2025,Noviembre,24,Empleado,Sin contrato,0.0,32000.0,54676.0,54.68,Rechazado,25.78899183060109,-100.18325821038252
+957,Nuevo León,General Escobedo,021,2025,Noviembre,19,Empleado,Sin contrato,0.0,3000.0,9007.0,9.01,Rechazado,25.827195,-100.37023350529101
+958,Nuevo León,Juárez,031,2025,Diciembre,25,Empleado,Sin contrato,0.0,3500.0,8904.0,8.9,Rechazado,25.60212283769063,-100.1228211083878
+959,Nuevo León,Juárez,031,2025,Noviembre,20,Empleado,Sin contrato,0.0,833.0,896.0,0.9,Rechazado,25.60212283769063,-100.1228211083878
+960,Nuevo León,Juárez,031,2025,Noviembre,19,Empleado,Sin contrato,0.0,2000.0,2053.0,2.05,Rechazado,25.60212283769063,-100.1228211083878
+961,Nuevo León,Monterrey,039,2025,Noviembre,23,Empleado,Sin contrato,0.0,45000.0,132118.0,132.12,Aprobado,25.55914746031746,-100.26696880952382
+962,Nuevo León,Monterrey,039,2025,Octubre,20,Empleado,Sin contrato,0.0,20000.0,25883.0,25.88,Rechazado,25.55914746031746,-100.26696880952382
+963,Nuevo León,Apodaca,006,2025,Octubre,22,Empleado,Sin contrato,0.0,3000.0,9720.0,9.72,Rechazado,25.78899183060109,-100.18325821038252
+964,Nuevo León,Apodaca,006,2025,Noviembre,18,Empleado,Sin contrato,0.0,1000.0,920.0,0.92,Rechazado,25.78899183060109,-100.18325821038252
+965,Nuevo León,Apodaca,006,2025,Octubre,20,Empleado,Sin contrato,0.0,1333.0,3377.0,3.38,Rechazado,25.78899183060109,-100.18325821038252
+966,Nuevo León,San Pedro Garza García,019,2025,Noviembre,27,Empleado,Sin contrato,0.0,12133.0,35713.0,35.71,Rechazado,25.634911428571428,-100.38775825396826
+967,Nuevo León,San Pedro Garza García,019,2025,Noviembre,23,Empleado,Sin contrato,0.0,15500.0,18689.0,18.69,Rechazado,25.634911428571428,-100.38775825396826
+968,Nuevo León,Guadalupe,026,2025,Diciembre,19,Empleado,Sin contrato,0.0,1667.0,2215.0,2.22,Rechazado,25.68932401234568,-100.16110456790123
+969,Nuevo León,Monterrey,039,2025,Octubre,27,Empleado,Sin contrato,0.0,10000.0,33936.0,33.94,Rechazado,25.55914746031746,-100.26696880952382
+970,Nuevo León,Monterrey,039,2025,Noviembre,23,Empleado,Sin contrato,0.0,4000.0,5175.0,5.18,Rechazado,25.55914746031746,-100.26696880952382
+971,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,23,Empleado,Sin contrato,0.0,40000.0,71595.0,71.6,Aprobado,25.755252777777777,-100.2895861111111
+972,Nuevo León,General Escobedo,021,2025,Octubre,25,Empleado,Sin contrato,0.0,12000.0,21571.0,21.57,Rechazado,25.827195,-100.37023350529101
+973,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,667.0,840.0,0.84,Rechazado,25.55914746031746,-100.26696880952382
+974,Nuevo León,Monterrey,039,2025,Octubre,27,Empleado,Sin contrato,0.0,86354.0,244155.0,244.16,Aprobado,25.55914746031746,-100.26696880952382
+975,Nuevo León,Monterrey,039,2025,Octubre,18,Empleado,Sin contrato,0.0,18770.0,52848.0,52.85,Rechazado,25.55914746031746,-100.26696880952382
+976,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,4667.0,7630.0,7.63,Rechazado,25.55914746031746,-100.26696880952382
+977,Nuevo León,General Escobedo,021,2025,Noviembre,24,Empleado,Sin contrato,0.0,2583.0,7763.0,7.76,Rechazado,25.827195,-100.37023350529101
+978,Nuevo León,Juárez,031,2025,Noviembre,21,Empleado,Sin contrato,0.0,35000.0,39873.0,39.87,Rechazado,25.60212283769063,-100.1228211083878
+979,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,27,Empleado,Sin contrato,0.0,6667.0,3420.0,3.42,Rechazado,25.755252777777777,-100.2895861111111
+980,Nuevo León,García,018,2025,Octubre,24,Empleado,Sin contrato,0.0,400.0,885.0,0.88,Rechazado,25.8149235154321,-100.62665417901233
+981,Nuevo León,Monterrey,039,2025,Octubre,26,Empleado,Sin contrato,0.0,3000.0,10447.0,10.45,Rechazado,25.55914746031746,-100.26696880952382
+982,Nuevo León,García,018,2025,Noviembre,26,Empleado,Sin contrato,0.0,21667.0,13345.0,13.34,Rechazado,25.8149235154321,-100.62665417901233
+983,Nuevo León,García,018,2025,Octubre,19,Empleado,Sin contrato,0.0,30000.0,33720.0,33.72,Rechazado,25.8149235154321,-100.62665417901233
+984,Nuevo León,García,018,2025,Noviembre,22,Empleado,Sin contrato,0.0,11500.0,23653.0,23.65,Rechazado,25.8149235154321,-100.62665417901233
+985,Nuevo León,García,018,2025,Octubre,27,Empleado,Sin contrato,0.0,5000.0,14649.0,14.65,Rechazado,25.8149235154321,-100.62665417901233
+986,Nuevo León,García,018,2025,Octubre,21,Empleado,Sin contrato,0.0,1000.0,767.0,0.77,Rechazado,25.8149235154321,-100.62665417901233
+987,Nuevo León,Cadereyta Jiménez,009,2025,Diciembre,23,Empleado,Sin contrato,0.0,60000.0,101142.0,101.14,Aprobado,25.47843766025641,-99.96717816724941
+988,Nuevo León,Montemorelos,038,2025,Octubre,26,Empleado,Sin contrato,0.0,5000.0,13706.0,13.71,Rechazado,25.186208204656864,-99.86381055759803
+989,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,22,Empleado,Sin contrato,0.0,6300.0,10172.0,10.17,Rechazado,25.47843766025641,-99.96717816724941
+990,Nuevo León,Montemorelos,038,2025,Octubre,27,Empleado,Sin contrato,0.0,9333.0,9954.0,9.95,Rechazado,25.186208204656864,-99.86381055759803
+991,Nuevo León,Anáhuac,005,2025,Diciembre,24,Empleado,Sin contrato,0.0,2500.0,2716.0,2.72,Rechazado,27.289438437830686,-100.1443252037037
+992,Nuevo León,Salinas Victoria,045,2025,Noviembre,21,Empleado,Sin contrato,0.0,1333.0,2306.0,2.31,Rechazado,26.075659133141762,-100.28113906768837
+993,Nuevo León,General Zuazua,025,2025,Noviembre,23,Empleado,Sin contrato,0.0,3000.0,5815.0,5.82,Rechazado,25.89077779239766,-100.13730503898636
+994,Nuevo León,General Zuazua,025,2025,Diciembre,26,Empleado,Sin contrato,0.0,30000.0,92563.0,92.56,Aprobado,25.89077779239766,-100.13730503898636
+995,Nuevo León,Ciénega de Flores,012,2025,Octubre,26,Empleado,Sin contrato,0.0,1250.0,3033.0,3.03,Rechazado,25.96289115079365,-100.17802153174603
+996,Nuevo León,Marín,034,2025,Diciembre,21,Empleado,Sin contrato,0.0,4500.0,11570.0,11.57,Rechazado,25.859648082437275,-100.02385195340501
+997,Nuevo León,Marín,034,2025,Octubre,19,Empleado,Sin contrato,0.0,1200.0,4139.0,4.14,Rechazado,25.859648082437275,-100.02385195340501
+998,Nuevo León,Bustamante,008,2025,Noviembre,25,Empleado,Sin contrato,0.0,667.0,1158.0,1.16,Rechazado,26.561276589147287,-100.49989370155038
+999,Nuevo León,García,018,2025,Noviembre,22,Empleado,Sin contrato,0.0,25.0,43.0,0.04,Rechazado,25.8149235154321,-100.62665417901233
+1000,Nuevo León,García,018,2025,Noviembre,22,Empleado,Sin contrato,0.0,3000.0,9810.0,9.81,Rechazado,25.8149235154321,-100.62665417901233
+1001,Nuevo León,García,018,2025,Diciembre,25,Empleado,Sin contrato,0.0,6000.0,7426.0,7.43,Rechazado,25.8149235154321,-100.62665417901233
+1002,Nuevo León,García,018,2025,Octubre,24,Empleado,Sin contrato,0.0,2300.0,6186.0,6.19,Rechazado,25.8149235154321,-100.62665417901233
+1003,Nuevo León,Galeana,017,2025,Diciembre,20,Empleado,Sin contrato,0.0,1067.0,2949.0,2.95,Rechazado,24.826310219067647,-100.3212828785489
+1004,Nuevo León,Galeana,017,2025,Noviembre,25,Empleado,Sin contrato,0.0,4000.0,3173.0,3.17,Rechazado,24.826310219067647,-100.3212828785489
+1005,Nuevo León,Galeana,017,2025,Noviembre,24,Empleado,Sin contrato,0.0,4833.0,9205.0,9.2,Rechazado,24.826310219067647,-100.3212828785489
+1006,Nuevo León,Galeana,017,2025,Diciembre,19,Empleado,Sin contrato,0.0,400.0,441.0,0.44,Rechazado,24.826310219067647,-100.3212828785489
+1007,Nuevo León,Galeana,017,2025,Octubre,24,Empleado,Sin contrato,0.0,333.0,352.0,0.35,Rechazado,24.826310219067647,-100.3212828785489
+1008,Nuevo León,Doctor Arroyo,014,2025,Diciembre,18,Empleado,Sin contrato,0.0,10333.0,19545.0,19.55,Rechazado,23.80926394,-100.29751210111112
+1009,Nuevo León,General Escobedo,021,2025,Noviembre,25,Empleado,Sin contrato,0.0,127.0,174.0,0.17,Rechazado,25.827195,-100.37023350529101
+1010,Nuevo León,General Escobedo,021,2025,Diciembre,22,Empleado,Sin contrato,0.0,18000.0,51987.0,51.99,Rechazado,25.827195,-100.37023350529101
+1011,Nuevo León,El Carmen,010,2025,Octubre,23,Empleado,Sin contrato,0.0,9000.0,29005.0,29.0,Rechazado,25.897698611111114,-100.35209398888888
+1012,Nuevo León,El Carmen,010,2025,Noviembre,22,Empleado,Sin contrato,0.0,12000.0,34898.0,34.9,Rechazado,25.897698611111114,-100.35209398888888
+1013,Nuevo León,El Carmen,010,2025,Diciembre,27,Empleado,Sin contrato,0.0,8583.0,11142.0,11.14,Rechazado,25.897698611111114,-100.35209398888888
+1014,Nuevo León,Juárez,031,2025,Noviembre,22,Empleado,Sin contrato,0.0,3000.0,3967.0,3.97,Rechazado,25.60212283769063,-100.1228211083878
+1015,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,26,Empleado,Sin contrato,0.0,200.0,253.0,0.25,Rechazado,25.755252777777777,-100.2895861111111
+1016,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,21,Empleado,Sin contrato,0.0,12000.0,10861.0,10.86,Rechazado,25.755252777777777,-100.2895861111111
+1017,Nuevo León,Guadalupe,026,2025,Diciembre,24,Empleado,Sin contrato,0.0,2800.0,9328.0,9.33,Rechazado,25.68932401234568,-100.16110456790123
+1018,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,24,Empleado,Sin contrato,0.0,9967.0,17005.0,17.0,Rechazado,25.755252777777777,-100.2895861111111
+1019,Nuevo León,García,018,2025,Diciembre,23,Empleado,Sin contrato,0.0,13650.0,16026.0,16.03,Rechazado,25.8149235154321,-100.62665417901233
+1020,Nuevo León,García,018,2025,Diciembre,21,Empleado,Sin contrato,0.0,9600.0,29184.0,29.18,Rechazado,25.8149235154321,-100.62665417901233
+1021,Nuevo León,García,018,2025,Octubre,26,Empleado,Sin contrato,0.0,10000.0,16976.0,16.98,Rechazado,25.8149235154321,-100.62665417901233
+1022,Nuevo León,Guadalupe,026,2025,Octubre,26,Empleado,Sin contrato,0.0,6000.0,3632.0,3.63,Rechazado,25.68932401234568,-100.16110456790123
+1023,Nuevo León,Monterrey,039,2025,Diciembre,26,Empleado,Sin contrato,0.0,6000.0,5915.0,5.92,Rechazado,25.55914746031746,-100.26696880952382
+1024,Nuevo León,Apodaca,006,2025,Octubre,25,Empleado,Sin contrato,0.0,2083.0,5036.0,5.04,Rechazado,25.78899183060109,-100.18325821038252
+1025,Nuevo León,Monterrey,039,2025,Noviembre,24,Empleado,Sin contrato,0.0,3000.0,8546.0,8.55,Rechazado,25.55914746031746,-100.26696880952382
+1026,Nuevo León,Monterrey,039,2025,Diciembre,25,Empleado,Sin contrato,0.0,483.0,547.0,0.55,Rechazado,25.55914746031746,-100.26696880952382
+1027,Nuevo León,General Escobedo,021,2025,Noviembre,18,Empleado,Sin contrato,0.0,1500.0,4878.0,4.88,Rechazado,25.827195,-100.37023350529101
+1028,Nuevo León,General Escobedo,021,2025,Noviembre,25,Empleado,Sin contrato,0.0,1833.0,5596.0,5.6,Rechazado,25.827195,-100.37023350529101
+1029,Nuevo León,Guadalupe,026,2025,Diciembre,23,Empleado,Sin contrato,0.0,2500.0,7613.0,7.61,Rechazado,25.68932401234568,-100.16110456790123
+1030,Nuevo León,Guadalupe,026,2025,Noviembre,25,Empleado,Sin contrato,0.0,13500.0,15970.0,15.97,Rechazado,25.68932401234568,-100.16110456790123
+1031,Nuevo León,Guadalupe,026,2025,Octubre,24,Empleado,Sin contrato,0.0,1000.0,652.0,0.65,Rechazado,25.68932401234568,-100.16110456790123
+1032,Nuevo León,Guadalupe,026,2025,Noviembre,25,Empleado,Sin contrato,0.0,17333.0,53772.0,53.77,Rechazado,25.68932401234568,-100.16110456790123
+1033,Nuevo León,Monterrey,039,2025,Diciembre,19,Empleado,Sin contrato,0.0,13500.0,19135.0,19.14,Rechazado,25.55914746031746,-100.26696880952382
+1034,Nuevo León,General Escobedo,021,2025,Noviembre,24,Empleado,Sin contrato,0.0,2500.0,5892.0,5.89,Rechazado,25.827195,-100.37023350529101
+1035,Nuevo León,Juárez,031,2025,Noviembre,25,Empleado,Sin contrato,0.0,10000.0,27799.0,27.8,Rechazado,25.60212283769063,-100.1228211083878
+1036,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,10300.0,9114.0,9.11,Rechazado,25.55914746031746,-100.26696880952382
+1037,Nuevo León,General Escobedo,021,2025,Octubre,21,Empleado,Sin contrato,0.0,11600.0,32973.0,32.97,Rechazado,25.827195,-100.37023350529101
+1038,Nuevo León,Juárez,031,2025,Octubre,18,Empleado,Sin contrato,0.0,225.0,746.0,0.75,Rechazado,25.60212283769063,-100.1228211083878
+1039,Nuevo León,Juárez,031,2025,Octubre,18,Empleado,Sin contrato,0.0,4800.0,12889.0,12.89,Rechazado,25.60212283769063,-100.1228211083878
+1040,Nuevo León,García,018,2025,Diciembre,19,Empleado,Sin contrato,0.0,10833.0,19756.0,19.76,Rechazado,25.8149235154321,-100.62665417901233
+1041,Nuevo León,Apodaca,006,2025,Octubre,19,Empleado,Sin contrato,0.0,800.0,2504.0,2.5,Rechazado,25.78899183060109,-100.18325821038252
+1042,Nuevo León,Guadalupe,026,2025,Diciembre,27,Empleado,Sin contrato,0.0,533.0,1110.0,1.11,Rechazado,25.68932401234568,-100.16110456790123
+1043,Nuevo León,Guadalupe,026,2025,Octubre,26,Empleado,Sin contrato,0.0,2700.0,7383.0,7.38,Rechazado,25.68932401234568,-100.16110456790123
+1044,Nuevo León,Guadalupe,026,2025,Octubre,26,Empleado,Sin contrato,0.0,9000.0,26654.0,26.65,Rechazado,25.68932401234568,-100.16110456790123
+1045,Nuevo León,Santa Catarina,048,2025,Noviembre,27,Empleado,Sin contrato,0.0,15000.0,41221.0,41.22,Rechazado,25.598188524305556,-100.48739686921296
+1046,Nuevo León,San Pedro Garza García,019,2025,Octubre,21,Empleado,Sin contrato,0.0,133.0,181.0,0.18,Rechazado,25.634911428571428,-100.38775825396826
+1047,Nuevo León,Guadalupe,026,2025,Diciembre,25,Empleado,Sin contrato,0.0,20000.0,17071.0,17.07,Rechazado,25.68932401234568,-100.16110456790123
+1048,Nuevo León,Monterrey,039,2025,Diciembre,25,Empleado,Sin contrato,0.0,5000.0,6075.0,6.08,Rechazado,25.55914746031746,-100.26696880952382
+1049,Nuevo León,Monterrey,039,2025,Diciembre,19,Empleado,Sin contrato,0.0,67.0,135.0,0.14,Rechazado,25.55914746031746,-100.26696880952382
+1050,Nuevo León,San Nicolás de los Garza,046,2025,Octubre,24,Empleado,Sin contrato,0.0,833.0,1679.0,1.68,Rechazado,25.755252777777777,-100.2895861111111
+1051,Nuevo León,Juárez,031,2025,Diciembre,18,Empleado,Sin contrato,0.0,133.0,299.0,0.3,Rechazado,25.60212283769063,-100.1228211083878
+1052,Nuevo León,Monterrey,039,2025,Octubre,21,Empleado,Sin contrato,0.0,1000.0,1685.0,1.68,Rechazado,25.55914746031746,-100.26696880952382
+1053,Nuevo León,Monterrey,039,2025,Diciembre,25,Empleado,Sin contrato,0.0,8000.0,22885.0,22.88,Rechazado,25.55914746031746,-100.26696880952382
+1054,Nuevo León,Monterrey,039,2025,Noviembre,26,Empleado,Sin contrato,0.0,540.0,1749.0,1.75,Rechazado,25.55914746031746,-100.26696880952382
+1055,Nuevo León,Monterrey,039,2025,Octubre,27,Empleado,Sin contrato,0.0,133.0,165.0,0.16,Rechazado,25.55914746031746,-100.26696880952382
+1056,Nuevo León,Monterrey,039,2025,Octubre,27,Empleado,Sin contrato,0.0,11000.0,29805.0,29.8,Rechazado,25.55914746031746,-100.26696880952382
+1057,Nuevo León,Monterrey,039,2025,Octubre,18,Empleado,Sin contrato,0.0,4693.0,11892.0,11.89,Rechazado,25.55914746031746,-100.26696880952382
+1058,Nuevo León,General Escobedo,021,2025,Octubre,25,Empleado,Sin contrato,0.0,8750.0,18106.0,18.11,Rechazado,25.827195,-100.37023350529101
+1059,Nuevo León,General Escobedo,021,2025,Diciembre,20,Empleado,Sin contrato,0.0,500.0,533.0,0.53,Rechazado,25.827195,-100.37023350529101
+1060,Nuevo León,Monterrey,039,2025,Diciembre,27,Empleado,Sin contrato,0.0,3500.0,10100.0,10.1,Rechazado,25.55914746031746,-100.26696880952382
+1061,Nuevo León,Apodaca,006,2025,Diciembre,26,Empleado,Sin contrato,0.0,1917.0,6483.0,6.48,Rechazado,25.78899183060109,-100.18325821038252
+1062,Nuevo León,Apodaca,006,2025,Octubre,21,Empleado,Sin contrato,0.0,10000.0,26655.0,26.66,Rechazado,25.78899183060109,-100.18325821038252
+1063,Nuevo León,Guadalupe,026,2025,Noviembre,22,Empleado,Sin contrato,0.0,10000.0,32536.0,32.54,Rechazado,25.68932401234568,-100.16110456790123
+1064,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,20000.0,69051.0,69.05,Rechazado,25.55914746031746,-100.26696880952382
+1065,Nuevo León,Monterrey,039,2025,Noviembre,24,Empleado,Sin contrato,0.0,7000.0,10893.0,10.89,Rechazado,25.55914746031746,-100.26696880952382
+1066,Nuevo León,Monterrey,039,2025,Octubre,21,Empleado,Sin contrato,0.0,110000.0,265614.0,265.61,Aprobado,25.55914746031746,-100.26696880952382
+1067,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,4800.0,9225.0,9.22,Rechazado,25.55914746031746,-100.26696880952382
+1068,Nuevo León,Santa Catarina,048,2025,Noviembre,24,Empleado,Sin contrato,0.0,58.0,201.0,0.2,Rechazado,25.598188524305556,-100.48739686921296
+1069,Nuevo León,San Pedro Garza García,019,2025,Octubre,25,Empleado,Sin contrato,0.0,500.0,391.0,0.39,Rechazado,25.634911428571428,-100.38775825396826
+1070,Nuevo León,Apodaca,006,2025,Noviembre,23,Empleado,Sin contrato,0.0,83.0,144.0,0.14,Rechazado,25.78899183060109,-100.18325821038252
+1071,Nuevo León,General Escobedo,021,2025,Noviembre,23,Empleado,Sin contrato,0.0,4000.0,12506.0,12.51,Rechazado,25.827195,-100.37023350529101
+1072,Nuevo León,Guadalupe,026,2025,Octubre,23,Empleado,Sin contrato,0.0,4500.0,6085.0,6.08,Rechazado,25.68932401234568,-100.16110456790123
+1073,Nuevo León,Monterrey,039,2025,Diciembre,18,Empleado,Sin contrato,0.0,8667.0,24817.0,24.82,Rechazado,25.55914746031746,-100.26696880952382
+1074,Nuevo León,Apodaca,006,2025,Noviembre,23,Empleado,Sin contrato,0.0,6000.0,9890.0,9.89,Rechazado,25.78899183060109,-100.18325821038252
+1075,Nuevo León,Apodaca,006,2025,Diciembre,20,Empleado,Sin contrato,0.0,1503.0,5170.0,5.17,Rechazado,25.78899183060109,-100.18325821038252
+1076,Nuevo León,Guadalupe,026,2025,Noviembre,19,Empleado,Sin contrato,0.0,2685.0,8459.0,8.46,Rechazado,25.68932401234568,-100.16110456790123
+1077,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,24,Empleado,Sin contrato,0.0,24000.0,33695.0,33.7,Rechazado,25.755252777777777,-100.2895861111111
+1078,Nuevo León,General Escobedo,021,2025,Diciembre,26,Empleado,Sin contrato,0.0,6058.0,17026.0,17.03,Rechazado,25.827195,-100.37023350529101
+1079,Nuevo León,Apodaca,006,2025,Diciembre,26,Empleado,Sin contrato,0.0,10833.0,16364.0,16.36,Rechazado,25.78899183060109,-100.18325821038252
+1080,Nuevo León,General Escobedo,021,2025,Noviembre,26,Empleado,Sin contrato,0.0,12000.0,27829.0,27.83,Rechazado,25.827195,-100.37023350529101
+1081,Nuevo León,García,018,2025,Octubre,27,Empleado,Sin contrato,0.0,1250.0,3094.0,3.09,Rechazado,25.8149235154321,-100.62665417901233
+1082,Nuevo León,García,018,2025,Octubre,22,Empleado,Sin contrato,0.0,50000.0,149439.0,149.44,Aprobado,25.8149235154321,-100.62665417901233
+1083,Nuevo León,Linares,033,2025,Noviembre,24,Empleado,Sin contrato,0.0,50000.0,28668.0,28.67,Rechazado,24.850526184108524,-99.55899921834624
+1084,Nuevo León,Linares,033,2025,Octubre,23,Empleado,Sin contrato,0.0,1400.0,1625.0,1.62,Rechazado,24.850526184108524,-99.55899921834624
+1085,Nuevo León,Montemorelos,038,2025,Octubre,18,Empleado,Sin contrato,0.0,867.0,2285.0,2.28,Rechazado,25.186208204656864,-99.86381055759803
+1086,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,20,Empleado,Sin contrato,0.0,3000.0,6572.0,6.57,Rechazado,25.47843766025641,-99.96717816724941
+1087,Nuevo León,Ciénega de Flores,012,2025,Noviembre,18,Empleado,Sin contrato,0.0,12000.0,23842.0,23.84,Rechazado,25.96289115079365,-100.17802153174603
+1088,Nuevo León,Ciénega de Flores,012,2025,Octubre,19,Empleado,Sin contrato,0.0,6750.0,4493.0,4.49,Rechazado,25.96289115079365,-100.17802153174603
+1089,Nuevo León,Cadereyta Jiménez,009,2025,Noviembre,27,Empleado,Sin contrato,0.0,16000.0,24717.0,24.72,Rechazado,25.47843766025641,-99.96717816724941
+1090,Nuevo León,Salinas Victoria,045,2025,Diciembre,25,Empleado,Sin contrato,0.0,1200.0,3714.0,3.71,Rechazado,26.075659133141762,-100.28113906768837
+1091,Nuevo León,Salinas Victoria,045,2025,Diciembre,27,Empleado,Sin contrato,0.0,500.0,296.0,0.3,Rechazado,26.075659133141762,-100.28113906768837
+1092,Nuevo León,Anáhuac,005,2025,Octubre,27,Empleado,Sin contrato,0.0,18000.0,30408.0,30.41,Rechazado,27.289438437830686,-100.1443252037037
+1093,Nuevo León,Ciénega de Flores,012,2025,Noviembre,18,Empleado,Sin contrato,0.0,12500.0,41693.0,41.69,Rechazado,25.96289115079365,-100.17802153174603
+1094,Nuevo León,Ciénega de Flores,012,2025,Noviembre,21,Empleado,Sin contrato,0.0,4800.0,3133.0,3.13,Rechazado,25.96289115079365,-100.17802153174603
+1095,Nuevo León,Hidalgo,047,2025,Noviembre,24,Empleado,Sin contrato,0.0,12940.0,35574.0,35.57,Rechazado,25.98203736111111,-100.4565300462963
+1096,Nuevo León,Hidalgo,047,2025,Noviembre,24,Empleado,Sin contrato,0.0,3000.0,3819.0,3.82,Rechazado,25.98203736111111,-100.4565300462963
+1097,Nuevo León,Hidalgo,047,2025,Octubre,23,Empleado,Sin contrato,0.0,4800.0,14879.0,14.88,Rechazado,25.98203736111111,-100.4565300462963
+1098,Nuevo León,General Zuazua,025,2025,Diciembre,20,Empleado,Sin contrato,0.0,16000.0,43811.0,43.81,Rechazado,25.89077779239766,-100.13730503898636
+1099,Nuevo León,General Zuazua,025,2025,Octubre,24,Empleado,Sin contrato,0.0,5000.0,15786.0,15.79,Rechazado,25.89077779239766,-100.13730503898636
+1100,Nuevo León,General Zuazua,025,2025,Diciembre,21,Empleado,Sin contrato,0.0,417.0,479.0,0.48,Rechazado,25.89077779239766,-100.13730503898636
+1101,Nuevo León,General Zuazua,025,2025,Noviembre,19,Empleado,Sin contrato,0.0,11000.0,23033.0,23.03,Rechazado,25.89077779239766,-100.13730503898636
+1102,Nuevo León,General Zuazua,025,2025,Octubre,21,Empleado,Sin contrato,0.0,6000.0,17027.0,17.03,Rechazado,25.89077779239766,-100.13730503898636
+1103,Nuevo León,Cerralvo,011,2025,Diciembre,21,Empleado,Sin contrato,0.0,4000.0,4948.0,4.95,Rechazado,26.100784722222222,-99.64702152046785
+1104,Nuevo León,Ciénega de Flores,012,2025,Octubre,26,Empleado,Sin contrato,0.0,7000.0,8346.0,8.35,Rechazado,25.96289115079365,-100.17802153174603
+1105,Nuevo León,Marín,034,2025,Diciembre,26,Empleado,Sin contrato,0.0,6500.0,3780.0,3.78,Rechazado,25.859648082437275,-100.02385195340501
+1106,Nuevo León,García,018,2025,Noviembre,19,Empleado,Sin contrato,0.0,600.0,2025.0,2.02,Rechazado,25.8149235154321,-100.62665417901233
+1107,Nuevo León,Doctor Arroyo,014,2025,Octubre,22,Empleado,Sin contrato,0.0,833.0,2191.0,2.19,Rechazado,23.80926394,-100.29751210111112
+1108,Nuevo León,Galeana,017,2025,Octubre,18,Empleado,Sin contrato,0.0,8667.0,20859.0,20.86,Rechazado,24.826310219067647,-100.3212828785489
+1109,Nuevo León,Doctor Arroyo,014,2025,Diciembre,18,Empleado,Sin contrato,0.0,500.0,1366.0,1.37,Rechazado,23.80926394,-100.29751210111112
+1110,Nuevo León,Doctor Arroyo,014,2025,Octubre,20,Empleado,Sin contrato,0.0,30000.0,62845.0,62.84,Rechazado,23.80926394,-100.29751210111112
+1111,Nuevo León,San Pedro Garza García,019,2025,Diciembre,22,Empleado,Sin contrato,0.0,1200.0,2314.0,2.31,Rechazado,25.634911428571428,-100.38775825396826
+1112,Nuevo León,San Pedro Garza García,019,2025,Diciembre,22,Empleado,Sin contrato,0.0,1333.0,2464.0,2.46,Rechazado,25.634911428571428,-100.38775825396826
+1113,Nuevo León,Guadalupe,026,2025,Diciembre,27,Empleado,Sin contrato,0.0,1500.0,3632.0,3.63,Rechazado,25.68932401234568,-100.16110456790123
+1114,Nuevo León,Guadalupe,026,2025,Octubre,27,Empleado,Sin contrato,0.0,9000.0,9941.0,9.94,Rechazado,25.68932401234568,-100.16110456790123
+1115,Nuevo León,Guadalupe,026,2025,Diciembre,23,Empleado,Sin contrato,0.0,800.0,2531.0,2.53,Rechazado,25.68932401234568,-100.16110456790123
+1116,Nuevo León,Juárez,031,2025,Diciembre,27,Empleado,Sin contrato,0.0,208.0,611.0,0.61,Rechazado,25.60212283769063,-100.1228211083878
+1117,Nuevo León,Juárez,031,2025,Octubre,20,Empleado,Sin contrato,0.0,8500.0,13164.0,13.16,Rechazado,25.60212283769063,-100.1228211083878
+1118,Nuevo León,Monterrey,039,2025,Octubre,20,Empleado,Sin contrato,0.0,3600.0,8049.0,8.05,Rechazado,25.55914746031746,-100.26696880952382
+1119,Nuevo León,Monterrey,039,2025,Octubre,24,Empleado,Sin contrato,0.0,2000.0,1846.0,1.85,Rechazado,25.55914746031746,-100.26696880952382
+1120,Nuevo León,General Escobedo,021,2025,Noviembre,24,Empleado,Sin contrato,0.0,1800.0,6151.0,6.15,Rechazado,25.827195,-100.37023350529101
+1121,Nuevo León,Santiago,049,2025,Diciembre,23,Empleado,Sin contrato,0.0,4000.0,12835.0,12.84,Rechazado,25.405964980916032,-100.1997473812553
+1122,Nuevo León,General Escobedo,021,2025,Noviembre,22,Empleado,Sin contrato,0.0,3000.0,9797.0,9.8,Rechazado,25.827195,-100.37023350529101
+1123,Nuevo León,Monterrey,039,2025,Noviembre,23,Empleado,Sin contrato,0.0,16000.0,23944.0,23.94,Rechazado,25.55914746031746,-100.26696880952382
+1124,Nuevo León,Monterrey,039,2025,Octubre,27,Empleado,Sin contrato,0.0,4000.0,4030.0,4.03,Rechazado,25.55914746031746,-100.26696880952382
+1125,Nuevo León,García,018,2025,Octubre,20,Empleado,Sin contrato,0.0,10000.0,11353.0,11.35,Rechazado,25.8149235154321,-100.62665417901233
+1126,Nuevo León,García,018,2025,Octubre,22,Empleado,Sin contrato,0.0,1550.0,1194.0,1.19,Rechazado,25.8149235154321,-100.62665417901233
+1127,Nuevo León,Guadalupe,026,2025,Diciembre,23,Empleado,Sin contrato,0.0,8778.0,7552.0,7.55,Rechazado,25.68932401234568,-100.16110456790123
+1128,Nuevo León,Juárez,031,2025,Noviembre,24,Empleado,Sin contrato,0.0,1230.0,878.0,0.88,Rechazado,25.60212283769063,-100.1228211083878
+1129,Nuevo León,San Nicolás de los Garza,046,2025,Noviembre,26,Empleado,Sin contrato,0.0,4450.0,15439.0,15.44,Rechazado,25.755252777777777,-100.2895861111111
+1130,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,26,Empleado,Sin contrato,0.0,17500.0,12638.0,12.64,Rechazado,25.755252777777777,-100.2895861111111
+1131,Nuevo León,Monterrey,039,2025,Octubre,22,Empleado,Sin contrato,0.0,2033.0,1825.0,1.82,Rechazado,25.55914746031746,-100.26696880952382
+1132,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,2800.0,8349.0,8.35,Rechazado,25.55914746031746,-100.26696880952382
+1133,Nuevo León,Guadalupe,026,2025,Octubre,27,Empleado,Sin contrato,0.0,1333.0,2987.0,2.99,Rechazado,25.68932401234568,-100.16110456790123
+1134,Nuevo León,Guadalupe,026,2025,Diciembre,23,Empleado,Sin contrato,0.0,8000.0,22586.0,22.59,Rechazado,25.68932401234568,-100.16110456790123
+1135,Nuevo León,General Escobedo,021,2025,Diciembre,27,Empleado,Sin contrato,0.0,83.0,199.0,0.2,Rechazado,25.827195,-100.37023350529101
+1136,Nuevo León,General Escobedo,021,2025,Noviembre,22,Empleado,Sin contrato,0.0,833.0,2621.0,2.62,Rechazado,25.827195,-100.37023350529101
+1137,Nuevo León,Guadalupe,026,2025,Octubre,22,Empleado,Sin contrato,0.0,7500.0,18116.0,18.12,Rechazado,25.68932401234568,-100.16110456790123
+1138,Nuevo León,Guadalupe,026,2025,Octubre,24,Empleado,Sin contrato,0.0,6500.0,13431.0,13.43,Rechazado,25.68932401234568,-100.16110456790123
+1139,Nuevo León,Monterrey,039,2025,Noviembre,20,Empleado,Sin contrato,0.0,16467.0,43444.0,43.44,Rechazado,25.55914746031746,-100.26696880952382
+1140,Nuevo León,Monterrey,039,2025,Noviembre,23,Empleado,Sin contrato,0.0,45000.0,82898.0,82.9,Aprobado,25.55914746031746,-100.26696880952382
+1141,Nuevo León,Monterrey,039,2025,Diciembre,26,Empleado,Sin contrato,0.0,8000.0,12306.0,12.31,Rechazado,25.55914746031746,-100.26696880952382
+1142,Nuevo León,Monterrey,039,2025,Diciembre,20,Empleado,Sin contrato,0.0,167.0,318.0,0.32,Rechazado,25.55914746031746,-100.26696880952382
+1143,Nuevo León,Santa Catarina,048,2025,Noviembre,21,Empleado,Sin contrato,0.0,13000.0,13119.0,13.12,Rechazado,25.598188524305556,-100.48739686921296
+1144,Nuevo León,Santa Catarina,048,2025,Diciembre,18,Empleado,Sin contrato,0.0,25000.0,72243.0,72.24,Aprobado,25.598188524305556,-100.48739686921296
+1145,Nuevo León,García,018,2025,Diciembre,25,Empleado,Sin contrato,0.0,17333.0,22223.0,22.22,Rechazado,25.8149235154321,-100.62665417901233
+1146,Nuevo León,García,018,2025,Noviembre,26,Empleado,Sin contrato,0.0,533.0,512.0,0.51,Rechazado,25.8149235154321,-100.62665417901233
+1147,Nuevo León,García,018,2025,Noviembre,19,Empleado,Sin contrato,0.0,2000.0,2478.0,2.48,Rechazado,25.8149235154321,-100.62665417901233
+1148,Nuevo León,García,018,2025,Diciembre,20,Empleado,Sin contrato,0.0,12000.0,36315.0,36.32,Rechazado,25.8149235154321,-100.62665417901233
+1149,Nuevo León,García,018,2025,Octubre,18,Empleado,Sin contrato,0.0,12000.0,17887.0,17.89,Rechazado,25.8149235154321,-100.62665417901233
+1150,Nuevo León,Apodaca,006,2025,Diciembre,24,Empleado,Sin contrato,0.0,6000.0,15349.0,15.35,Rechazado,25.78899183060109,-100.18325821038252
+1151,Nuevo León,Apodaca,006,2025,Octubre,27,Empleado,Sin contrato,0.0,1333.0,4091.0,4.09,Rechazado,25.78899183060109,-100.18325821038252
+1152,Nuevo León,Guadalupe,026,2025,Noviembre,25,Empleado,Sin contrato,0.0,8000.0,5866.0,5.87,Rechazado,25.68932401234568,-100.16110456790123
+1153,Nuevo León,Monterrey,039,2025,Diciembre,24,Empleado,Sin contrato,0.0,17000.0,47516.0,47.52,Rechazado,25.55914746031746,-100.26696880952382
+1154,Nuevo León,Monterrey,039,2025,Noviembre,19,Empleado,Sin contrato,0.0,8000.0,11384.0,11.38,Rechazado,25.55914746031746,-100.26696880952382
+1155,Nuevo León,Apodaca,006,2025,Noviembre,19,Empleado,Sin contrato,0.0,2950.0,3392.0,3.39,Rechazado,25.78899183060109,-100.18325821038252
+1156,Nuevo León,General Escobedo,021,2025,Noviembre,19,Empleado,Sin contrato,0.0,4000.0,10267.0,10.27,Rechazado,25.827195,-100.37023350529101
+1157,Nuevo León,Monterrey,039,2025,Octubre,23,Empleado,Sin contrato,0.0,2600.0,8396.0,8.4,Rechazado,25.55914746031746,-100.26696880952382
+1158,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,2150.0,2978.0,2.98,Rechazado,25.55914746031746,-100.26696880952382
+1159,Nuevo León,Apodaca,006,2025,Octubre,18,Empleado,Sin contrato,0.0,417.0,920.0,0.92,Rechazado,25.78899183060109,-100.18325821038252
+1160,Nuevo León,Apodaca,006,2025,Noviembre,21,Empleado,Sin contrato,0.0,133.0,182.0,0.18,Rechazado,25.78899183060109,-100.18325821038252
+1161,Nuevo León,Monterrey,039,2025,Noviembre,25,Empleado,Sin contrato,0.0,83.0,180.0,0.18,Rechazado,25.55914746031746,-100.26696880952382
+1162,Nuevo León,García,018,2025,Octubre,26,Empleado,Sin contrato,0.0,533.0,1261.0,1.26,Rechazado,25.8149235154321,-100.62665417901233
+1163,Nuevo León,García,018,2025,Diciembre,20,Empleado,Sin contrato,0.0,202.0,471.0,0.47,Rechazado,25.8149235154321,-100.62665417901233
+1164,Nuevo León,San Pedro Garza García,019,2025,Noviembre,23,Empleado,Sin contrato,0.0,12000.0,28448.0,28.45,Rechazado,25.634911428571428,-100.38775825396826
+1165,Nuevo León,San Pedro Garza García,019,2025,Noviembre,25,Empleado,Sin contrato,0.0,12000.0,10863.0,10.86,Rechazado,25.634911428571428,-100.38775825396826
+1166,Nuevo León,San Pedro Garza García,019,2025,Noviembre,21,Empleado,Sin contrato,0.0,12083.0,31182.0,31.18,Rechazado,25.634911428571428,-100.38775825396826
+1167,Nuevo León,Santa Catarina,048,2025,Octubre,27,Empleado,Sin contrato,0.0,20000.0,50485.0,50.48,Rechazado,25.598188524305556,-100.48739686921296
+1168,Nuevo León,El Carmen,010,2025,Diciembre,24,Empleado,Sin contrato,0.0,25000.0,63694.0,63.69,Rechazado,25.897698611111114,-100.35209398888888
+1169,Nuevo León,Apodaca,006,2025,Noviembre,23,Empleado,Sin contrato,0.0,900.0,650.0,0.65,Rechazado,25.78899183060109,-100.18325821038252
+1170,Nuevo León,Guadalupe,026,2025,Octubre,20,Empleado,Sin contrato,0.0,691.0,1272.0,1.27,Rechazado,25.68932401234568,-100.16110456790123
+1171,Nuevo León,San Nicolás de los Garza,046,2025,Diciembre,25,Empleado,Sin contrato,0.0,1000.0,1727.0,1.73,Rechazado,25.755252777777777,-100.2895861111111
+1172,Nuevo León,Guadalupe,026,2025,Diciembre,24,Empleado,Sin contrato,0.0,12000.0,9122.0,9.12,Rechazado,25.68932401234568,-100.16110456790123
+1173,Nuevo León,Guadalupe,026,2025,Diciembre,20,Empleado,Sin contrato,0.0,12000.0,14005.0,14.0,Rechazado,25.68932401234568,-100.16110456790123
+1174,Nuevo León,Monterrey,039,2025,Diciembre,24,Empleado,Sin contrato,0.0,750.0,1367.0,1.37,Rechazado,25.55914746031746,-100.26696880952382
+1175,Nuevo León,García,018,2025,Diciembre,27,Empleado,Sin contrato,0.0,17000.0,46388.0,46.39,Rechazado,25.8149235154321,-100.62665417901233
+1176,Nuevo León,García,018,2025,Octubre,21,Empleado,Sin contrato,0.0,2000.0,2422.0,2.42,Rechazado,25.8149235154321,-100.62665417901233
+1177,Nuevo León,Cadereyta Jiménez,009,2025,Noviembre,22,Empleado,Sin contrato,0.0,12000.0,35871.0,35.87,Rechazado,25.47843766025641,-99.96717816724941
+1178,Nuevo León,Montemorelos,038,2025,Noviembre,24,Empleado,Sin contrato,0.0,11308.0,24170.0,24.17,Rechazado,25.186208204656864,-99.86381055759803
+1179,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,21,Empleado,Sin contrato,0.0,3000.0,8344.0,8.34,Rechazado,25.47843766025641,-99.96717816724941
+1180,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,19,Empleado,Sin contrato,0.0,3500.0,6712.0,6.71,Rechazado,25.47843766025641,-99.96717816724941
+1181,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,24,Empleado,Sin contrato,0.0,450.0,899.0,0.9,Rechazado,25.47843766025641,-99.96717816724941
+1182,Nuevo León,Cadereyta Jiménez,009,2025,Noviembre,27,Empleado,Sin contrato,0.0,750.0,1769.0,1.77,Rechazado,25.47843766025641,-99.96717816724941
+1183,Nuevo León,Ciénega de Flores,012,2025,Diciembre,25,Empleado,Sin contrato,0.0,217.0,713.0,0.71,Rechazado,25.96289115079365,-100.17802153174603
+1184,Nuevo León,Ciénega de Flores,012,2025,Diciembre,23,Empleado,Sin contrato,0.0,8100.0,16001.0,16.0,Rechazado,25.96289115079365,-100.17802153174603
+1185,Nuevo León,Allende,004,2025,Octubre,23,Empleado,Sin contrato,0.0,1233.0,2572.0,2.57,Rechazado,25.304741803418803,-100.0046524017094
+1186,Nuevo León,Allende,004,2025,Octubre,20,Empleado,Sin contrato,0.0,3027.0,6980.0,6.98,Rechazado,25.304741803418803,-100.0046524017094
+1187,Nuevo León,Hidalgo,047,2025,Noviembre,21,Empleado,Sin contrato,0.0,11000.0,29838.0,29.84,Rechazado,25.98203736111111,-100.4565300462963
+1188,Nuevo León,Hidalgo,047,2025,Noviembre,27,Empleado,Sin contrato,0.0,5400.0,3864.0,3.86,Rechazado,25.98203736111111,-100.4565300462963
+1189,Nuevo León,Hidalgo,047,2025,Diciembre,18,Empleado,Sin contrato,0.0,2500.0,5118.0,5.12,Rechazado,25.98203736111111,-100.4565300462963
+1190,Nuevo León,Salinas Victoria,045,2025,Diciembre,27,Empleado,Sin contrato,0.0,1500.0,2917.0,2.92,Rechazado,26.075659133141762,-100.28113906768837
+1191,Nuevo León,Salinas Victoria,045,2025,Diciembre,22,Empleado,Sin contrato,0.0,6000.0,19590.0,19.59,Rechazado,26.075659133141762,-100.28113906768837
+1192,Nuevo León,Salinas Victoria,045,2025,Diciembre,23,Empleado,Sin contrato,0.0,2000.0,3961.0,3.96,Rechazado,26.075659133141762,-100.28113906768837
+1193,Nuevo León,Salinas Victoria,045,2025,Diciembre,20,Empleado,Sin contrato,0.0,4167.0,7938.0,7.94,Rechazado,26.075659133141762,-100.28113906768837
+1194,Nuevo León,Salinas Victoria,045,2025,Noviembre,27,Empleado,Sin contrato,0.0,1280.0,4335.0,4.34,Rechazado,26.075659133141762,-100.28113906768837
+1195,Nuevo León,General Zuazua,025,2025,Octubre,21,Empleado,Sin contrato,0.0,6667.0,12345.0,12.34,Rechazado,25.89077779239766,-100.13730503898636
+1196,Nuevo León,Marín,034,2025,Octubre,19,Empleado,Sin contrato,0.0,15750.0,16422.0,16.42,Rechazado,25.859648082437275,-100.02385195340501
+1197,Nuevo León,Doctor Arroyo,014,2025,Noviembre,21,Empleado,Sin contrato,0.0,35000.0,40276.0,40.28,Rechazado,23.80926394,-100.29751210111112
+1198,Nuevo León,Montemorelos,038,2025,Octubre,22,Empleado,Sin contrato,0.0,1000.0,786.0,0.79,Rechazado,25.186208204656864,-99.86381055759803
+1199,Nuevo León,Galeana,017,2025,Octubre,24,Empleado,Sin contrato,0.0,8000.0,4014.0,4.01,Rechazado,24.826310219067647,-100.3212828785489
+1200,Nuevo León,Galeana,017,2025,Diciembre,24,Empleado,Sin contrato,0.0,8000.0,14367.0,14.37,Rechazado,24.826310219067647,-100.3212828785489
+1201,Nuevo León,Doctor Arroyo,014,2025,Octubre,26,Empleado,Sin contrato,0.0,30000.0,84232.0,84.23,Aprobado,23.80926394,-100.29751210111112
+1202,Nuevo León,El Carmen,010,2025,Diciembre,27,Empleado,Sin contrato,0.0,1333.0,3600.0,3.6,Rechazado,25.897698611111114,-100.35209398888888
+1203,Nuevo León,El Carmen,010,2025,Diciembre,20,Empleado,Sin contrato,0.0,917.0,547.0,0.55,Rechazado,25.897698611111114,-100.35209398888888
+1204,Nuevo León,Apodaca,006,2025,Noviembre,19,Empleado,Sin contrato,0.0,2925.0,6464.0,6.46,Rechazado,25.78899183060109,-100.18325821038252
+1205,Nuevo León,Apodaca,006,2025,Diciembre,24,Empleado,Sin contrato,0.0,5500.0,5296.0,5.3,Rechazado,25.78899183060109,-100.18325821038252
+1206,Nuevo León,Guadalupe,026,2025,Octubre,26,Empleado,Sin contrato,0.0,200.0,665.0,0.66,Rechazado,25.68932401234568,-100.16110456790123
+1207,Nuevo León,Juárez,031,2025,Noviembre,19,Empleado,Sin contrato,0.0,7400.0,7416.0,7.42,Rechazado,25.60212283769063,-100.1228211083878
+1208,Nuevo León,Apodaca,006,2025,Octubre,21,Empleado,Sin contrato,0.0,920.0,2190.0,2.19,Rechazado,25.78899183060109,-100.18325821038252
+1209,Nuevo León,Monterrey,039,2025,Diciembre,25,Empleado,Sin contrato,0.0,4000.0,5915.0,5.92,Rechazado,25.55914746031746,-100.26696880952382
+1210,Nuevo León,General Escobedo,021,2025,Octubre,26,Empleado,Sin contrato,0.0,8667.0,21015.0,21.02,Rechazado,25.827195,-100.37023350529101
+1211,Nuevo León,Apodaca,006,2025,Octubre,24,Empleado,Sin contrato,0.0,2000.0,3474.0,3.47,Rechazado,25.78899183060109,-100.18325821038252
+1212,Nuevo León,General Escobedo,021,2025,Diciembre,18,Empleado,Sin contrato,0.0,3000.0,8337.0,8.34,Rechazado,25.827195,-100.37023350529101
+1213,Nuevo León,Monterrey,039,2025,Noviembre,21,Empleado,Sin contrato,0.0,12000.0,14304.0,14.3,Rechazado,25.55914746031746,-100.26696880952382
+1214,Nuevo León,Monterrey,039,2025,Noviembre,19,Empleado,Sin contrato,0.0,1000.0,3217.0,3.22,Rechazado,25.55914746031746,-100.26696880952382
+1215,Nuevo León,Guadalupe,026,2025,Noviembre,19,Empleado,Sin contrato,0.0,2000.0,4001.0,4.0,Rechazado,25.68932401234568,-100.16110456790123
+1216,Nuevo León,Guadalupe,026,2025,Octubre,18,Empleado,Sin contrato,0.0,3467.0,9598.0,9.6,Rechazado,25.68932401234568,-100.16110456790123
+1217,Nuevo León,General Escobedo,021,2025,Diciembre,19,Empleado,Sin contrato,0.0,8000.0,24394.0,24.39,Rechazado,25.827195,-100.37023350529101
+1218,Nuevo León,Guadalupe,026,2025,Octubre,22,Empleado,Sin contrato,0.0,11000.0,38461.0,38.46,Rechazado,25.68932401234568,-100.16110456790123
+1219,Nuevo León,Juárez,031,2025,Octubre,26,Empleado,Sin contrato,0.0,933.0,1093.0,1.09,Rechazado,25.60212283769063,-100.1228211083878
+1220,Nuevo León,García,018,2025,Octubre,25,Empleado,Sin contrato,0.0,3000.0,4082.0,4.08,Rechazado,25.8149235154321,-100.62665417901233
+1221,Nuevo León,Apodaca,006,2025,Octubre,24,Empleado,Sin contrato,0.0,10833.0,13555.0,13.56,Rechazado,25.78899183060109,-100.18325821038252
+1222,Nuevo León,Apodaca,006,2025,Octubre,19,Empleado,Sin contrato,0.0,2000.0,2577.0,2.58,Rechazado,25.78899183060109,-100.18325821038252
+1223,Nuevo León,Guadalupe,026,2025,Noviembre,20,Empleado,Sin contrato,0.0,14038.0,31548.0,31.55,Rechazado,25.68932401234568,-100.16110456790123
+1224,Nuevo León,García,018,2025,Octubre,22,Empleado,Sin contrato,0.0,21800.0,75876.0,75.88,Aprobado,25.8149235154321,-100.62665417901233
+1225,Nuevo León,García,018,2025,Octubre,24,Empleado,Sin contrato,0.0,30000.0,104125.0,104.12,Aprobado,25.8149235154321,-100.62665417901233
+1226,Nuevo León,Apodaca,006,2025,Noviembre,25,Empleado,Sin contrato,0.0,15167.0,31552.0,31.55,Rechazado,25.78899183060109,-100.18325821038252
+1227,Nuevo León,Santa Catarina,048,2025,Octubre,24,Empleado,Sin contrato,0.0,3000.0,7251.0,7.25,Rechazado,25.598188524305556,-100.48739686921296
+1228,Nuevo León,Santa Catarina,048,2025,Diciembre,23,Empleado,Sin contrato,0.0,6000.0,18479.0,18.48,Rechazado,25.598188524305556,-100.48739686921296
+1229,Nuevo León,General Escobedo,021,2025,Diciembre,23,Empleado,Sin contrato,0.0,3000.0,9896.0,9.9,Rechazado,25.827195,-100.37023350529101
+1230,Nuevo León,General Escobedo,021,2025,Noviembre,19,Empleado,Sin contrato,0.0,1000.0,1112.0,1.11,Rechazado,25.827195,-100.37023350529101
+1231,Nuevo León,Monterrey,039,2025,Diciembre,27,Empleado,Sin contrato,0.0,583.0,1216.0,1.22,Rechazado,25.55914746031746,-100.26696880952382
+1232,Nuevo León,Monterrey,039,2025,Octubre,21,Empleado,Sin contrato,0.0,13333.0,39979.0,39.98,Rechazado,25.55914746031746,-100.26696880952382
+1233,Nuevo León,General Escobedo,021,2025,Octubre,19,Empleado,Sin contrato,0.0,10000.0,14096.0,14.1,Rechazado,25.827195,-100.37023350529101
+1234,Nuevo León,Juárez,031,2025,Diciembre,21,Empleado,Sin contrato,0.0,39000.0,70958.0,70.96,Aprobado,25.60212283769063,-100.1228211083878
+1235,Nuevo León,Guadalupe,026,2025,Diciembre,23,Empleado,Sin contrato,0.0,1000.0,3457.0,3.46,Rechazado,25.68932401234568,-100.16110456790123
+1236,Nuevo León,Monterrey,039,2025,Diciembre,27,Empleado,Sin contrato,0.0,13917.0,48085.0,48.08,Rechazado,25.55914746031746,-100.26696880952382
+1237,Nuevo León,Monterrey,039,2025,Octubre,25,Empleado,Sin contrato,0.0,16000.0,51493.0,51.49,Rechazado,25.55914746031746,-100.26696880952382
+1238,Nuevo León,Monterrey,039,2025,Diciembre,19,Empleado,Sin contrato,0.0,7000.0,20267.0,20.27,Rechazado,25.55914746031746,-100.26696880952382
+1239,Nuevo León,Apodaca,006,2025,Noviembre,25,Empleado,Sin contrato,0.0,7000.0,9152.0,9.15,Rechazado,25.78899183060109,-100.18325821038252
+1240,Nuevo León,Apodaca,006,2025,Octubre,20,Empleado,Sin contrato,0.0,5200.0,7605.0,7.6,Rechazado,25.78899183060109,-100.18325821038252
+1241,Nuevo León,Guadalupe,026,2025,Octubre,23,Empleado,Sin contrato,0.0,1557.0,3335.0,3.34,Rechazado,25.68932401234568,-100.16110456790123
+1242,Nuevo León,Monterrey,039,2025,Diciembre,26,Empleado,Sin contrato,0.0,2000.0,4365.0,4.36,Rechazado,25.55914746031746,-100.26696880952382
+1243,Nuevo León,Juárez,031,2025,Octubre,25,Empleado,Sin contrato,0.0,2492.0,5025.0,5.03,Rechazado,25.60212283769063,-100.1228211083878
+1244,Nuevo León,García,018,2025,Diciembre,21,Empleado,Sin contrato,0.0,30000.0,72300.0,72.3,Aprobado,25.8149235154321,-100.62665417901233
+1245,Nuevo León,García,018,2025,Noviembre,23,Empleado,Sin contrato,0.0,35000.0,60374.0,60.37,Rechazado,25.8149235154321,-100.62665417901233
+1246,Nuevo León,García,018,2025,Diciembre,21,Empleado,Sin contrato,0.0,9000.0,24728.0,24.73,Rechazado,25.8149235154321,-100.62665417901233
+1247,Nuevo León,García,018,2025,Diciembre,25,Empleado,Sin contrato,0.0,6000.0,9004.0,9.0,Rechazado,25.8149235154321,-100.62665417901233
+1248,Nuevo León,García,018,2025,Diciembre,27,Empleado,Sin contrato,0.0,22000.0,32825.0,32.83,Rechazado,25.8149235154321,-100.62665417901233
+1249,Nuevo León,García,018,2025,Octubre,20,Empleado,Sin contrato,0.0,3000.0,2645.0,2.64,Rechazado,25.8149235154321,-100.62665417901233
+1250,Nuevo León,Montemorelos,038,2025,Octubre,23,Empleado,Sin contrato,0.0,833.0,888.0,0.89,Rechazado,25.186208204656864,-99.86381055759803
+1251,Nuevo León,Cadereyta Jiménez,009,2025,Noviembre,24,Empleado,Sin contrato,0.0,16667.0,50860.0,50.86,Rechazado,25.47843766025641,-99.96717816724941
+1252,Nuevo León,Cadereyta Jiménez,009,2025,Noviembre,19,Empleado,Sin contrato,0.0,12000.0,22066.0,22.07,Rechazado,25.47843766025641,-99.96717816724941
+1253,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,25,Empleado,Sin contrato,0.0,3800.0,4498.0,4.5,Rechazado,25.47843766025641,-99.96717816724941
+1254,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,24,Empleado,Sin contrato,0.0,41667.0,115752.0,115.75,Aprobado,25.47843766025641,-99.96717816724941
+1255,Nuevo León,Cadereyta Jiménez,009,2025,Octubre,25,Empleado,Sin contrato,0.0,40000.0,86478.0,86.48,Aprobado,25.47843766025641,-99.96717816724941
+1256,Nuevo León,Salinas Victoria,045,2025,Octubre,23,Empleado,Sin contrato,0.0,10000.0,5635.0,5.64,Rechazado,26.075659133141762,-100.28113906768837
+1257,Nuevo León,General Zuazua,025,2025,Octubre,25,Empleado,Sin contrato,0.0,3000.0,4347.0,4.35,Rechazado,25.89077779239766,-100.13730503898636
+1258,Nuevo León,Salinas Victoria,045,2025,Diciembre,23,Empleado,Sin contrato,0.0,5000.0,5155.0,5.16,Rechazado,26.075659133141762,-100.28113906768837
+1259,Nuevo León,Salinas Victoria,045,2025,Octubre,20,Empleado,Sin contrato,0.0,11500.0,28378.0,28.38,Rechazado,26.075659133141762,-100.28113906768837
+1260,Nuevo León,Marín,034,2025,Diciembre,25,Empleado,Sin contrato,0.0,5000.0,6625.0,6.62,Rechazado,25.859648082437275,-100.02385195340501
+1261,Nuevo León,Doctor Arroyo,014,2025,Diciembre,27,Empleado,Sin contrato,0.0,9167.0,6370.0,6.37,Rechazado,23.80926394,-100.29751210111112
+1262,Nuevo León,Doctor Arroyo,014,2025,Octubre,21,Empleado,Sin contrato,0.0,5300.0,3523.0,3.52,Rechazado,23.80926394,-100.29751210111112
+1263,Nuevo León,Galeana,017,2025,Diciembre,24,Empleado,Sin contrato,0.0,6500.0,14594.0,14.59,Rechazado,24.826310219067647,-100.3212828785489
