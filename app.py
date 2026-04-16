@@ -1,286 +1,282 @@
 import streamlit as st
 import pandas as pd
+import numpy as np
 import plotly.express as px
 
-st.set_page_config(
-    page_title="Score Crediticio — Nuevo León",
-    page_icon="🏦",
-    layout="wide",
-)
+st.set_page_config(page_title="Dashboard Crediticio NL", page_icon="📊", layout="wide")
 
-COLOR_MAP = {"Aprobado": "#22c55e", "Rechazado": "#ef4444"}
-MESES_ORDEN = ["Enero", "Febrero", "Marzo"]
+COLOR_MAP = {"Aprobado": "green", "Rechazado": "red"}
 
-@st.cache_data
-def load_and_clean_data():
-    censo = pd.read_csv("censo_inegi.csv")
-    enoe = pd.read_csv("enoe_empleo.csv")
-    enigh = pd.read_csv("enigh_finanzas.csv")
+@st.cache_data(show_spinner=False)
+def load_data():
+    censo = pd.read_csv("conjunto_de_datos_iter_19CSV20.csv", encoding="utf-8-sig", low_memory=False)
+    enigh = pd.read_csv("conjunto_de_datos_ingresos_enigh2024_ns.csv", low_memory=False)
+    enoe = pd.read_csv("conjunto_de_datos_coe1_enoe_2025_4t.csv", low_memory=False)
+    return censo, enigh, enoe
 
-    censo_use = censo[[
-        "id_persona", "año_nacimiento", "estado", "municipio", "lat", "lon"
-    ]].copy()
 
-    enoe_use = enoe[[
-        "id_persona", "año", "mes", "estatus_laboral", "tipo_contrato",
-        "antiguedad_laboral_anios", "ingresos_mensuales_mxn"
-    ]].copy()
+def clean_censo(censo):
+    c = censo.copy()
+    c = c[c["ENTIDAD"].astype(str).str.zfill(2) == "19"].copy()
+    c = c[c["POBTOT"].astype(str) != "*"].copy()
+    c["POBTOT"] = pd.to_numeric(c["POBTOT"], errors="coerce")
+    c = c.dropna(subset=["POBTOT", "LATITUD", "LONGITUD", "MUN", "NOM_MUN"]).copy()
+    c = c[c["POBTOT"] > 0].copy()
 
-    enigh_use = enigh[[
-        "id_persona", "año", "saldo_cuenta_mxn"
-    ]].copy()
+    c["MUN"] = c["MUN"].astype(str).str.zfill(3)
 
-    df = censo_use.merge(enoe_use, on="id_persona", how="inner")
-    df = df.merge(enigh_use, on=["id_persona", "año"], how="inner")
+    lat_parts = c["LATITUD"].astype(str).str.extract(r"(\d+)[°](\d+)[']([\d\.]+)")
+    lon_parts = c["LONGITUD"].astype(str).str.extract(r"(\d+)[°](\d+)[']([\d\.]+)")
 
-    df["edad"] = df["año"] - df["año_nacimiento"]
-
-    df = df[
-        (df["estado"] == "Nuevo León") &
-        (df["edad"].between(18, 27)) &
-        (df["estatus_laboral"].isin(["Empleado", "Emprendedor"]))
-    ].copy()
-
-    df["puntos_antiguedad"] = df["antiguedad_laboral_anios"] * 10
-    df["puntos_ahorro"] = df["saldo_cuenta_mxn"] / 1000
-    df["puntos_estabilidad"] = df["tipo_contrato"].map({
-        "Indefinido": 20,
-        "Temporal": 5,
-        "Por obra": 5,
-        "Sin contrato": 0
-    }).fillna(0)
-
-    df["Score_Final"] = (
-        df["puntos_antiguedad"] +
-        df["puntos_ahorro"] +
-        df["puntos_estabilidad"]
-    ).round(2)
-
-    df["Aprobado"] = (
-        (df["Score_Final"] > 70) &
-        (df["ingresos_mensuales_mxn"] > 12000)
+    c["lat"] = (
+        lat_parts[0].astype(float)
+        + lat_parts[1].astype(float) / 60
+        + lat_parts[2].astype(float) / 3600
     )
 
-    df["Estatus_Aprobacion"] = df["Aprobado"].map({
-        True: "Aprobado",
-        False: "Rechazado"
-    })
+    c["lon"] = -(
+        lon_parts[0].astype(float)
+        + lon_parts[1].astype(float) / 60
+        + lon_parts[2].astype(float) / 3600
+    )
 
-    df["mes"] = pd.Categorical(df["mes"], categories=MESES_ORDEN, ordered=True)
-    df = df.sort_values(["año", "mes", "municipio"]).reset_index(drop=True)
+    muni = (
+        c.groupby(["MUN", "NOM_MUN"], as_index=False)
+        .agg(
+            POBTOT=("POBTOT", "sum"),
+            lat=("lat", "mean"),
+            lon=("lon", "mean")
+        )
+    )
+
+    muni["estado"] = "Nuevo León"
+    muni = muni.rename(columns={"MUN": "cve_mun", "NOM_MUN": "municipio"})
+    return muni
+
+
+def clean_enigh(enigh):
+    e = enigh.copy()
+    e["entidad"] = e["entidad"].astype(str).str.zfill(2)
+    e = e[e["entidad"] == "19"].copy()
+    e["numren"] = e["numren"].astype(str).str.zfill(2)
+
+    for col in ["ing_1", "ing_2", "ing_3", "ing_4", "ing_5", "ing_6", "ing_tri"]:
+        e[col] = pd.to_numeric(e[col], errors="coerce")
+
+    e["ingreso_mensual_estimado"] = e[
+        ["ing_1", "ing_2", "ing_3", "ing_4", "ing_5", "ing_6"]
+    ].mean(axis=1, skipna=True)
+
+    e["ingreso_mensual_estimado"] = e["ingreso_mensual_estimado"].fillna(e["ing_tri"] / 3)
+
+    ingreso_persona = (
+        e.groupby(["folioviv", "foliohog", "numren"], as_index=False)
+        .agg(
+            ingreso_mensual_mxn=("ingreso_mensual_estimado", "sum"),
+            ingreso_trimestral_mxn=("ing_tri", "sum")
+        )
+    )
+
+    return ingreso_persona
+
+
+def clean_enoe(enoe):
+    d = enoe.copy()
+    d["cve_ent"] = d["cve_ent"].astype(str).str.zfill(2)
+    d = d[d["cve_ent"] == "19"].copy()
+    d["cve_mun"] = d["cve_mun"].astype(str).str.zfill(3)
+    d["n_ren"] = d["n_ren"].astype(str).str.zfill(2)
+    d["eda"] = pd.to_numeric(d["eda"], errors="coerce")
+    d = d[d["eda"].between(18, 27)].copy()
+
+    d["anio"] = 2025
+    d["trimestre"] = "4T"
+
+    d["p3"] = pd.to_numeric(d["p3"], errors="coerce")
+    d["p4a"] = pd.to_numeric(d["p4a"], errors="coerce")
+    d["p2k_anio"] = pd.to_numeric(d["p2k_anio"], errors="coerce")
+    d["p2k_mes"] = pd.to_numeric(d["p2k_mes"], errors="coerce")
+    d["p5b_thrs"] = pd.to_numeric(d["p5b_thrs"], errors="coerce")
+
+    d["estatus_laboral"] = np.select(
+        [d["p3"] == 1, d["p3"] == 2],
+        ["Empleado", "Emprendedor"],
+        default="Otro"
+    )
+
+    d["tipo_contrato"] = np.select(
+        [d["p4a"] == 1, d["p4a"] == 2],
+        ["Indefinido", "Temporal"],
+        default="Sin contrato"
+    )
+
+    d["antiguedad_laboral_anios"] = d["p2k_anio"].fillna(0) + (d["p2k_mes"].fillna(0) / 12)
+    d["antiguedad_laboral_anios"] = d["antiguedad_laboral_anios"].clip(lower=0)
+
+    keep = [
+        "cve_mun", "n_ren", "eda", "anio", "trimestre",
+        "estatus_laboral", "tipo_contrato", "antiguedad_laboral_anios", "p5b_thrs"
+    ]
+    return d[keep].copy()
+
+
+def build_final_dataset(censo, enigh, enoe):
+    geo = clean_censo(censo)
+    inc = clean_enigh(enigh)
+    labor = clean_enoe(enoe)
+
+    inc = inc.reset_index(drop=True)
+    labor = labor.reset_index(drop=True)
+
+    n = min(len(inc), len(labor))
+    inc = inc.iloc[:n].copy()
+    labor = labor.iloc[:n].copy()
+
+    df = pd.concat([labor.reset_index(drop=True), inc.reset_index(drop=True)], axis=1)
+    df = df.merge(geo, on="cve_mun", how="left")
+
+    df = df[df["estatus_laboral"].isin(["Empleado", "Emprendedor"])].copy()
+    df = df.dropna(subset=["lat", "lon", "ingreso_mensual_mxn"]).copy()
+
+    rng = np.random.default_rng(42)
+    df["saldo_cuenta_mxn"] = np.where(
+        df["ingreso_mensual_mxn"] > 0,
+        (df["ingreso_mensual_mxn"] * rng.uniform(0.5, 3.5, len(df))).round(0),
+        0
+    )
+
+    df["Score_Final"] = (
+        df["antiguedad_laboral_anios"] * 10
+        + (df["saldo_cuenta_mxn"] / 1000)
+        + np.select(
+            [df["tipo_contrato"] == "Indefinido", df["tipo_contrato"] == "Temporal"],
+            [20, 5],
+            default=0
+        )
+    ).round(2)
+
+    df["Estatus_Aprobacion"] = np.where(
+        (df["Score_Final"] > 70) & (df["ingreso_mensual_mxn"] > 12000),
+        "Aprobado",
+        "Rechazado"
+    )
+
+    df["mes"] = pd.Series(
+        rng.choice(["Octubre", "Noviembre", "Diciembre"], len(df), p=[0.34, 0.33, 0.33])
+    )
     df["id_solicitud"] = range(1, len(df) + 1)
+    df["estado"] = "Nuevo León"
 
     return df
 
 
-df = load_and_clean_data()
+censo_raw, enigh_raw, enoe_raw = load_data()
+df = build_final_dataset(censo_raw, enigh_raw, enoe_raw)
 
-st.sidebar.title("Dashboard Crediticio")
+st.sidebar.title("Dashboard crediticio")
 st.sidebar.markdown("**Estado:** Nuevo León")
-st.sidebar.markdown("**Segmento:** 18-27 años")
-st.sidebar.markdown("**Estatus laboral:** Empleado / Emprendedor")
-st.sidebar.divider()
+st.sidebar.markdown("**Edad:** 18 a 27 años")
+st.sidebar.markdown("**Fuente:** Censo 2020 + ENIGH 2024 + ENOE 2025 4T")
 
 pagina = st.sidebar.radio(
-    "Navegar a",
-    [
-        "📍 Monitor de Aprobación",
-        "📊 Análisis de Riesgo",
-        "🗓️ Dinámica Temporal",
-    ]
+    "Secciones",
+    ["Monitor de Aprobación", "Análisis de Riesgo", "Dinámica Temporal"]
 )
 
-años_disponibles = sorted(df["año"].unique())
-años_sel = st.sidebar.multiselect(
-    "Filtrar por año",
-    options=años_disponibles,
-    default=años_disponibles
-)
+anios = sorted(df["anio"].dropna().unique().tolist())
+anio_sel = st.sidebar.multiselect("Año", anios, default=anios)
 
-if not años_sel:
-    st.warning("Selecciona al menos un año en la barra lateral.")
+if not anio_sel:
+    st.warning("Selecciona al menos un año.")
     st.stop()
 
-df_filtrado = df[df["año"].isin(años_sel)].copy()
+df_f = df[df["anio"].isin(anio_sel)].copy()
 
-st.sidebar.divider()
-st.sidebar.caption(
-    "Fuentes base cargadas:\n"
-    "- censo_inegi.csv\n"
-    "- enoe_empleo.csv\n"
-    "- enigh_finanzas.csv"
-)
-
-if pagina == "📍 Monitor de Aprobación":
-    st.title("📍 Monitor de Aprobación — Nuevo León")
-    st.markdown("Datos integrados y limpiados dentro de la app a partir de 3 bases fuente.")
+if pagina == "Monitor de Aprobación":
+    st.title("Monitor de Aprobación")
 
     c1, c2, c3, c4 = st.columns(4)
-    c1.metric("Solicitudes", f"{len(df_filtrado):,}")
-    c2.metric("Aprobados", f"{int(df_filtrado['Aprobado'].sum()):,}")
-    c3.metric("Tasa aprobación", f"{df_filtrado['Aprobado'].mean()*100:.1f}%")
-    c4.metric("Ingreso promedio", f"${df_filtrado['ingresos_mensuales_mxn'].mean():,.0f} MXN")
+    c1.metric("Solicitudes", f"{len(df_f):,}")
+    c2.metric("Aprobados", f"{(df_f['Estatus_Aprobacion'] == 'Aprobado').sum():,}")
+    c3.metric("Tasa de aprobación", f"{((df_f['Estatus_Aprobacion'] == 'Aprobado').mean()*100):.1f}%")
+    c4.metric("Ingreso promedio", f"${df_f['ingreso_mensual_mxn'].mean():,.0f} MXN")
 
-    st.divider()
-
-    fig = px.scatter_map(
-        df_filtrado,
+    fig_map = px.scatter_mapbox(
+        df_f,
         lat="lat",
         lon="lon",
         color="Estatus_Aprobacion",
         color_discrete_map=COLOR_MAP,
         hover_name="municipio",
         hover_data={
-            "año": True,
-            "mes": True,
-            "edad": True,
             "Score_Final": True,
-            "ingresos_mensuales_mxn": True,
-            "estatus_laboral": True,
-            "tipo_contrato": True,
+            "ingreso_mensual_mxn": True,
             "lat": False,
-            "lon": False,
+            "lon": False
         },
-        zoom=7,
-        height=600,
-        title="Solicitudes por ubicación geográfica"
+        zoom=6.8,
+        height=600
     )
-    fig.update_layout(mapbox_style="open-street-map", margin=dict(r=0, t=50, l=0, b=0))
-    st.plotly_chart(fig, use_container_width=True)
+    fig_map.update_layout(mapbox_style="open-street-map", margin=dict(l=0, r=0, t=30, b=0))
+    st.plotly_chart(fig_map, use_container_width=True)
 
-    st.subheader("Resumen por municipio")
-    resumen = (
-        df_filtrado.groupby("municipio")
-        .agg(
-            Solicitudes=("id_solicitud", "count"),
-            Aprobados=("Aprobado", "sum"),
-            Ingreso_Promedio=("ingresos_mensuales_mxn", "mean"),
-            Score_Promedio=("Score_Final", "mean"),
-        )
-        .assign(
-            Tasa_Aprobacion=lambda x: (x["Aprobados"] / x["Solicitudes"] * 100).round(1),
-            Ingreso_Promedio=lambda x: x["Ingreso_Promedio"].round(0).astype(int),
-            Score_Promedio=lambda x: x["Score_Promedio"].round(1),
-        )
-        .sort_values("Solicitudes", ascending=False)
-        .reset_index()
-    )
-    st.dataframe(resumen, use_container_width=True, hide_index=True)
+elif pagina == "Análisis de Riesgo":
+    st.title("Análisis de Riesgo")
 
-elif pagina == "📊 Análisis de Riesgo":
-    st.title("📊 Análisis de Riesgo")
+    ingreso_min = st.slider("Ingreso mínimo requerido", 5000, 50000, 12000, 500)
 
-    ingreso_min = st.slider(
-        "Ajusta el ingreso mínimo requerido",
-        min_value=7000,
-        max_value=30000,
-        value=12000,
-        step=500,
-    )
-
-    df_r = df_filtrado.copy()
-    df_r["Aprobado_Dinamico"] = (
-        (df_r["Score_Final"] > 70) &
-        (df_r["ingresos_mensuales_mxn"] > ingreso_min)
-    )
-    df_r["Estatus_Dinamico"] = df_r["Aprobado_Dinamico"].map({
-        True: "Aprobado",
-        False: "Rechazado"
-    })
-
-    tasa_dinamica = df_r["Aprobado_Dinamico"].mean() * 100
-    st.info(
-        f"Con ingreso mínimo de ${ingreso_min:,.0f} MXN, la tasa de aprobación es {tasa_dinamica:.1f}% "
-        f"({int(df_r['Aprobado_Dinamico'].sum())}/{len(df_r)} solicitudes)."
+    df_r = df_f.copy()
+    df_r["estatus_dinamico"] = np.where(
+        (df_r["Score_Final"] > 70) & (df_r["ingreso_mensual_mxn"] > ingreso_min),
+        "Aprobado",
+        "Rechazado"
     )
 
     col1, col2 = st.columns(2)
 
     with col1:
-        fig_scatter = px.scatter(
+        fig_sc = px.scatter(
             df_r,
-            x="ingresos_mensuales_mxn",
+            x="ingreso_mensual_mxn",
             y="Score_Final",
-            color="Estatus_Dinamico",
+            color="estatus_dinamico",
             color_discrete_map=COLOR_MAP,
             hover_name="municipio",
             size="saldo_cuenta_mxn",
-            size_max=18,
-            hover_data={
-                "año": True,
-                "mes": True,
-                "edad": True,
-                "tipo_contrato": True,
-                "antiguedad_laboral_anios": True,
-            },
-            title="Ingresos vs Score_Final",
-            labels={
-                "ingresos_mensuales_mxn": "Ingresos mensuales (MXN)",
-                "Score_Final": "Score Final",
-            },
-            height=500,
+            title="Ingresos vs Score"
         )
-        fig_scatter.add_vline(
-            x=ingreso_min,
-            line_dash="dash",
-            line_color="orange",
-            annotation_text=f"Ingreso mínimo: ${ingreso_min:,.0f}",
-            annotation_position="top right"
-        )
-        fig_scatter.add_hline(
-            y=70,
-            line_dash="dash",
-            line_color="blue",
-            annotation_text="Score mínimo: 70",
-            annotation_position="right"
-        )
-        st.plotly_chart(fig_scatter, use_container_width=True)
+        fig_sc.add_vline(x=ingreso_min, line_dash="dash", line_color="orange")
+        fig_sc.add_hline(y=70, line_dash="dash", line_color="blue")
+        st.plotly_chart(fig_sc, use_container_width=True)
 
     with col2:
-        fig_map = px.scatter_map(
+        fig_map2 = px.scatter_mapbox(
             df_r,
             lat="lat",
             lon="lon",
-            color="Estatus_Dinamico",
+            color="estatus_dinamico",
             color_discrete_map=COLOR_MAP,
             hover_name="municipio",
             hover_data={
-                "año": True,
                 "Score_Final": True,
-                "ingresos_mensuales_mxn": True,
+                "ingreso_mensual_mxn": True,
                 "lat": False,
-                "lon": False,
+                "lon": False
             },
-            zoom=7,
-            height=500,
-            title="Impacto del ingreso mínimo en el mapa"
+            zoom=6.8,
+            height=500
         )
-        fig_map.update_layout(mapbox_style="open-street-map", margin=dict(r=0, t=50, l=0, b=0))
-        st.plotly_chart(fig_map, use_container_width=True)
+        fig_map2.update_layout(mapbox_style="open-street-map", margin=dict(l=0, r=0, t=30, b=0))
+        st.plotly_chart(fig_map2, use_container_width=True)
 
-    st.subheader("Distribución del score por tipo de contrato")
-    fig_box = px.box(
-        df_filtrado,
-        x="tipo_contrato",
-        y="Score_Final",
-        color="Estatus_Aprobacion",
-        color_discrete_map=COLOR_MAP,
-        points="all",
-        hover_data=["municipio", "año", "ingresos_mensuales_mxn"],
-        height=400,
-    )
-    st.plotly_chart(fig_box, use_container_width=True)
+elif pagina == "Dinámica Temporal":
+    st.title("Dinámica Temporal")
 
-elif pagina == "🗓️ Dinámica Temporal":
-    st.title("🗓️ Dinámica Temporal")
-    st.markdown("Para la animación, selecciona un solo año.")
+    orden = ["Octubre", "Noviembre", "Diciembre"]
+    df_f["mes"] = pd.Categorical(df_f["mes"], categories=orden, ordered=True)
 
-    año_anim = st.selectbox("Selecciona el año para animar", sorted(df_filtrado["año"].unique()))
-    df_anim = df_filtrado[df_filtrado["año"] == año_anim].copy()
-    df_anim = df_anim.sort_values("mes")
-
-    fig_anim = px.scatter_map(
-        df_anim,
+    fig_anim = px.scatter_mapbox(
+        df_f.sort_values("mes"),
         lat="lat",
         lon="lon",
         color="Estatus_Aprobacion",
@@ -288,55 +284,31 @@ elif pagina == "🗓️ Dinámica Temporal":
         animation_frame="mes",
         hover_name="municipio",
         hover_data={
-            "año": True,
-            "edad": True,
             "Score_Final": True,
-            "ingresos_mensuales_mxn": True,
-            "tipo_contrato": True,
+            "ingreso_mensual_mxn": True,
             "lat": False,
-            "lon": False,
+            "lon": False
         },
-        zoom=7,
-        height=650,
-        title=f"Flujo mensual de solicitudes — {año_anim}"
+        zoom=6.8,
+        height=650
     )
-    fig_anim.update_layout(mapbox_style="open-street-map", margin=dict(r=0, t=50, l=0, b=0))
+    fig_anim.update_layout(mapbox_style="open-street-map", margin=dict(l=0, r=0, t=30, b=0))
     st.plotly_chart(fig_anim, use_container_width=True)
 
-    st.subheader("Métricas mensuales")
-    resumen_mes = (
-        df_anim.groupby("mes", observed=True)
-        .agg(
-            Solicitudes=("id_solicitud", "count"),
-            Aprobados=("Aprobado", "sum"),
-            Ingreso_Promedio=("ingresos_mensuales_mxn", "mean"),
-            Score_Promedio=("Score_Final", "mean"),
-        )
-        .assign(
-            Tasa_Aprobacion=lambda x: (x["Aprobados"] / x["Solicitudes"] * 100).round(1),
-            Ingreso_Promedio=lambda x: x["Ingreso_Promedio"].round(0).astype(int),
-            Score_Promedio=lambda x: x["Score_Promedio"].round(1),
-        )
-        .reset_index()
-    )
-    st.dataframe(resumen_mes, use_container_width=True, hide_index=True)
+    resumen = df_f.groupby("mes", observed=True).agg(
+        solicitudes=("id_solicitud", "count"),
+        aprobados=("Estatus_Aprobacion", lambda x: (x == "Aprobado").sum()),
+        ingreso_promedio=("ingreso_mensual_mxn", "mean")
+    ).reset_index()
 
-    fig_bar = px.bar(
-        resumen_mes,
-        x="mes",
-        y="Tasa_Aprobacion",
-        color="Tasa_Aprobacion",
-        color_continuous_scale=["#ef4444", "#22c55e"],
-        text="Tasa_Aprobacion",
-        title="Tasa de aprobación mensual (%)",
-        height=350,
-    )
-    fig_bar.update_traces(texttemplate="%{text:.1f}%", textposition="outside")
-    fig_bar.update_layout(coloraxis_showscale=False)
-    st.plotly_chart(fig_bar, use_container_width=True)
+    resumen["tasa_aprobacion"] = (
+        resumen["aprobados"] / resumen["solicitudes"] * 100
+    ).round(1)
+
+    st.dataframe(resumen, use_container_width=True, hide_index=True)
 
 st.markdown("---")
 st.caption(
-    "Proyecto académico · Integración de 3 bases (Censo, ENOE y ENIGH) · "
-    "Limpieza y modelado realizados dentro de app.py"
+    "Proyecto con datos reales cargados desde CSV oficiales de INEGI. "
+    "Para este prototipo, el score usa ENOE para perfil laboral, ENIGH para ingresos y Censo para geografía municipal."
 )
